@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-07-19
-生成時刻: 16:17:25
+生成日: 2026-07-20
+生成時刻: 17:28:57
 
 おはようございます。
-今日は2026年7月19日、日曜日です。
+今日は2026年7月20日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、W杯 チケット価格高騰 試合直前 決勝は最低価格でも超高額。
-今回のワールドカップで物議を醸しているのが観戦チケットの価格の高騰です。一般の人たちにとって手の届かないほど高額なものになっています。チケット販売の仕組みと、高額になる理由は…
-NHK主要ニュースから、木が倒れ子ども含む複数人搬送 静岡 御殿場。
-警察によりますと、19日正午ごろ、静岡県御殿場市でグラウンドの付近にある木が倒れて、子どもを含む複数人が病院に搬送されたということです。グラウンドでは当時、少年団のサッカーの試合が行われていたというこ…
-NHK主要ニュースから、W杯 決勝の見どころ スペイン4大会ぶりか アルゼンチン連覇か。
-サッカーワールドカップ北中米大会は19日、日本時間20日に決勝が行われ、4大会ぶりの優勝を目指す世界ランキング2位のスペインと史上3チーム目の大会連覇をねらう世界1位のアルゼンチンが対戦します。決勝は…
-BBC Worldから、US and Iran exchange strikes after two US soldiers killed in Jordan。
-US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.
-NHK主要ニュースから、遊漁船火災 全員避難 けが人なし 神奈川 三浦。
-神奈川県三浦市の沖合で遊漁船から火が出て、海上保安部によりますと、乗っていた人たちは全員避難し、けが人はいないということです。
-NHK主要ニュースから、マンションで男性転落 巻き込まれた女性死亡 名古屋 栄。
-19日未明、名古屋市中心部のマンションから男性が転落し、近くを歩いていた20代くらいの女性が巻き込まれて死亡しました。警察によりますと、転落した男性も意識不明の重体だということで、警察は当時の状況を詳…
-BBC Worldから、Andrew Tate and brother arrested in US after more charges laid against them in UK。
-The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.
-BBC Worldから、Russians turn to cash, putting more strain on slowing wartime economy。
-Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.
-BBC Worldから、Hungary's president agrees to stand down after parliament backs removal。
-Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.
-TechCrunchから、Waymo says San Francisco service has resumed after one-hour pause。
-This isn’t the first time power outages have caused issues for Waymo.
-TechCrunchから、Kimi: Threat or menace?。
-Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about "full AI communism."
-TechCrunchから、All the EVs that were discontinued or killed off in the U.S. this year。
-Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.
+NHK主要ニュースから、高校野球 去年全国制覇の沖縄尚学など3校が甲子園出場決定。
+夏の全国高校野球は20日、北北海道、宮崎、沖縄で3校が甲子園出場を決めました。
+NHK主要ニュースから、栃木 足利 記録的大雨 倒壊住宅で死亡の2人は60代夫婦と確認。
+18日未明にかけての記録的な大雨によって、栃木県足利市では住宅が倒壊して2人が死亡していて、市は20日、亡くなったのはこの家に住んでいた60代の夫婦と確認されたと発表しました。
+NHK主要ニュースから、陸自 朝霞駐屯地で火事 ごみ置き場など焼ける けが人なし。
+20日昼前、埼玉県と東京都にまたがる陸上自衛隊朝霞駐屯地で火事があり、敷地内のごみ置き場などが焼けましたが、けが人はいませんでした。
+NHK主要ニュースから、スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す。
+サッカーワールドカップ北中米大会は決勝が行われ、スペインが延長戦のすえ、アルゼンチンに1対0で勝って4大会ぶり2回目の優勝を果たしました。記事後半では、試合のデータや、詳しい経過もお伝えしています。
+BBC Worldから、Food delivery rider wins China's top literary prize。
+Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.
+NHK主要ニュースから、マンション転落 巻き込まれ死亡の女性は食事後帰宅途中 名古屋。
+19日、名古屋市中心部の歩道で20代の女性がマンションから転落した男性に巻き込まれて死亡した事故で、女性は当時、友人と食事を終えて帰宅する途中だったことが警察への取材でわかりました。男性はマンションの…
+BBC Worldから、Norway opens new memorial for victims of 2011 massacre。
+The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.
+TechCrunchから、Netflix paid $587M for Ben Affleck’s AI filmmaking startup。
+Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.
+TechCrunchから、What to watch for after Jensen Huang’s Japan visit。
+Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.
+BBC Worldから、US soldier killed and one injured after Iranian attack in Iraq。
+The US military reports another death a day after two of its soldiers were killed in Jordan.
+TechCrunchから、Can an Apple lawsuit derail OpenAI’s hardware plans?。
+On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.
+BBC Worldから、Russia launches major ballistic missile attack on Ukrainian cities。
+Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
