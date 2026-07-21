@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-07-20
-生成時刻: 17:28:57
+生成日: 2026-07-21
+生成時刻: 16:40:44
 
 おはようございます。
-今日は2026年7月20日、月曜日です。
+今日は2026年7月21日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、高校野球 去年全国制覇の沖縄尚学など3校が甲子園出場決定。
-夏の全国高校野球は20日、北北海道、宮崎、沖縄で3校が甲子園出場を決めました。
-NHK主要ニュースから、栃木 足利 記録的大雨 倒壊住宅で死亡の2人は60代夫婦と確認。
-18日未明にかけての記録的な大雨によって、栃木県足利市では住宅が倒壊して2人が死亡していて、市は20日、亡くなったのはこの家に住んでいた60代の夫婦と確認されたと発表しました。
-NHK主要ニュースから、陸自 朝霞駐屯地で火事 ごみ置き場など焼ける けが人なし。
-20日昼前、埼玉県と東京都にまたがる陸上自衛隊朝霞駐屯地で火事があり、敷地内のごみ置き場などが焼けましたが、けが人はいませんでした。
-NHK主要ニュースから、スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す。
-サッカーワールドカップ北中米大会は決勝が行われ、スペインが延長戦のすえ、アルゼンチンに1対0で勝って4大会ぶり2回目の優勝を果たしました。記事後半では、試合のデータや、詳しい経過もお伝えしています。
-BBC Worldから、Food delivery rider wins China's top literary prize。
-Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.
-NHK主要ニュースから、マンション転落 巻き込まれ死亡の女性は食事後帰宅途中 名古屋。
-19日、名古屋市中心部の歩道で20代の女性がマンションから転落した男性に巻き込まれて死亡した事故で、女性は当時、友人と食事を終えて帰宅する途中だったことが警察への取材でわかりました。男性はマンションの…
-BBC Worldから、Norway opens new memorial for victims of 2011 massacre。
-The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.
-TechCrunchから、Netflix paid $587M for Ben Affleck’s AI filmmaking startup。
-Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.
-TechCrunchから、What to watch for after Jensen Huang’s Japan visit。
-Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.
-BBC Worldから、US soldier killed and one injured after Iranian attack in Iraq。
-The US military reports another death a day after two of its soldiers were killed in Jordan.
-TechCrunchから、Can an Apple lawsuit derail OpenAI’s hardware plans?。
-On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.
-BBC Worldから、Russia launches major ballistic missile attack on Ukrainian cities。
-Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.
+NHK主要ニュースから、「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針。
+政府は21日、高市政権として初めての「骨太の方針」を決定しました。「強い経済」の実現に向け、新たな経済財政運営への抜本的な転換を図る方針を示したうえで、財政運営の目標として債務残高の対GDP比を安定的…
+NHK主要ニュースから、株価 2000円以上値上がり 半導体関連銘柄中心に買い注文広がる。
+連休明けの21日の東京株式市場、半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は2000円以上、値上がりしました。
+BBC Worldから、Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks。
+The duties mark a major escalation in trade tensions between the North American neighbours.
+BBC Worldから、US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers。
+The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.
+NHK主要ニュースから、イランへの攻撃「大統領が判断を下すまで続ける」米政府当局者。
+アメリカ軍は20日、10日連続となるイランへの攻撃を行いました。アメリカの政府当局者はNHKの取材に「壊滅的な攻撃は大統領が判断を下すまで続ける」と述べて攻撃は続くという見方を示していて、事態が収束す…
+NHK主要ニュースから、岐阜 愛知で40度超 初の「酷暑日」に 熱中症に厳重警戒。
+21日も各地で気温が上がり、岐阜県郡上市八幡では午後1時56分に40度ちょうどを観測し、「酷暑日」となりました。気象庁は、ことしから最高気温が40度以上となった日を「酷暑日」と呼ぶ運用を始めていて、こ…
+NHK主要ニュースから、中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認。
+防衛省は、中国海軍の艦艇が19日、小笠原諸島の沖ノ鳥島周辺の日本のEEZ＝排他的経済水域の内側で機関銃の射撃訓練を実施したのを確認したと発表しました。付近にはロシア海軍の艦艇も確認され、防衛省が警戒と…
+TechCrunchから、Anthropic’s landmark $1.5B copyright settlement is approved。
+The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.
+TechCrunchから、Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation。
+The de-extinction startup is looking to double or triple its previous valuation, according to the report.
+TechCrunchから、Trump’s latest AI czar has already resigned。
+The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.
+BBC Worldから、Yemen's Houthis announce 'maritime embargo' on Saudi Arabia。
+The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.
+TechCrunchから、Google is working on a new AI chip designed to make Gemini more efficient。
+Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
