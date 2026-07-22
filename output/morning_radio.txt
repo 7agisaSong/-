@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-07-21
-生成時刻: 16:40:44
+生成日: 2026-07-22
+生成時刻: 16:41:05
 
 おはようございます。
-今日は2026年7月21日、火曜日です。
+今日は2026年7月22日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針。
-政府は21日、高市政権として初めての「骨太の方針」を決定しました。「強い経済」の実現に向け、新たな経済財政運営への抜本的な転換を図る方針を示したうえで、財政運営の目標として債務残高の対GDP比を安定的…
-NHK主要ニュースから、株価 2000円以上値上がり 半導体関連銘柄中心に買い注文広がる。
-連休明けの21日の東京株式市場、半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は2000円以上、値上がりしました。
-BBC Worldから、Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks。
-The duties mark a major escalation in trade tensions between the North American neighbours.
-BBC Worldから、US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers。
-The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.
-NHK主要ニュースから、イランへの攻撃「大統領が判断を下すまで続ける」米政府当局者。
-アメリカ軍は20日、10日連続となるイランへの攻撃を行いました。アメリカの政府当局者はNHKの取材に「壊滅的な攻撃は大統領が判断を下すまで続ける」と述べて攻撃は続くという見方を示していて、事態が収束す…
-NHK主要ニュースから、岐阜 愛知で40度超 初の「酷暑日」に 熱中症に厳重警戒。
-21日も各地で気温が上がり、岐阜県郡上市八幡では午後1時56分に40度ちょうどを観測し、「酷暑日」となりました。気象庁は、ことしから最高気温が40度以上となった日を「酷暑日」と呼ぶ運用を始めていて、こ…
-NHK主要ニュースから、中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認。
-防衛省は、中国海軍の艦艇が19日、小笠原諸島の沖ノ鳥島周辺の日本のEEZ＝排他的経済水域の内側で機関銃の射撃訓練を実施したのを確認したと発表しました。付近にはロシア海軍の艦艇も確認され、防衛省が警戒と…
-TechCrunchから、Anthropic’s landmark $1.5B copyright settlement is approved。
-The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.
-TechCrunchから、Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation。
-The de-extinction startup is looking to double or triple its previous valuation, according to the report.
-TechCrunchから、Trump’s latest AI czar has already resigned。
-The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.
-BBC Worldから、Yemen's Houthis announce 'maritime embargo' on Saudi Arabia。
-The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.
-TechCrunchから、Google is working on a new AI chip designed to make Gemini more efficient。
-Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.
+NHK主要ニュースから、三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を。
+22日も各地で危険な暑さとなり、三重県桑名市や静岡県浜松市佐久間、岐阜県多治見市では気温が40度以上となり、「酷暑日」となりました。東海や関東甲信では、40度に迫る地点が相次いでいて、熱中症に厳重な警…
+BBC Worldから、More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say。
+Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight on Tuesday.
+NHK主要ニュースから、評論家 山田五郎さん死去 67歳 西洋美術などユーモア交え解説。
+西洋美術からファッション、雑学まで幅広い知識とユーモアを交えた語り口で親しまれた、評論家の山田五郎さんが7月14日、亡くなりました。67歳でした。
+NHK主要ニュースから、iPS細胞使った「リハート」保険適用へ 重い心臓病の治療に。
+重い心臓病の治療のためのiPS細胞を使った再生医療製品「リハート」について、中医協は、公的医療保険の適用対象とし、1回の治療にかかる価格を5320万円とすることを承認しました。
+NHK主要ニュースから、米オープンAI 高性能モデルが意図せず他社に攻撃と発表。
+生成AIの「ChatGPT」を手がけるアメリカの「オープンAI」は21日、開発中のAIモデルが、意図しない形で他社にサイバー攻撃をしかける事故が起きたと発表しました。会社は「前例のない事案だ」と危機感…
+BBC Worldから、Zelensky sacks Ukraine's top army commander after days of protests。
+Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.
+NHK主要ニュースから、オスよりおいしい? 土用の丑の日前にメスのウナギ出荷が最盛期。
+今月26日は土用の丑の日です。ウナギは一般的な養殖方法では成長するとほとんどがオスになりますが、愛知県の養殖場ではエサを工夫することでオスより皮や身が柔らかいメスに成長させる技術を導入していて、このメ…
+BBC Worldから、France passes law banning under-15s from social media。
+The law will require social media platforms in France to verify all users age from January.
+TechCrunchから、The Anthropic-Physical Intelligence rumor roiling AI Twitter。
+Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.
+BBC Worldから、US renews strikes on Iran as Trump threatens to attack underground nuclear site。
+The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.
+TechCrunchから、Dimension Capital’s $800M third fund shows the intersection of science and compute is booming。
+The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.
+TechCrunchから、Meta is testing an AI bedtime story app for people with no imagination。
+At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
