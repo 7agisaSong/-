@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-07-22
-生成時刻: 16:41:05
+生成日: 2026-07-23
+生成時刻: 15:46:09
 
 おはようございます。
-今日は2026年7月22日、水曜日です。
+今日は2026年7月23日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を。
-22日も各地で危険な暑さとなり、三重県桑名市や静岡県浜松市佐久間、岐阜県多治見市では気温が40度以上となり、「酷暑日」となりました。東海や関東甲信では、40度に迫る地点が相次いでいて、熱中症に厳重な警…
-BBC Worldから、More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say。
-Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight on Tuesday.
-NHK主要ニュースから、評論家 山田五郎さん死去 67歳 西洋美術などユーモア交え解説。
-西洋美術からファッション、雑学まで幅広い知識とユーモアを交えた語り口で親しまれた、評論家の山田五郎さんが7月14日、亡くなりました。67歳でした。
-NHK主要ニュースから、iPS細胞使った「リハート」保険適用へ 重い心臓病の治療に。
-重い心臓病の治療のためのiPS細胞を使った再生医療製品「リハート」について、中医協は、公的医療保険の適用対象とし、1回の治療にかかる価格を5320万円とすることを承認しました。
-NHK主要ニュースから、米オープンAI 高性能モデルが意図せず他社に攻撃と発表。
-生成AIの「ChatGPT」を手がけるアメリカの「オープンAI」は21日、開発中のAIモデルが、意図しない形で他社にサイバー攻撃をしかける事故が起きたと発表しました。会社は「前例のない事案だ」と危機感…
-BBC Worldから、Zelensky sacks Ukraine's top army commander after days of protests。
-Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.
-NHK主要ニュースから、オスよりおいしい? 土用の丑の日前にメスのウナギ出荷が最盛期。
-今月26日は土用の丑の日です。ウナギは一般的な養殖方法では成長するとほとんどがオスになりますが、愛知県の養殖場ではエサを工夫することでオスより皮や身が柔らかいメスに成長させる技術を導入していて、このメ…
-BBC Worldから、France passes law banning under-15s from social media。
-The law will require social media platforms in France to verify all users age from January.
-TechCrunchから、The Anthropic-Physical Intelligence rumor roiling AI Twitter。
-Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.
-BBC Worldから、US renews strikes on Iran as Trump threatens to attack underground nuclear site。
-The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.
-TechCrunchから、Dimension Capital’s $800M third fund shows the intersection of science and compute is booming。
-The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.
-TechCrunchから、Meta is testing an AI bedtime story app for people with no imagination。
-At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.
+NHK主要ニュースから、茂木外相と中国 王毅外相が接触 去年11月の関係悪化以降初めて。
+茂木外務大臣は、訪問先のフィリピンで記者団に対し、22日、中国の王毅外相と短時間、ことばを交わしたと明らかにしました。日中の外相が接触したのは両国の関係が悪化した去年11月以降初めてです。
+BBC Worldから、Russia's businesses under strain from Ukraine's attacks on Wildberries。
+Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.
+NHK主要ニュースから、静岡 浜松で41.1度 東海4県で「酷暑日」 熱中症に厳重警戒。
+23日も各地で気温が上がり、静岡県浜松市佐久間では気温が41.1度を観測し、ことしの最高気温を更新しました。東海の各地で40度以上の「酷暑日」となっているほか都内でも39度を超えるなど各地で危険な暑さ…
+TechCrunchから、ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push。
+ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.
+NHK主要ニュースから、和歌山 草刈り中の男性2人がため池に転落 病院搬送も死亡。
+23日午前、和歌山市の農業用のため池で草刈りをしていた男性2人が転落し、病院に搬送されましたが死亡しました。警察が当時の状況を調べています。
+NHK主要ニュースから、東電新会長が赤澤経産相と会談 “福島への責任貫徹が使命”。
+東京電力ホールディングスの新たな会長に就任した横尾敬介氏が赤澤経済産業大臣と会談し「福島への責任の貫徹が最大の使命であり原点だ」と述べ、福島第一原子力発電所の廃炉事業に着実に取り組む考えを示しました。
+BBC Worldから、Houthis claim attack on oil tankers as US launches more strikes on Iran。
+The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a "maritime embargo" against Saudi Arabia.
+NHK主要ニュースから、セブン-イレブン キャラ商品を販売日前買い占めなど不適切事例。
+コンビニ大手のセブン-イレブンは、アニメやゲームなどのキャラクター商品について、一部の店舗で店の関係者が販売日よりも前に大量に買い占めるなどの不適切な事例が確認されたとして、全国の店舗に向けて販売のル…
+BBC Worldから、US signs landmark nuclear deal with Saudi Arabia。
+The US Department of Energy says the "peaceful" co-operation agreement will give US firms "great access" to the Saudi nuclear energy programme.
+TechCrunchから、After shocking quarter, IBM insists that AI isn’t killing the mainframe。
+After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.
+TechCrunchから、Google justifies its massive AI spending with a booming cloud business。
+Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.
+BBC Worldから、Fire kills 10 members of same family in Peru, police say。
+Authorities are investigating the cause of the blaze in Lima as local media report it may have been arson.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
