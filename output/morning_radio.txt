@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-07-23
-生成時刻: 15:46:09
+生成日: 2026-07-24
+生成時刻: 15:43:25
 
 おはようございます。
-今日は2026年7月23日、木曜日です。
+今日は2026年7月24日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、茂木外相と中国 王毅外相が接触 去年11月の関係悪化以降初めて。
-茂木外務大臣は、訪問先のフィリピンで記者団に対し、22日、中国の王毅外相と短時間、ことばを交わしたと明らかにしました。日中の外相が接触したのは両国の関係が悪化した去年11月以降初めてです。
-BBC Worldから、Russia's businesses under strain from Ukraine's attacks on Wildberries。
-Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.
-NHK主要ニュースから、静岡 浜松で41.1度 東海4県で「酷暑日」 熱中症に厳重警戒。
-23日も各地で気温が上がり、静岡県浜松市佐久間では気温が41.1度を観測し、ことしの最高気温を更新しました。東海の各地で40度以上の「酷暑日」となっているほか都内でも39度を超えるなど各地で危険な暑さ…
-TechCrunchから、ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push。
-ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.
-NHK主要ニュースから、和歌山 草刈り中の男性2人がため池に転落 病院搬送も死亡。
-23日午前、和歌山市の農業用のため池で草刈りをしていた男性2人が転落し、病院に搬送されましたが死亡しました。警察が当時の状況を調べています。
-NHK主要ニュースから、東電新会長が赤澤経産相と会談 “福島への責任貫徹が使命”。
-東京電力ホールディングスの新たな会長に就任した横尾敬介氏が赤澤経済産業大臣と会談し「福島への責任の貫徹が最大の使命であり原点だ」と述べ、福島第一原子力発電所の廃炉事業に着実に取り組む考えを示しました。
-BBC Worldから、Houthis claim attack on oil tankers as US launches more strikes on Iran。
-The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a "maritime embargo" against Saudi Arabia.
-NHK主要ニュースから、セブン-イレブン キャラ商品を販売日前買い占めなど不適切事例。
-コンビニ大手のセブン-イレブンは、アニメやゲームなどのキャラクター商品について、一部の店舗で店の関係者が販売日よりも前に大量に買い占めるなどの不適切な事例が確認されたとして、全国の店舗に向けて販売のル…
-BBC Worldから、US signs landmark nuclear deal with Saudi Arabia。
-The US Department of Energy says the "peaceful" co-operation agreement will give US firms "great access" to the Saudi nuclear energy programme.
-TechCrunchから、After shocking quarter, IBM insists that AI isn’t killing the mainframe。
-After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.
-TechCrunchから、Google justifies its massive AI spending with a booming cloud business。
-Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.
-BBC Worldから、Fire kills 10 members of same family in Peru, police say。
-Authorities are investigating the cause of the blaze in Lima as local media report it may have been arson.
+BBC Worldから、US hits dozens of trading partners with new wave of tariffs。
+Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.
+NHK主要ニュースから、岐阜 三重で40度超 酷暑日国内で4日連続 関東など大雨のおそれ。
+24日も東海から九州を中心に気温が上がり岐阜県と三重県では40度以上を観測して「酷暑日」となりました。国内で「酷暑日」となるのは4日連続で、各地で危険な暑さとなっていて熱中症に厳重に警戒してください。…
+NHK主要ニュースから、SNS上の不適切投稿めぐり総務省が事業者5社に勧告。
+総務省は、SNS上の不適切な投稿に対する運営事業者の対応について、事業者側が公表した内容が不十分だったとして、グーグルやXなど合わせて5社に勧告を行ったと発表しました。
+NHK主要ニュースから、小泉防衛相 核議論めぐる発言 あらゆる選択肢排除せずの趣旨。
+小泉防衛大臣は、核をめぐる議論も必要だとする認識を示したみずからの発言について、国民の命と平和な暮らしを守り抜くため、あらゆる選択肢を排除せず議論していくことが重要だという趣旨だと説明しました。
+NHK主要ニュースから、南鳥島沖 海底レアアースの分析結果発表 内閣府プロジェクト。
+ことし2月、南鳥島沖の海底から、レアアースを含んだ泥を引き上げることに成功した内閣府のプロジェクトは、24日、会見を開き、泥の成分を分析した結果、ハイテク製品に不可欠な希少なレアアースが含まれていたと…
+NHK主要ニュースから、トランプ政権 新追加関税を発動 日本は既存税率あわせ12.5％。
+アメリカのトランプ政権は、日本を含む主要な60の貿易相手の国や地域を対象に、日本時間の24日午後1時すぎ、新たな追加関税を発動しました。日本からの輸入品には、既存の関税率とあわせて12.5％の関税を課…
+TechCrunchから、How AI guardrails are impeding the work of offensive cybersecurity researchers。
+We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.
+TechCrunchから、Meet the judges who will crown Australia’s next breakout startup。
+TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.
+BBC Worldから、Indonesian babies were trafficked to Singapore. What happens to them now?。
+At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.
+TechCrunchから、Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics。
+Shashua has been invited to take the chairman of the board seat.
+TechCrunchから、AMD takes on Nvidia with its Helios AI rack-scale system。
+AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.
+TechCrunchから、Patreon lays off 20% of its workforce。
+In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
