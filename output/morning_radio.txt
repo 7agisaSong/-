@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-07-24
-生成時刻: 15:43:25
+生成日: 2026-07-25
+生成時刻: 15:36:09
 
 おはようございます。
-今日は2026年7月24日、金曜日です。
+今日は2026年7月25日、土曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、US hits dozens of trading partners with new wave of tariffs。
-Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.
-NHK主要ニュースから、岐阜 三重で40度超 酷暑日国内で4日連続 関東など大雨のおそれ。
-24日も東海から九州を中心に気温が上がり岐阜県と三重県では40度以上を観測して「酷暑日」となりました。国内で「酷暑日」となるのは4日連続で、各地で危険な暑さとなっていて熱中症に厳重に警戒してください。…
-NHK主要ニュースから、SNS上の不適切投稿めぐり総務省が事業者5社に勧告。
-総務省は、SNS上の不適切な投稿に対する運営事業者の対応について、事業者側が公表した内容が不十分だったとして、グーグルやXなど合わせて5社に勧告を行ったと発表しました。
-NHK主要ニュースから、小泉防衛相 核議論めぐる発言 あらゆる選択肢排除せずの趣旨。
-小泉防衛大臣は、核をめぐる議論も必要だとする認識を示したみずからの発言について、国民の命と平和な暮らしを守り抜くため、あらゆる選択肢を排除せず議論していくことが重要だという趣旨だと説明しました。
-NHK主要ニュースから、南鳥島沖 海底レアアースの分析結果発表 内閣府プロジェクト。
-ことし2月、南鳥島沖の海底から、レアアースを含んだ泥を引き上げることに成功した内閣府のプロジェクトは、24日、会見を開き、泥の成分を分析した結果、ハイテク製品に不可欠な希少なレアアースが含まれていたと…
-NHK主要ニュースから、トランプ政権 新追加関税を発動 日本は既存税率あわせ12.5％。
-アメリカのトランプ政権は、日本を含む主要な60の貿易相手の国や地域を対象に、日本時間の24日午後1時すぎ、新たな追加関税を発動しました。日本からの輸入品には、既存の関税率とあわせて12.5％の関税を課…
-TechCrunchから、How AI guardrails are impeding the work of offensive cybersecurity researchers。
-We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.
-TechCrunchから、Meet the judges who will crown Australia’s next breakout startup。
-TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.
-BBC Worldから、Indonesian babies were trafficked to Singapore. What happens to them now?。
-At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.
-TechCrunchから、Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics。
-Shashua has been invited to take the chairman of the board seat.
-TechCrunchから、AMD takes on Nvidia with its Helios AI rack-scale system。
-AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.
-TechCrunchから、Patreon lays off 20% of its workforce。
-In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.
+NHK主要ニュースから、5日連続「酷暑日」 2010年以降で最長 より一層の熱中症対策を。
+25日も東日本と西日本を中心に気温が上がって、東海では40度以上の「酷暑日」となっているところがあります。国内で40度以上の気温が観測されたのは25日で5日連続と最も長くなっています。熱中症への対策を…
+NHK主要ニュースから、ドジャース 佐々木朗希 7回1失点で4勝目 大谷も2安打1打点。
+大リーグ、ドジャースの佐々木朗希投手がメッツ戦に先発登板し、9つの三振を奪う力投で7回を1失点に抑えて今シーズン4勝目を挙げました。大谷翔平選手は勝ち越しの犠牲フライとヒット2本もマークしてチームの3…
+NHK主要ニュースから、米大統領「イラン側と話し合っている」出方見極めたい考え示す。
+イラン情勢をめぐり、アメリカのトランプ大統領は24日、「現在、イラン側と話し合っている。協議を続けながら、どのような結果になるかをみてみる」と述べ、イラン側の出方を見極めたい考えを示しました。アメリカ…
+NHK主要ニュースから、ブルージェイズ 岡本和真 23号HR 大リーグ1年目の日本選手最多。
+大リーグ、ブルージェイズの岡本和真選手が24日、レッドソックス戦に3番・サードで出場し、7回に23号のスリーランホームランを打ちました。大リーグ1年目の日本選手では大谷翔平選手がエンジェルス時代の20…
+BBC Worldから、More than 220,000 evacuated in France and Spain due to wildfires。
+French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the "worst fire in the history of the region".
+BBC Worldから、Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion。
+Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.
+NHK主要ニュースから、横綱 豊昇龍が名古屋場所を休場 13日目までに6敗。
+大相撲の横綱 豊昇龍が名古屋場所14日目の25日から休場することになりました。
+TechCrunchから、I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else。
+OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
+BBC Worldから、Ten killed in Russian attack on drone exhibition near Kyiv。
+The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.
+TechCrunchから、SpaceX launches new V3 Starlink satellites but suffers another booster failure。
+The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.
+BBC Worldから、Zelensky tries to fix crisis over removal of defence minister and counts the cost。
+Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.
+BBC Worldから、Four Palestinians and two Israelis killed in West Bank shooting。
+Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
