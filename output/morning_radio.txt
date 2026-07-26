@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-07-25
-生成時刻: 15:36:09
+生成日: 2026-07-26
+生成時刻: 16:45:11
 
 おはようございます。
-今日は2026年7月25日、土曜日です。
+今日は2026年7月26日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、5日連続「酷暑日」 2010年以降で最長 より一層の熱中症対策を。
-25日も東日本と西日本を中心に気温が上がって、東海では40度以上の「酷暑日」となっているところがあります。国内で40度以上の気温が観測されたのは25日で5日連続と最も長くなっています。熱中症への対策を…
-NHK主要ニュースから、ドジャース 佐々木朗希 7回1失点で4勝目 大谷も2安打1打点。
-大リーグ、ドジャースの佐々木朗希投手がメッツ戦に先発登板し、9つの三振を奪う力投で7回を1失点に抑えて今シーズン4勝目を挙げました。大谷翔平選手は勝ち越しの犠牲フライとヒット2本もマークしてチームの3…
-NHK主要ニュースから、米大統領「イラン側と話し合っている」出方見極めたい考え示す。
-イラン情勢をめぐり、アメリカのトランプ大統領は24日、「現在、イラン側と話し合っている。協議を続けながら、どのような結果になるかをみてみる」と述べ、イラン側の出方を見極めたい考えを示しました。アメリカ…
-NHK主要ニュースから、ブルージェイズ 岡本和真 23号HR 大リーグ1年目の日本選手最多。
-大リーグ、ブルージェイズの岡本和真選手が24日、レッドソックス戦に3番・サードで出場し、7回に23号のスリーランホームランを打ちました。大リーグ1年目の日本選手では大谷翔平選手がエンジェルス時代の20…
-BBC Worldから、More than 220,000 evacuated in France and Spain due to wildfires。
-French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the "worst fire in the history of the region".
-BBC Worldから、Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion。
-Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.
-NHK主要ニュースから、横綱 豊昇龍が名古屋場所を休場 13日目までに6敗。
-大相撲の横綱 豊昇龍が名古屋場所14日目の25日から休場することになりました。
-TechCrunchから、I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else。
-OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
-BBC Worldから、Ten killed in Russian attack on drone exhibition near Kyiv。
-The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.
-TechCrunchから、SpaceX launches new V3 Starlink satellites but suffers another booster failure。
-The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.
-BBC Worldから、Zelensky tries to fix crisis over removal of defence minister and counts the cost。
-Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.
-BBC Worldから、Four Palestinians and two Israelis killed in West Bank shooting。
-Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.
+BBC Worldから、France battles fire 'whirlwinds' as another 55,000 evacuated。
+More than 340,000 people have now been evacuated from wildfires in France and Spain.
+NHK主要ニュースから、新潟や東北中心に大雨 関東も激しい雷雨に 西日本では39度超も。
+前線の影響で、新潟県や東北を中心に大雨となっていて、土砂災害や低い土地の浸水などに厳重な警戒が必要です。一方、26日も西日本と東日本を中心に気温が上がり、各地で38度を超える危険な暑さとなっていて、引…
+NHK主要ニュースから、落雷で電柱から火花 東京 世田谷。
+26日午後1時前に東京 世田谷区で撮影された映像です。マンションから住宅街を撮影した映像には、強い雨が降る中、突然、雷が落ちて大きな音とともに電柱から火花が飛び散る様子が収められています。撮影した50…
+NHK主要ニュースから、ドジャース 山本由伸 日米通算100勝に到達。
+大リーグ、ドジャースの山本由伸投手がメッツ戦に先発登板し、6回を1失点に抑えて、今シーズン11勝目をあげました。大リーグ通算30勝目で、プロ野球のオリックス時代にあげた70勝と合わせて日米通算100勝…
+NHK主要ニュースから、「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に。
+奈良県内の飛鳥時代の遺跡群、「飛鳥・藤原の宮都」が世界文化遺産として登録されることが、韓国で開かれたユネスコの世界遺産委員会で決まりました。今回の決定で、日本国内の世界遺産は文化遺産と自然遺産をあわせ…
+NHK主要ニュースから、相模原 障害者施設殺傷事件から10年 多くの人が献花し追悼。
+相模原市の知的障害者施設で19人が殺害された事件から、26日で10年です。現場に再建された施設には朝から多くの人が訪れ、花を手向けて犠牲になった人たちを追悼しています。
+TechCrunchから、Monday.com is the latest tech company to blame AI for layoffs — here are 20 others。
+A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
+TechCrunchから、Warner Bros. lawsuit accuses Amazon of illegally poaching executives。
+The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law
+TechCrunchから、The hacker who humiliated spyware makers and was never caught。
+An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?
+TechCrunchから、Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation。
+Elon Musk's tunneling startup is reportedly in talks for a major new funding round.
+BBC Worldから、India's 'cockroach' protest called off after education minister quits。
+The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.
+TechCrunchから、Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary。
+Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
