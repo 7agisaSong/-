@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-07-27
-生成時刻: 19:55:14
+生成日: 2026-07-28
+生成時刻: 16:46:43
 
 おはようございます。
-今日は2026年7月27日、月曜日です。
+今日は2026年7月28日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、作家 東野圭吾さん 68歳で死去 「容疑者Xの献身」「白夜行」。
-「容疑者Xの献身」や「白夜行」など、数々のベストセラー小説で知られる直木賞作家の東野圭吾さんが、大腸がんのため、今月23日に亡くなりました。68歳でした。
-BBC Worldから、Three dead and several injured in shooting at food festival near Seattle's Space Needle。
-Police say two suspects were shooting at each other and one of them is in custody and one at large.
-BBC Worldから、Oil price dives as US and Iran pause attacks。
-The US says attacks on Iran have been halted to give "talks some space", raising hopes of a resolution to the conflict.
-NHK主要ニュースから、東北から九州にかけて大気が非常に不安定 静岡では猛烈な雨も。
-湿った空気の影響で、東北から九州にかけての広い範囲で大気の状態が非常に不安定になり、静岡県では夕方に猛烈な雨が降るなど、各地で雨雲が発達しています。27日夜遅くにかけては局地的に非常に激しい雨が降るお…
-NHK主要ニュースから、西日本・東海で気温上昇 九州で統計開始以降 初めて40度以上に。
-27日は西日本と東海を中心に気温が上がり、大分県日田市では最高気温が40度ちょうどを観測し、九州では統計開始以降、初めて40度以上となりました。28日も西日本を中心に危険な暑さが続く見込みで、引き続き…
-MusicRadarから、"I pulled up the sound, played this chord and thought, 'whoa, I’ve never heard a crazy organ sound like that before'”: Rogét Chahayed on how a Kontakt preset based on a '90s Casio toy keyboard made th…。
-From the eerie opening of Scott's biggest hit to Bruno Mars and Rosé's record-breaking APT., Rogét Chahayed breaks down the stories behind some of the most successful songs he's worked on
-NHK主要ニュースから、長野 伊那付近で記録的な大雨 災害の危険迫る。
-気象庁によりますと、長野県の伊那付近ではレーダーによる解析で午後7時10分までの1時間におよそ100ミリの猛烈な雨が降ったとみられます。災害の危険が迫っていることから、気象庁は「記録的短時間大雨」の気…
-NHK主要ニュースから、“消費税減税 速やかに法案提出”高市首相会見 公約実現を強調。
-国会の閉会を受けて、高市総理大臣は27日夜に記者会見し、食料品の消費税減税について「国民会議」のとりまとめを受けて速やかに法案を提出する方針を示しました。また、先の衆議院選挙で訴えた公約の実現に引き続…
-TechCrunchから、Europe got its own TBPN-style live show, and everyone’s angling for a guest spot。
-On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. With this fresh capital, the network is announcing its largest expansion yet.
-BBC Worldから、Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat。
-Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.
-MusicRadarから、"It’s trivialised multitrack recording in the field in a number of ways, most impressively through its diminutive form factor": Tascam FR-AV4 field recorder review。
-The Tascam FR-AV4 is a location-shooting dream of a field recorder, with some serious I/O and some incredibly quiet preamps
-BBC Worldから、UK PM pledges continued support for Ukraine ahead of Zelensky visit。
-The Ukrainian president will be Andy Burnham's first international visitor since taking office.
+NHK主要ニュースから、【地震】 JR九州 九州のすべての列車の運転を見合わせ。
+JR九州によりますと、地震の影響で九州新幹線を含む九州のすべての列車の運転を見合わせているということです。
+NHK主要ニュースから、【津波速報】有明・八代海に津波注意報。
+２８日午後４時２７分ごろ地震がありました。震源地は熊本県熊本地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは７．１と推定されます。気象庁は津波注意報を発表しました。津波注意報が出ているのは…
+NHK主要ニュースから、木原官房長官 午後5時半めどに臨時記者会見へ。
+今回の地震を受けて、政府は、木原官房長官が午後5時半をめどに臨時の記者会見を行うと発表しました。
+NHK主要ニュースから、【地震速報】熊本県熊本地方で震度７ 津波注意報 気象庁。
+２８日午後４時２７分ごろ地震がありました。気象庁は津波注意報を発表しました。▼有明・八代海（予想高さ １ｍ）現在、震度３以上が観測されている地域は以下のとおりです。▼震度７が、熊本県熊本地方。▼震度６…
+NHK主要ニュースから、【ライブ】熊本で震度7 各地の様子。
+２８日午後４時２７分ごろ地震がありました。気象庁は津波注意報を発表しました。現在、震度３以上が観測されている地域は以下のとおりです。▼震度７が、熊本県熊本地方。▼震度６弱が、熊本県天草・芦北。▼震度５…
+BBC Worldから、On the front line of Ecuador's drugs war, police fight gangs, guns and corruption。
+The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.
+TechCrunchから、Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing。
+Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.
+BBC Worldから、Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits。
+The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.
+BBC Worldから、US singer D4vd to go on trial for murder in death of 14-year-old。
+The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.
+TechCrunchから、Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI。
+Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.
+BBC Worldから、China's new challenge as natural disasters strike - fake AI videos。
+Storms and flooding incidents over the last few months have seen fake videos inundating social media.
+TechCrunchから、Satya Nadella says companies that trust one AI for everything may not survive。
+Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
