@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-07-28
-生成時刻: 16:46:43
+生成日: 2026-07-29
+生成時刻: 17:01:21
 
 おはようございます。
-今日は2026年7月28日、火曜日です。
+今日は2026年7月29日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、【地震】 JR九州 九州のすべての列車の運転を見合わせ。
-JR九州によりますと、地震の影響で九州新幹線を含む九州のすべての列車の運転を見合わせているということです。
-NHK主要ニュースから、【津波速報】有明・八代海に津波注意報。
-２８日午後４時２７分ごろ地震がありました。震源地は熊本県熊本地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは７．１と推定されます。気象庁は津波注意報を発表しました。津波注意報が出ているのは…
-NHK主要ニュースから、木原官房長官 午後5時半めどに臨時記者会見へ。
-今回の地震を受けて、政府は、木原官房長官が午後5時半をめどに臨時の記者会見を行うと発表しました。
-NHK主要ニュースから、【地震速報】熊本県熊本地方で震度７ 津波注意報 気象庁。
-２８日午後４時２７分ごろ地震がありました。気象庁は津波注意報を発表しました。▼有明・八代海（予想高さ １ｍ）現在、震度３以上が観測されている地域は以下のとおりです。▼震度７が、熊本県熊本地方。▼震度６…
-NHK主要ニュースから、【ライブ】熊本で震度7 各地の様子。
-２８日午後４時２７分ごろ地震がありました。気象庁は津波注意報を発表しました。現在、震度３以上が観測されている地域は以下のとおりです。▼震度７が、熊本県熊本地方。▼震度６弱が、熊本県天草・芦北。▼震度５…
-BBC Worldから、On the front line of Ecuador's drugs war, police fight gangs, guns and corruption。
-The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.
-TechCrunchから、Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing。
-Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.
-BBC Worldから、Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits。
-The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.
-BBC Worldから、US singer D4vd to go on trial for murder in death of 14-year-old。
-The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.
-TechCrunchから、Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI。
-Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.
-BBC Worldから、China's new challenge as natural disasters strike - fake AI videos。
-Storms and flooding incidents over the last few months have seen fake videos inundating social media.
-TechCrunchから、Satya Nadella says companies that trust one AI for everything may not survive。
-Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.
+NHK主要ニュースから、【ライブ配信中】イオン社長会見 「3人死亡 1人心肺停止」。
+「イオンモール熊本」で起きた地震のあとの爆発について、イオンの吉田昭夫社長とイオンモールの大野惠司社長が午後4時半から熊本市内で会見し、爆発によって3人が死亡、1人が心肺停止、3人が安否不明になってい…
+NHK主要ニュースから、日本製紙 八代工場で5人死亡 2人けが 4人が安否不明。
+熊本県によりますと今回の地震で、煙突が倒壊するなどの被害が出た熊本県八代市の日本製紙の八代工場では、29日午後2時の時点で11人が閉じ込められ、7人が救助されました。救助された7人のうち、5人が死亡し…
+NHK主要ニュースから、【熊本県まとめ】12人死亡 6人心肺停止 少なくとも4人安否不明。
+熊本県は29日午後4時すぎから今回の地震の災害対策本部会議を開き、現時点で12人が死亡し、6人が心肺停止、62人がけがをしたと明らかにしました。このほか少なくとも4人が安否不明となっているということで…
+NHK主要ニュースから、【上空映像】震度7 熊本 氷川町 被害の状況は？。
+震度7の揺れを観測した熊本県氷川町では多くの建物が倒壊していて、消防や警察が救助活動を続けています。
+NHK主要ニュースから、【動画】イオンモール熊本の内部をドローン撮影 陸上自衛隊。
+陸上自衛隊が、29日午後3時半ごろ、ドローンを使って「イオンモール熊本」の内部を撮影した映像です。がれきが床一面に散乱しているほか、建物の骨組みのようなものも確認できます。
+BBC Worldから、Saudi Arabia joins US in strikes on Iran-backed militia。
+US Central Command says the proxy group launched attacks against US bases and Saudi energy infrastructure.
+BBC Worldから、Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake。
+At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.
+BBC Worldから、Four women accuse Jared Leto of criminal sexual conduct。
+The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.
+BBC Worldから、Trump administration bans new Chinese humanoid robots。
+The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
+TechCrunchから、Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents。
+The deal is Cyera's third acquisition this year.
+BBC Worldから、How Mexican drug cartels have outsourced meth labs to Nigeria。
+West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.
+TechCrunchから、Bot-detection startup Spur nabs $200M from Insight。
+Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
