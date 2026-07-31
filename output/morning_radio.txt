@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-07-30
-生成時刻: 16:40:18
+生成日: 2026-07-31
+生成時刻: 17:18:45
 
 おはようございます。
-今日は2026年7月30日、木曜日です。
+今日は2026年7月31日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、イオンモール熊本 7人死亡 5人けが 捜索続く 熊本県。
-熊本県によりますと、今回の地震のあと爆発があった嘉島町の「イオンモール熊本」では、これまでに12人が救助され、このうち7人が死亡し、5人がけがをしました。現場では引き続き取り残された人がいないか、捜索…
-NHK主要ニュースから、【中継】熊本地震 関連調査中含め34人死亡 県災害対策本部発表。
-熊本県は30日午後4時から災害対策本部会議を開き、今回の地震で県内では災害との関連を調査している人も含めて、34人が死亡したと発表しました。
-NHK主要ニュースから、熊本地震 災害関連調査中を含め死者30人に 高市首相。
-高市総理大臣は今回の地震で30日午後0時半時点で、災害との関連を調査している人も含めて、死亡した人が30人にのぼっていると明らかにしました。また、被災者の熱中症対策をはじめ猛暑を踏まえた支援が重要だと…
-NHK主要ニュースから、食料品消費税 来年4月から2年間 1％ 高市首相が役員会で表明。
-食料品の消費税減税をめぐり、高市総理大臣は自民党の臨時役員会に出席し、来年4月から2年間、税率を1％に引き下げ、あわせて中低所得の人への給付を行い実質ゼロとする方針を表明しました。その上で来月上旬まで…
-NHK主要ニュースから、日本製紙 八代工場 8人死亡 2人けが 1人安否不明 熊本県。
-地震で煙突が倒壊するなどした熊本県八代市にある日本製紙の八代工場では、30日朝までに新たに3人が救助されましたが死亡が確認され、亡くなったのは8人となりました。今も1人の安否がわかっておらず救助活動が…
-BBC Worldから、US launches 'heavy' strikes on Iran after attempted attack on American troops。
-After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.
-BBC Worldから、Three Greek firefighters die as wildfires threaten parts of southern Europe。
-Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.
-TechCrunchから、Microsoft is openly competing with OpenAI, Anthropic more than ever。
-Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.
-TechCrunchから、Mark Zuckerberg predicts that billions of people will have personal AI agents in five years。
-As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.
-TechCrunchから、Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag。
-When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.
-TechCrunchから、Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents。
-On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.
-TechCrunchから、Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026。
-At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
+OpenAI Newsから、Advancing responsible AI across Europe。
+OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.
+BBC Worldから、Spain sending troops as thousands enter enclave of Ceuta from Morocco。
+At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.
+NHK主要ニュースから、【被害状況】熊本地震 関連調査中含め35人死亡 熊本県発表。
+熊本県は、今回の地震で県内では災害との関連を調査している1人を含めて35人が死亡し、9100人余りが避難していることなどを発表しました。
+NHK主要ニュースから、【地震速報】熊本 宇土で震度3（16:50）津波の心配なし。
+31日午後4時50分ごろ地震がありました。この地震による津波の心配はありません。震源地は熊本県熊本地方で震源の深さは10キロ、地震の規模を示すマグニチュードは3.7と推定されます。各市町村の震度は以下…
+NHK主要ニュースから、日銀 政策金利を1％程度に据え置き決定。
+日銀は、31日まで開いた金融政策決定会合で、今の政策を維持することを決めました。6月、利上げに踏み切ったばかりで、家計や企業への影響を見極める必要があると判断したとみられます。
+BBC Worldから、AC Milan and Italy great Baresi dies aged 66。
+AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.
+BBC Worldから、Hamas says it has agreed to disarm after Trump announces Board of Peace plan。
+A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.
+NHK主要ニュースから、UEFA “計画撤回されなければW杯参加せず” FIFAを非難。
+FIFA＝国際サッカー連盟が外部からの投資を募り商業活動と大会の運営事業を担う新たな子会社を設立する計画を発表したことについて、UEFA＝ヨーロッパサッカー連盟と加盟する55のサッカー協会は計画が撤回…
+BBC Worldから、UK rapper Yung Filly found not guilty of raping woman after Australian show。
+The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.
+BBC Worldから、If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war。
+The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.
+NHK主要ニュースから、熊本で震度7 同程度の地震に注意 熱中症対策を。
+7月28日、最大震度7の揺れを観測し、大きな被害が出ている熊本県では30日も揺れを感じる地震が54回観測されるなど、地震活動が活発な状態が続いています。気象庁は1週間ほどは最大震度7程度の地震に注意す…
+TechCrunchから、Anthropic says its own AI models breached three companies during security tests。
+After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
