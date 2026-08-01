@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-07-31
-生成時刻: 17:18:45
+生成日: 2026-08-01
+生成時刻: 15:48:30
 
 おはようございます。
-今日は2026年7月31日、金曜日です。
+今日は2026年8月1日、土曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-OpenAI Newsから、Advancing responsible AI across Europe。
-OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.
-BBC Worldから、Spain sending troops as thousands enter enclave of Ceuta from Morocco。
-At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.
-NHK主要ニュースから、【被害状況】熊本地震 関連調査中含め35人死亡 熊本県発表。
-熊本県は、今回の地震で県内では災害との関連を調査している1人を含めて35人が死亡し、9100人余りが避難していることなどを発表しました。
-NHK主要ニュースから、【地震速報】熊本 宇土で震度3（16:50）津波の心配なし。
-31日午後4時50分ごろ地震がありました。この地震による津波の心配はありません。震源地は熊本県熊本地方で震源の深さは10キロ、地震の規模を示すマグニチュードは3.7と推定されます。各市町村の震度は以下…
-NHK主要ニュースから、日銀 政策金利を1％程度に据え置き決定。
-日銀は、31日まで開いた金融政策決定会合で、今の政策を維持することを決めました。6月、利上げに踏み切ったばかりで、家計や企業への影響を見極める必要があると判断したとみられます。
-BBC Worldから、AC Milan and Italy great Baresi dies aged 66。
-AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.
-BBC Worldから、Hamas says it has agreed to disarm after Trump announces Board of Peace plan。
-A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.
-NHK主要ニュースから、UEFA “計画撤回されなければW杯参加せず” FIFAを非難。
-FIFA＝国際サッカー連盟が外部からの投資を募り商業活動と大会の運営事業を担う新たな子会社を設立する計画を発表したことについて、UEFA＝ヨーロッパサッカー連盟と加盟する55のサッカー協会は計画が撤回…
-BBC Worldから、UK rapper Yung Filly found not guilty of raping woman after Australian show。
-The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.
-BBC Worldから、If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war。
-The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.
-NHK主要ニュースから、熊本で震度7 同程度の地震に注意 熱中症対策を。
-7月28日、最大震度7の揺れを観測し、大きな被害が出ている熊本県では30日も揺れを感じる地震が54回観測されるなど、地震活動が活発な状態が続いています。気象庁は1週間ほどは最大震度7程度の地震に注意す…
-TechCrunchから、Anthropic says its own AI models breached three companies during security tests。
-After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents
+NHK主要ニュースから、ジャワ原人 赤ちゃんを未発達なまま出産し協力して子育てか。
+およそ10万年前の「ジャワ原人」の赤ちゃんは、現代のヒトと同じように長期間子育てが必要な、未発達な状態で生まれていたとみられることが、東京大学などのグループの骨の分析で明らかになりました。グループでは…
+BBC Worldから、Fifa scraps controversial World Cup investment plan。
+Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.
+BBC Worldから、Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge。
+Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.
+BBC Worldから、Russian strikes on Kyiv kill at least nine, Ukraine officials say。
+The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.
+NHK主要ニュースから、【台風13号】非常に強い勢力で西へ 小笠原は3日ごろから影響か。
+気象庁によりますと、台風13号は1日午前9時に「非常に強い」勢力となり、南鳥島近海を1時間に20キロの速さで西北西へ進んでいます。中心気圧は925ヘクトパスカル、中心付近の最大風速は50メートル、最大…
+NHK主要ニュースから、熊本地震 関連調査中含め36人死亡 9200人余りが避難 県発表。
+熊本県は今回の地震で県内では災害との関連を調査している2人を含めて36人が死亡し、9200人余りが避難していると発表しました。県内では猛烈な暑さが続くと予想され、県は飲料水の確保や避難所での暑さ対策を…
+NHK主要ニュースから、千葉 市川 マンション爆発2人けが 周辺の建物にも被害。
+千葉県市川市のマンションで爆発があり、2人がけがをしました。爆発のあとにガスのにおいがしたという情報があるということで、警察が状況を調べています。
+NHK主要ニュースから、米財務省が31日に円買い介入と報道 協調介入であれば異例。
+外国為替市場で日本時間の8月1日朝にかけて急激に円高ドル安が進む中、アメリカの財務省が7月31日、ユーロ売り・円買いの市場介入を実施したとイギリスの「フィナンシャル・タイムズ」が報じました。30日には…
+BBC Worldから、Peru's ex-president leaves jail after 15-year jail term for corruption overturned。
+Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.
+TechCrunchから、OpenAI reportedly finds evidence that more of its agents ran amok。
+OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
+TechCrunchから、Rivian spinoff Also to start delivering e-bikes after months of delays。
+Also has big plans beyond the TM-B. The startup mostly refers to itself as a "vehicle" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.
+TechCrunchから、Silicon Valley loves young founders. Until it doesn’t.。
+AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
