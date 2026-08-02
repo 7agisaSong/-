@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-01
-生成時刻: 15:48:30
+生成日: 2026-08-02
+生成時刻: 16:38:08
 
 おはようございます。
-今日は2026年8月1日、土曜日です。
+今日は2026年8月2日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、ジャワ原人 赤ちゃんを未発達なまま出産し協力して子育てか。
-およそ10万年前の「ジャワ原人」の赤ちゃんは、現代のヒトと同じように長期間子育てが必要な、未発達な状態で生まれていたとみられることが、東京大学などのグループの骨の分析で明らかになりました。グループでは…
-BBC Worldから、Fifa scraps controversial World Cup investment plan。
-Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.
-BBC Worldから、Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge。
-Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.
-BBC Worldから、Russian strikes on Kyiv kill at least nine, Ukraine officials say。
-The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.
-NHK主要ニュースから、【台風13号】非常に強い勢力で西へ 小笠原は3日ごろから影響か。
-気象庁によりますと、台風13号は1日午前9時に「非常に強い」勢力となり、南鳥島近海を1時間に20キロの速さで西北西へ進んでいます。中心気圧は925ヘクトパスカル、中心付近の最大風速は50メートル、最大…
-NHK主要ニュースから、熊本地震 関連調査中含め36人死亡 9200人余りが避難 県発表。
-熊本県は今回の地震で県内では災害との関連を調査している2人を含めて36人が死亡し、9200人余りが避難していると発表しました。県内では猛烈な暑さが続くと予想され、県は飲料水の確保や避難所での暑さ対策を…
-NHK主要ニュースから、千葉 市川 マンション爆発2人けが 周辺の建物にも被害。
-千葉県市川市のマンションで爆発があり、2人がけがをしました。爆発のあとにガスのにおいがしたという情報があるということで、警察が状況を調べています。
-NHK主要ニュースから、米財務省が31日に円買い介入と報道 協調介入であれば異例。
-外国為替市場で日本時間の8月1日朝にかけて急激に円高ドル安が進む中、アメリカの財務省が7月31日、ユーロ売り・円買いの市場介入を実施したとイギリスの「フィナンシャル・タイムズ」が報じました。30日には…
-BBC Worldから、Peru's ex-president leaves jail after 15-year jail term for corruption overturned。
-Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.
-TechCrunchから、OpenAI reportedly finds evidence that more of its agents ran amok。
-OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
-TechCrunchから、Rivian spinoff Also to start delivering e-bikes after months of delays。
-Also has big plans beyond the TM-B. The startup mostly refers to itself as a "vehicle" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.
-TechCrunchから、Silicon Valley loves young founders. Until it doesn’t.。
-AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.
+NHK主要ニュースから、熊本地震 関連調査中含め38人死亡 初の災害関連死の疑いも。
+熊本県は、2日午前の災害対策本部会議で、県内では災害との関連を調査している人も含めて38人が死亡したと発表しました。避難のため車中泊をしていた70代の女性が熱中症の疑いで死亡し、県は今回の地震では初め…
+BBC Worldから、Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'。
+The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the "perimeters" of a deal had been agreed.
+NHK主要ニュースから、高知・和歌山で40度超の酷暑日 東北・関東甲信は激しい雨警戒。
+西日本と東日本は2日も気温が上がり、高知県と和歌山県では40度を超える酷暑日に、熊本県でも39度を超える危険な暑さになっているところがあり、引き続き熱中症への対策を徹底してください。一方、前線などの影…
+NHK主要ニュースから、消費税減税 財源は予算編成過程で明確に 城内成長戦略相。
+高市総理大臣が表明した食料品の消費税減税の方針について、城内成長戦略担当大臣は、NHKの日曜討論で、物価高が続く中、特に中低所得の人の負担軽減を図るねらいがあるとした上で、財源は来年度の予算編成過程で…
+NHK主要ニュースから、熱中症“初期症状見逃さないで”脱水状態に注意【専門家ＱＡ】。
+熊本地震の被災地では、猛烈な暑さが続いています。地震後に避難のため車中泊をし、70代の女性が熱中症の疑いで死亡しました。熱中症の専門家、済生会横浜市東部病院の谷口英喜 医師は、「これだけの猛暑の中の災…
+NHK主要ニュースから、熊本 地震活動が活発 震度7程度に注意 危険な暑さ熱中症対策を。
+7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、1日夜も宇城市で震度5弱の強い揺れを観測するなど地震活動が活発になっていて、気象庁は引き続き最大震度7程度の揺れに注意するよう呼びかけてい…
+BBC Worldから、How Spain's migrant crisis created a political storm - whipped up by social media。
+The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.
+BBC Worldから、Young guns for hire - the teenage hitmen recruited to kill across Europe。
+The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.
+BBC Worldから、The Sopranos star Vincent Pastore dies aged 80。
+Pastore, who played Salvatore "Big Pussy" Bonpensiero in the hit US show, was found at his home in New York City, US media report.
+TechCrunchから、Inside the London hacker house taking a stand against founder burnout。
+How one founder house is betting work-life balance can beat burnout .
+TechCrunchから、Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps。
+Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.
+BBC Worldから、EU calls emergency meeting to discuss Ceuta migrant crossings。
+There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
