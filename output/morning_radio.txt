@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-02
-生成時刻: 16:38:08
+生成日: 2026-08-03
+生成時刻: 19:55:49
 
 おはようございます。
-今日は2026年8月2日、日曜日です。
+今日は2026年8月3日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、熊本地震 関連調査中含め38人死亡 初の災害関連死の疑いも。
-熊本県は、2日午前の災害対策本部会議で、県内では災害との関連を調査している人も含めて38人が死亡したと発表しました。避難のため車中泊をしていた70代の女性が熱中症の疑いで死亡し、県は今回の地震では初め…
-BBC Worldから、Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'。
-The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the "perimeters" of a deal had been agreed.
-NHK主要ニュースから、高知・和歌山で40度超の酷暑日 東北・関東甲信は激しい雨警戒。
-西日本と東日本は2日も気温が上がり、高知県と和歌山県では40度を超える酷暑日に、熊本県でも39度を超える危険な暑さになっているところがあり、引き続き熱中症への対策を徹底してください。一方、前線などの影…
-NHK主要ニュースから、消費税減税 財源は予算編成過程で明確に 城内成長戦略相。
-高市総理大臣が表明した食料品の消費税減税の方針について、城内成長戦略担当大臣は、NHKの日曜討論で、物価高が続く中、特に中低所得の人の負担軽減を図るねらいがあるとした上で、財源は来年度の予算編成過程で…
-NHK主要ニュースから、熱中症“初期症状見逃さないで”脱水状態に注意【専門家ＱＡ】。
-熊本地震の被災地では、猛烈な暑さが続いています。地震後に避難のため車中泊をし、70代の女性が熱中症の疑いで死亡しました。熱中症の専門家、済生会横浜市東部病院の谷口英喜 医師は、「これだけの猛暑の中の災…
-NHK主要ニュースから、熊本 地震活動が活発 震度7程度に注意 危険な暑さ熱中症対策を。
-7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、1日夜も宇城市で震度5弱の強い揺れを観測するなど地震活動が活発になっていて、気象庁は引き続き最大震度7程度の揺れに注意するよう呼びかけてい…
-BBC Worldから、How Spain's migrant crisis created a political storm - whipped up by social media。
-The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.
-BBC Worldから、Young guns for hire - the teenage hitmen recruited to kill across Europe。
-The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.
-BBC Worldから、The Sopranos star Vincent Pastore dies aged 80。
-Pastore, who played Salvatore "Big Pussy" Bonpensiero in the hit US show, was found at his home in New York City, US media report.
-TechCrunchから、Inside the London hacker house taking a stand against founder burnout。
-How one founder house is betting work-life balance can beat burnout .
-TechCrunchから、Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps。
-Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.
-BBC Worldから、EU calls emergency meeting to discuss Ceuta migrant crossings。
-There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.
+NHK主要ニュースから、熊本市などで初の酷暑日 被災地であすも危険な暑さ続く見込み。
+7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、地震活動が活発になっているほか、熊本市などで日中の最高気温が40度を超える初の酷暑日になり、4日も危険な暑さが続く見込みです。気象庁は引き…
+NHK主要ニュースから、熊本地震 激甚災害に指定へ あす予備費使用閣議決定 高市首相。
+今回の熊本地震について、高市総理大臣は、国が復旧にかかる費用を支援する「激甚災害」に指定する方針を明らかにしました。また4日、200億円を超える規模の今年度予算の予備費の使用を閣議決定し、必要な予算を…
+BBC Worldから、Iran denies Trump's claim that new talks will begin on Monday。
+While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.
+NHK主要ニュースから、京都 高台寺付近で“黒煙が出ている” 月真院か 消火活動中。
+3日午後6時半ごろ、京都市東山区にある豊臣秀吉の妻「ねね」ゆかりの高台寺付近で「黒い煙が出ている」と近くにいた人から消防に通報がありました。消防によりますと、火事があったのは高台寺の近くにある月真院と…
+TechCrunchから、A Marc Benioff-backed startup thinks AI can solve the AI deployment problem。
+June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.
+NHK主要ニュースから、台風13号 小笠原で高波・暴風厳重警戒 その後沖縄・奄美へ。
+大型で非常に強い台風13号は小笠原近海を西寄りに進んでいて4日に小笠原諸島に最も近づく見込みです。気象庁は高波と暴風に厳重に警戒するとともに不要不急の外出を控えるよう呼びかけています。その後、5日から…
+NHK主要ニュースから、日米で協調介入 片山財務相 “さらなる実施もちゅうちょせず”。
+片山財務大臣は歴史的な円安の是正に向けてアメリカとの協調介入を実施したことを明らかにしたうえで、今後も協調介入の実施をちゅうちょしないという考えを示しました。日本の通貨当局からは「日米通貨同盟の完成形…
+BBC Worldから、Two workers killed in blast after re-entering quake-hit Japan mall on boss' order。
+The two women's employer has apologised for sending them back to Aeon Mall to secure cash.
+BBC Worldから、US and Japan take action to prop up yen in rare joint move。
+Both countries have said that they will not hesitate to conduct joint interventions in the future.
+BBC Worldから、Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years。
+Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.
+BBC Worldから、'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir。
+The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.
+TechCrunchから、The global memory shortage hits the MacBook Air。
+The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
