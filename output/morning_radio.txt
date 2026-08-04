@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-03
-生成時刻: 19:55:49
+生成日: 2026-08-04
+生成時刻: 16:47:49
 
 おはようございます。
-今日は2026年8月3日、月曜日です。
+今日は2026年8月4日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、熊本市などで初の酷暑日 被災地であすも危険な暑さ続く見込み。
-7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、地震活動が活発になっているほか、熊本市などで日中の最高気温が40度を超える初の酷暑日になり、4日も危険な暑さが続く見込みです。気象庁は引き…
-NHK主要ニュースから、熊本地震 激甚災害に指定へ あす予備費使用閣議決定 高市首相。
-今回の熊本地震について、高市総理大臣は、国が復旧にかかる費用を支援する「激甚災害」に指定する方針を明らかにしました。また4日、200億円を超える規模の今年度予算の予備費の使用を閣議決定し、必要な予算を…
-BBC Worldから、Iran denies Trump's claim that new talks will begin on Monday。
-While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.
-NHK主要ニュースから、京都 高台寺付近で“黒煙が出ている” 月真院か 消火活動中。
-3日午後6時半ごろ、京都市東山区にある豊臣秀吉の妻「ねね」ゆかりの高台寺付近で「黒い煙が出ている」と近くにいた人から消防に通報がありました。消防によりますと、火事があったのは高台寺の近くにある月真院と…
-TechCrunchから、A Marc Benioff-backed startup thinks AI can solve the AI deployment problem。
-June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.
-NHK主要ニュースから、台風13号 小笠原で高波・暴風厳重警戒 その後沖縄・奄美へ。
-大型で非常に強い台風13号は小笠原近海を西寄りに進んでいて4日に小笠原諸島に最も近づく見込みです。気象庁は高波と暴風に厳重に警戒するとともに不要不急の外出を控えるよう呼びかけています。その後、5日から…
-NHK主要ニュースから、日米で協調介入 片山財務相 “さらなる実施もちゅうちょせず”。
-片山財務大臣は歴史的な円安の是正に向けてアメリカとの協調介入を実施したことを明らかにしたうえで、今後も協調介入の実施をちゅうちょしないという考えを示しました。日本の通貨当局からは「日米通貨同盟の完成形…
-BBC Worldから、Two workers killed in blast after re-entering quake-hit Japan mall on boss' order。
-The two women's employer has apologised for sending them back to Aeon Mall to secure cash.
-BBC Worldから、US and Japan take action to prop up yen in rare joint move。
-Both countries have said that they will not hesitate to conduct joint interventions in the future.
-BBC Worldから、Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years。
-Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.
-BBC Worldから、'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir。
-The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.
-TechCrunchから、The global memory shortage hits the MacBook Air。
-The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.
+BBC Worldから、Five dead in Moscow as Ukraine continues warehouse strikes。
+Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.
+NHK主要ニュースから、【ライブ】気象庁が会見 地震活動・暑さや雨など見通しを説明。
+熊本県で最大震度7の揺れを観測した地震から1週間に当たる4日、気象庁は午後4時から会見を開き、地震活動の状況のほか、暑さや雨など気象の見通しについても説明しています。
+NHK主要ニュースから、熊本地震1週間 38人死亡 災害関連死いかに防ぐかが喫緊の課題。
+熊本県で最大震度7を観測した地震から4日で1週間です。これまでに災害関連死の疑いがある人などを含めて38人が死亡しました。被災地では連日危険な暑さが続く中、車中泊を余儀なくされる人もいて、災害関連死を…
+NHK主要ニュースから、熊本地震 直後に生まれた赤ちゃん 母親とともに無事退院。
+震度6強の揺れを観測した熊本県八代市のクリニックで、地震直後に生まれた女の子の赤ちゃんがお母さんとともに無事退院し、すくすくと育っています。
+NHK主要ニュースから、防衛白書「新しい戦い方」に対応 防衛関係の産業基盤を強化。
+ことしの防衛白書はAIやドローンを活用した「新しい戦い方」に対応するため、防衛関係の生産・技術基盤を強化する重要性を強調しています。また、中国については、軍事力の質と量を急速に強化しており、日本と国際…
+NHK主要ニュースから、高市首相 “消費税減税 来月税制大綱決定し法案提出に万全を”。
+食料品の消費税減税をめぐって、高市総理大臣は、自民党の役員会で2027年4月から2年間、1％に引き下げるなどとした方針に沿って制度設計を進め、9月には税制改正大綱をとりまとめ、必要な法案の臨時国会への…
+BBC Worldから、Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach。
+Three children were killed when the drone crashed at a popular resort on the Black Sea.
+BBC Worldから、Ariana Grande has had enough of body comments, but 'scrutiny' will linger。
+The star has taken a "step back" from the spotlight after appearances led to "endless, ongoing public scrutiny".
+TechCrunchから、After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’。
+After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.
+TechCrunchから、Snap CEO sidesteps Specs preorder questions on Q2 earnings call。
+When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.
+OpenAI Newsから、Apple is getting this wrong。
+OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.
+BBC Worldから、EU calls for stronger borders after Ceuta migrant crossings。
+Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
