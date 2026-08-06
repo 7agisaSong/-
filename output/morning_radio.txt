@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-05
-生成時刻: 16:49:03
+生成日: 2026-08-06
+生成時刻: 16:48:41
 
 おはようございます。
-今日は2026年8月5日、水曜日です。
+今日は2026年8月6日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Russian strike kills at least 17 as Zelensky says interceptors could have saved lives。
-The head of Kyiv's military administration said Russia is "once again massively attacking" the region around the city.
-NHK主要ニュースから、食料品消費税減税 政府が基本方針決定 来年4月から2年間1％に。
-食料品の消費税減税について、政府は、5日の臨時閣議で、来年4月から2年間、税率を1％に引き下げるなどとした基本方針を決定しました。決定された基本方針では、中低所得の人などの税や社会保険料の負担軽減を図…
-NHK主要ニュースから、【速報中】夏の甲子園開会式 選手が行進 熊本の地震受け黙とう。
-ことしの夏の全国高校野球の開会式が午後4時から甲子園球場で始まりました。開会式は厳しい暑さ対策の一環として、去年から夕方に行われるようになりました。NHKはすべての試合をテレビとラジオで中継するととも…
-BBC Worldから、Afghan boxer arrives at Greek court in connection with death of Scottish woman。
-Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh.
-NHK主要ニュースから、日本製紙 地震のあと初めて社長ら記者会見。
-7月28日の地震で、熊本県八代市の工場の煙突が倒壊するなどして9人が死亡した日本製紙は、5日午後3時から、地震のあと初めて八代市役所で社長らが記者会見を行いました。
-NHK主要ニュースから、米大統領訪問前のゴルフ場で男拘束 車から拳銃見つかる。
-アメリカ西部カリフォルニア州にあるトランプ大統領のゴルフ場で2日、不審な人物がいるという通報があり、銃器を隠し持っていた容疑などで拘束されました。このゴルフ場にはトランプ大統領が4日に訪問し、大統領の…
-TechCrunchから、Wispr Flow launches a Granola-styled meeting notetaker。
-Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.
-BBC Worldから、Police raid Starbucks Korea headquarters over 'Tank Day' fiasco。
-People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.
-NHK主要ニュースから、山梨 中央道で乗用車など7台が関係する事故 7人けがで搬送。
-5日午後1時すぎ、山梨県上野原市の中央自動車道で乗用車やトラックなど7台が関係する事故がありました。警察と消防によりますと、この事故で7人がけがをして病院に搬送されました。詳しいけがの程度は分かってい…
-BBC Worldから、Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall。
-US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.
-BBC Worldから、Armed man arrested near Trump's golf course ahead of president's visit。
-The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.
-TechCrunchから、Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call。
-Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.
+NHK主要ニュースから、【地震速報】熊本 八代市で震度3 津波の心配なし。
+6日午後4時18分ごろ、熊本県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。
+BBC Worldから、Indian journalist Tarun Tejpal convicted in 2013 rape case。
+The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.
+NHK主要ニュースから、広島原爆の日 被爆者や遺族などが祈りささげる。
+広島に原爆が投下されて81年となる6日、広島市の平和公園など、各地で被爆者や遺族など多くの人が祈りをささげています。
+NHK主要ニュースから、台風13号 沖縄・奄美で風が強まる 沖縄は線状降水帯のおそれ。
+大型で強い台風13号は、沖縄県の大東島地方を暴風域に巻き込みながら西へ進んでいます。台風が接近する沖縄・奄美では一部の住宅が倒壊するような猛烈な風が吹くおそれがあるほか、雨も強まり沖縄県では線状降水帯…
+NHK主要ニュースから、熊本地震 災害関連死の疑い含め38人死亡 避難所に6899人避難。
+熊本県内では今回の地震で、6日午前7時半の時点で、災害関連死の疑いがある人などを含めて38人が死亡し、避難所には6899人が避難しています。
+BBC Worldから、Outrage as Ugandan football captain beaten to death in street gang attack。
+The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.
+NHK主要ニュースから、俳優 寿美花代さん死去 宝塚歌劇団で男役トップスター 94歳。
+宝塚歌劇団で男役のトップスターとして一世をふうびし、俳優の高島忠夫さんとのおしどり夫婦としても知られた、俳優の寿美花代さんが、8月3日、老衰のため亡くなりました。94歳でした。
+BBC Worldから、In Odesa, no-one is safe from Russia's new Black Sea strikes。
+Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.
+BBC Worldから、Iran says deal with Oman on Strait of Hormuz is in final stages。
+Neither the US or Oman have commented on the proposed agreement on the vital waterway.
+TechCrunchから、Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday。
+Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.
+BBC Worldから、Infantino sorry for errors but stays Fifa president。
+Gianni Infantino will remain Fifa president after receiving backing from senior executives, but "sincerely apologises" for errors in his controversial private investment plans.
+TechCrunchから、Nikita Bier steps down as X’s head of product。
+The serial entrepreneur is stepping down a little over a year after taking the "24/7 job" of overseeing X.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
