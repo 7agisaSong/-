@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-08
-生成時刻: 08:20:46
+生成日: 2026-08-09
+生成時刻: 08:01:31
 
 おはようございます。
-今日は2026年8月8日、土曜日です。
+今日は2026年8月9日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、OpenAI says it slowed Astra model development over security concerns。
-OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.
-NHK主要ニュースから、大型で非常に強い台風13号 暴風などに厳重警戒。
-大型で非常に強い台風13号は、依然として沖縄本島地方や奄美地方を暴風域に巻き込みながら西寄りに進んでいます。暴風などに厳重な警戒を続けてください。
-BBC Worldから、Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies。
-Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.
-TechCrunchから、After Rippling blew millions on AI in months, it built an employee ROI tool。
-After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.
-NHK主要ニュースから、熊本 8日も猛烈な暑さ 熱中症対策を 台風13号で強風にも注意。
-最大震度7の地震で大きな被害のあった熊本県では、8日も猛烈な暑さが続く見込みです。水分をこまめにとるなど、できるかぎりの熱中症対策を続けてください。また台風13号の影響で風もやや強まっていて、気象庁は…
-TechCrunchから、Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists。
-The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.
-BBC Worldから、Thai PM vows to introduce stricter gun laws after eight killed in shooting。
-Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.
-TechCrunchから、Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks。
-Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.
-MusicRadarから、“Ideal for beginner guitarists chasing heavier sounds”: Sire Larry Carlton X1 review。
-The jazz-minded session ace goes heavy metal with his latest wallet-friendly collaboration with Sire, and it’s heavy in both senses of the word
-BBC Worldから、Saudi Arabia, Turkey and Pakistan sign defence pact。
-Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.
-MusicRadarから、“Oasis’ schedule is booked”: According to a source, the Gallaghers’ masterplan for 2027 is already in place。
-Monday will mark 30 years since the original Knebworth gigs
-TechCrunchから、Cloudflare launches Kitesurf, a browser built for AI agents。
-Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.
+NHK主要ニュースから、台風13号 高波強風影響続く 台風15号の進路にも注意を。
+大型で非常に強い台風13号はしだいに沖縄から離れていますが、波は高く、風も強い見込みで、気象庁は高波に警戒し、強風に十分注意するよう呼びかけています。一方、大型の台風15号は火曜日ごろ北日本や東日本に…
+NHK主要ニュースから、ゼレンスキー大統領がセルビア初訪問 ロシアけん制のねらいも。
+ウクライナのゼレンスキー大統領はロシアと結びつきが深いセルビアを訪れてブチッチ大統領と会談し、ロシア側をけん制するねらいもあるとみられます。
+TechCrunchから、Planned Amazon data center could become the biggest climate polluter in the U.S.。
+As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.
+NHK主要ニュースから、熊本 きょうも各地で厳しい暑さ 復旧作業では熱中症に注意。
+最大震度7の地震で大きな被害のあった熊本県では9日も厳しい暑さが続く見込みで、復旧作業の際は熱中症に注意するようにしてください。
+NHK主要ニュースから、イラン“通航再開は米の補償も条件” “交渉は停滞”報道も。
+中東のホルムズ海峡をめぐりイランのアラグチ外相は、対岸のオマーンとの海峡の航路をめぐる合意は目前だとしながらも、通航を再開するにはこれに加えてアメリカからの補償なども条件だと主張しました。アメリカメデ…
+NHK主要ニュースから、原爆投下から81年 “長崎を最後の被爆地に”。
+長崎に原爆が投下されて、9日で81年です。 「被爆者なき時代」が刻々と近づき、核兵器をめぐる国際情勢が厳しさを増す中、被爆地・長崎は、原爆のすべての犠牲者に祈りをささげ、「長崎を最後の被爆地に」とい…
+TechCrunchから、OpenAI acquires presentation startup NextSlide。
+NextSlide says its team members are now working on ChatGPT.
+BBC Worldから、Hormuz talks positive, Oman says, as Iran warns deal would not open strait。
+Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.
+BBC Worldから、US offers $1bn to Colombia on new right-wing president's first day of office。
+Abelardo de la Espriella used his maiden speech to promise an "all-out war" on what he calls "narco-terrorism".
+BBC Worldから、Madonna pays tribute to 'genius, otherworldly' producer William Orbit。
+The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.
+TechCrunchから、X replaces ‘misaligned’ revenue sharing program with Original Content Rewards。
+X is winding down its existing Revenue Sharing program.
+TechCrunchから、The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have。
+While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
