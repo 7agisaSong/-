@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-10
-生成時刻: 08:03:58
+生成日: 2026-08-11
+生成時刻: 08:21:22
 
 おはようございます。
-今日は2026年8月10日、月曜日です。
+今日は2026年8月11日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、イオンモール 設備の緊急点検 各地でイベント中止・延期相次ぐ。
-熊本県嘉島町の「イオンモール熊本」で起きた大規模な爆発を受けて、全国各地のイオンモールではガス設備の緊急点検などのためイベントの中止や延期が相次いでいます。
-NHK主要ニュースから、台風15号 11日には東北・関東甲信に接近へ 最新情報の確認を。
-台風15号は11日には東北や関東甲信にかなり近づく見込みで、雨や風が強まり荒れた天気になるおそれがあり、気象庁は土砂災害や強風などに十分注意し最新の気象情報を確認するよう呼びかけています。
-BBC Worldから、Residents warned to brace for the worst as Canada wildfire rages out of control。
-The Bald Range wildfire in British Columbia, still considered "out of control", has spread over 53 sq miles (136 sq km).
-NHK主要ニュースから、熊本地震 被災地は10日も厳しい暑さ予想 熱中症対策を。
-最大震度7の地震で大きな被害のあった熊本県では10日も厳しい暑さが続く見込みです。 復旧作業の際は引き続き熱中症に注意するようにしてください。
-BBC Worldから、Israel rejects Trump's 15-point plan for Gaza, Netanyahu says。
-Israel's PM says its military will not pull out from Gaza until Hamas is "genuinely" disarmed.
-NHK主要ニュースから、東日本から西日本で猛暑続く 一層の熱中症対策を。
-10日も東日本と西日本では気温が上がり猛烈な暑さが予想されていて、熱中症対策を一層、心がけてください。
-BBC Worldから、Suspected crime boss Daniel Kinahan appears in court after extradition。
-The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.
-NHK主要ニュースから、イスラエル首相 ガザ地区の和平に向けた工程表 拒否すると表明。
-パレスチナのガザ地区をめぐりイスラエルのネタニヤフ首相は、アメリカ主導の和平計画に基づいて示されたイスラム組織ハマスの武装解除などに向けた工程表を拒否すると表明し、和平の実現は見通せない状況が続いてい…
-TechCrunchから、Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry。
-The AI-focused hedge fund is still making some big bets.
-TechCrunchから、Anthropic is turning Claude Code’s auto mode on by default。
-Programming with Claude Code will soon require even less human oversight.
-TechCrunchから、TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire。
-Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-BBC Worldから、Ecuador charges ex-minister over presidential candidate assassination case。
-Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.
+TechCrunchから、Jeff Bezos might finally get his hands on a sports team。
+Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.
+NHK主要ニュースから、【地震】熊本・八代市 芦北町で震度3 津波心配なし（7：59）。
+11日午前7時59分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は熊本県熊本地方で震源の深さはごく浅く、地震の規模を示すマグニチュードは4.3と推定されます。 各市町村の震度…
+NHK主要ニュースから、日本版GPS衛星「みちびき7号機」 H3ロケットで打ち上げ成功。
+スマートフォンなどの位置情報の精度を高め、防災などの分野でも活用される日本版GPS衛星「みちびき」の7号機は、11日午前、鹿児島県の種子島宇宙センターからH3ロケット9号機で打ち上げられ、予定の軌道に…
+NHK主要ニュースから、台風15号関東上陸おそれ 東日本から東北で土砂災害や暴風警戒。
+台風15号は11日夜にかけて関東に上陸するおそれがあります。 東日本と東北では雨や風が強まって荒れた天気になる見込みで、気象庁は土砂災害や低い土地の浸水、川の増水や氾濫、それに暴風などに警戒するよう…
+TechCrunchから、Now Rippling is counter-suing tiny startup Runlayer。
+This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.
+NHK主要ニュースから、東京メトロ半蔵門線 運転見合わせ 渋谷ー九段下 再開は昼頃か。
+東京メトロによりますと、半蔵門線は、午前6時現在、半蔵門駅での駅構内点検のため渋谷駅と九段下駅の間で運転を見合わせているということです。 全線での運転再開は昼ごろを見込んでいます。 また、この影響…
+TechCrunchから、Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax。
+California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.
+BBC Worldから、Canada flight cancelled after child refuses to wear seat belt。
+The incident has sparked a debate over child safety and discipline on commercial planes.
+TechCrunchから、Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI。
+On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the "personal superintelligence" systems Meta AI is building.
+TechCrunchから、Tech industry is buzzing after a Claude agent hacked into a gym。
+An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.
+BBC Worldから、'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes。
+More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.
+OpenAI Newsから、What building an AI-native finance function taught me。
+OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
