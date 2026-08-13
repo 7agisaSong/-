@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-12
-生成時刻: 09:05:20
+生成日: 2026-08-13
+生成時刻: 09:02:55
 
 おはようございます。
-今日は2026年8月12日、水曜日です。
+今日は2026年8月13日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、北朝鮮の弾道ミサイルの可能性あるもの EEZへの飛来確認されず。
-防衛省は12日朝、北朝鮮から少なくとも1発の弾道ミサイルが発射され、日本のEEZ＝排他的経済水域の外側に落下したとみられると発表しました。防衛省は警戒と監視を続けています。
-NHK主要ニュースから、台風15号 各地の被害 茨城と栃木で4人けが 茨城など4300戸停電。
-台風15号により、各地で被害が出ていて、これまでに茨城県で3人、栃木県で1人のあわせて4人がけがをしました。 最新の情報を随時このページでお伝えします。
-BBC Worldから、These seaside apartments were a ghost city - then police say scammers moved in。
-Malaysia's Forest City was pitched as "paradise" but last month police raided it over alleged scam operations.
-NHK主要ニュースから、台風15号 関東で強風被害 台風から離れても大雨に警戒。
-11日夜に上陸した台風15号の影響で、関東では強風による被害が相次ぎました。台風は日本海へ抜けましたが、上空の寒気や湿った空気の影響で関東や東北には発達した雨雲が流れ込む見込みで、気象庁は土砂災害や低…
-TechCrunchから、Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months。
-Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.
-TechCrunchから、Accel closes oversubscribed $550M India fund within weeks, 19 months after its last。
-The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.
-NHK主要ニュースから、日航ジャンボ機の墜落事故 きょうで41年 520人が犠牲。
-520人が犠牲になった日航ジャンボ機の墜落事故から12日で41年となり、墜落現場の群馬県上野村では犠牲者を追悼する式典が行われます。遺族の高齢化が進み、事故を直接知る人が少なくなる中、記憶や教訓をどの…
-BBC Worldから、US says helicopter fired missiles to disable ship breaking Iran blockade。
-US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.
-BBC Worldから、Inside the Secret Service 'shell game' to hide US presidents in plain sight。
-Elaborate deception operations and decoys are often used to deceive potential threats to the US president.
-NHK主要ニュースから、奥田碩氏が死去 93歳 トヨタ自動車社長や経団連会長など歴任。
-トヨタ自動車の社長や経団連の初代会長などを務めた奥田碩氏が今月8日に亡くなりました。93歳でした。
-TechCrunchから、Uber surprised robotics company Serve by selling its entire stake。
-The divestiture comes as the two once-tight companies have started to diverge on the business side.
-TechCrunchから、FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures。
-In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.
+NHK主要ニュースから、【地震速報】熊本県天草・芦北で震度3。
+13日午前8時56分ごろ地震がありました。 現在、震度3以上が観測されている地域は以下のとおりです。 震度3が、熊本県天草・芦北。 今後の情報に注意してください。
+NHK主要ニュースから、体長約2mのニシキヘビ2匹 マンションから逃げ出す 川崎 多摩区。
+警察によりますと、川崎市多摩区菅馬場のマンションから、ペットとして飼育されていた体長およそ2メートルのニシキヘビ2匹が逃げ出したということです。
+BBC Worldから、Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend。
+Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.
+BBC Worldから、Trump says White House press secretary Karoline Leavitt to leave post。
+Leavitt will depart from her role to spend time with her young children and family, the president says.
+TechCrunchから、Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes。
+Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.
+NHK主要ニュースから、台風17号 北寄りに進む見込み 進路予報に幅 今後の情報に注意。
+大型の台風17号は、日本の南の海上を北寄りに進んでいて、進路の予報には幅があるため、気象庁は、今後の情報に注意するよう呼びかけています。
+TechCrunchから、AI nuclear power firm Fermi finally has a new CEO。
+Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.
+NHK主要ニュースから、熊本 地震活動が依然活発 きょうも厳しい暑さに 熱中症対策を。
+先月、最大震度7の地震で大きな被害があった熊本県は、13日も厳しい暑さになる見込みで、復旧作業などを行う際は熱中症対策を心がけてください。また、13日の明け方にも震度3の揺れを観測する地震が起きるなど…
+BBC Worldから、Why are 'human fridges' being sold in Japan?。
+As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.
+TechCrunchから、Northrop’s robot space mechanic is a new way to keep satellites at work longer。
+The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.
+NHK主要ニュースから、国旗損壊処罰法 きょう施行。
+日本の国旗を損壊する行為を罰する法律が、13日、施行されました。著しく不快感や嫌悪感を催させる方法で国旗を公然と損壊する行為などに対し罰則が科されることになり、法務省は「法律の趣旨や対象となる行為など…
+TechCrunchから、Amazon will train on Twitch streamers’ content by default, unless they opt out。
+"If this was opt-in, nobody would opt in," Twitch CPO Mike Minton said on a livestream responding to user feedback. "That's honestly the answer."
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
