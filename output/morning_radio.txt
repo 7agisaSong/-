@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-13
-生成時刻: 09:02:55
+生成日: 2026-08-14
+生成時刻: 09:03:13
 
 おはようございます。
-今日は2026年8月13日、木曜日です。
+今日は2026年8月14日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、【地震速報】熊本県天草・芦北で震度3。
-13日午前8時56分ごろ地震がありました。 現在、震度3以上が観測されている地域は以下のとおりです。 震度3が、熊本県天草・芦北。 今後の情報に注意してください。
-NHK主要ニュースから、体長約2mのニシキヘビ2匹 マンションから逃げ出す 川崎 多摩区。
-警察によりますと、川崎市多摩区菅馬場のマンションから、ペットとして飼育されていた体長およそ2メートルのニシキヘビ2匹が逃げ出したということです。
-BBC Worldから、Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend。
-Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.
-BBC Worldから、Trump says White House press secretary Karoline Leavitt to leave post。
-Leavitt will depart from her role to spend time with her young children and family, the president says.
-TechCrunchから、Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes。
-Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.
-NHK主要ニュースから、台風17号 北寄りに進む見込み 進路予報に幅 今後の情報に注意。
-大型の台風17号は、日本の南の海上を北寄りに進んでいて、進路の予報には幅があるため、気象庁は、今後の情報に注意するよう呼びかけています。
-TechCrunchから、AI nuclear power firm Fermi finally has a new CEO。
-Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.
-NHK主要ニュースから、熊本 地震活動が依然活発 きょうも厳しい暑さに 熱中症対策を。
-先月、最大震度7の地震で大きな被害があった熊本県は、13日も厳しい暑さになる見込みで、復旧作業などを行う際は熱中症対策を心がけてください。また、13日の明け方にも震度3の揺れを観測する地震が起きるなど…
-BBC Worldから、Why are 'human fridges' being sold in Japan?。
-As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.
-TechCrunchから、Northrop’s robot space mechanic is a new way to keep satellites at work longer。
-The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.
-NHK主要ニュースから、国旗損壊処罰法 きょう施行。
-日本の国旗を損壊する行為を罰する法律が、13日、施行されました。著しく不快感や嫌悪感を催させる方法で国旗を公然と損壊する行為などに対し罰則が科されることになり、法務省は「法律の趣旨や対象となる行為など…
-TechCrunchから、Amazon will train on Twitch streamers’ content by default, unless they opt out。
-"If this was opt-in, nobody would opt in," Twitch CPO Mike Minton said on a livestream responding to user feedback. "That's honestly the answer."
+NHK主要ニュースから、【大雨被害】千葉 記録的大雨 自治体ごとに詳しく。
+レベル5大雨特別警報が出された千葉県内の大雨被害についてまとめました。 千葉県は、14日午前8時から開いた災害対策本部会議で、これまでに判明している被害状況について明らかにしました。それによりますと、…
+NHK主要ニュースから、千葉県内の大雨特別警報を危険警報などに切り替え【上空映像】。
+湿った空気や上空の寒気の影響で千葉県では、13日夕方以降、線状降水帯が相次いで発生して記録的な大雨となり、一時、大雨や土砂災害の特別警報が発表されました。特別警報は14日、危険警報や警報などに切り替え…
+NHK主要ニュースから、千葉 大雨被害 4人死亡 1人心肺停止 1人行方不明 災害対策本部。
+千葉県は、14日午前8時から開いた災害対策本部会議でこれまでに判明している被害状況について明らかにしました。 それによりますと、▽死亡したのがあわせて4人、▽行方が分かっていないのが1人、▽心肺停止…
+BBC Worldから、Conditions on US aircraft carrier at sea for more than 250 days raise alarms。
+Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.
+NHK主要ニュースから、成田空港 ターミナルに約7000人滞留 大雨による電車バス運休で。
+成田空港では、空港から出発する電車やバスが大雨の影響で運休しているため、空港に多くの利用客が滞留しています。
+NHK主要ニュースから、【大雨】千葉県庁で約1800人が一夜明かす 帰宅困難者相次ぎ。
+千葉県内では、13日からの大雨で公共交通機関がストップし、自宅に帰れない人が相次ぎ、このうち千葉市中央区にある千葉県庁ではおよそ1800人が一夜を明かしました。
+TechCrunchから、Investors sue Selena Gomez alleging fraud tied to her mental health startup。
+The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.
+TechCrunchから、Flock says its new tool will help identify police abuse, but hasn’t explained how it works。
+The surveillance company announced it's making a tool called "Audit Assistance" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.
+TechCrunchから、If Apple sends you a push notification alerting you to a spyware attack, take it seriously。
+Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.
+BBC Worldから、Engine parts smashed Ryanair window that man's head was sucked out of, report says。
+A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.
+TechCrunchから、Writer introduces new AI model and upgraded harness to contain token costs。
+Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.
+TechCrunchから、Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.。
+AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
