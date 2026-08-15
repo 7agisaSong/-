@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-15
-生成時刻: 07:48:02
+生成日: 2026-08-16
+生成時刻: 07:00:42
 
 おはようございます。
-今日は2026年8月15日、土曜日です。
+今日は2026年8月16日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、Talks to sell PayPal to Stripe and Advent are heating up。
-PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.
-NHK主要ニュースから、小泉防衛相が靖国神社に参拝。
-「終戦の日」の15日、小泉防衛大臣が午前7時すぎ、東京 九段の靖国神社に参拝しました。 現職の防衛大臣が「終戦の日」に靖国神社に参拝したのは、おととし、当時の木原防衛大臣が参拝して以来です。
-NHK主要ニュースから、【大雨 交通影響】鉄道や道路 一部区間で運転見合わせなど続く。
-今回の豪雨の影響で千葉県内では鉄道や高速道路の一部の区間で運転の見合わせや通行止めが続いています。
-NHK主要ニュースから、熊本地震 地震活動は依然活発 15日も厳しい暑さ。
-先月、最大震度7の地震で大きな被害があった熊本県では、依然として活発な地震活動が続いています。気象庁は、1か月ほどは最大震度5弱程度以上の地震に注意するよう呼びかけています。
-NHK主要ニュースから、【千葉 記録的豪雨】8人死亡 建物被害さらに増える可能性。
-13日の夕方以降、線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、車が水没するなどしてこれまでに8人の死亡が確認されたほか、建物への浸水被害も相次いでいます。
-TechCrunchから、Self-driving trucks are officially testing on California highways。
-Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.
-NHK主要ニュースから、きょう戦後81年の終戦の日 各地で戦没者追悼の催し。
-終戦から81年となる15日、およそ310万人の戦没者を追悼し平和を祈念する催しが全国各地で開かれます。
-TechCrunchから、Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria。
-The AI opportunity is huge, but "it would also be a grave error in our minds to let excitement weaken our investment discipline," Kushner warns in his first-ever investment letter.
-TechCrunchから、What we know about the alleged Iranian hacks on US water utilities。
-Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.
-TechCrunchから、Read-it-later app Pocket shut down — here are the best alternatives。
-Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.
-BBC Worldから、Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule。
-Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.
-MusicRadarから、“Makes you realise just how good budget guitars have become”: Harley Benton ST-62LA review。
-Hand-relic'd with a spec sheet that doesn't get old, Harley Benton's Aged Series brings vintage feel on a budget
+BBC Worldから、Rescuers search for survivors of powerful Indonesia earthquake。
+Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.
+NHK主要ニュースから、自民 小林政調会長が靖国神社に参拝。
+自民党の小林政務調査会長は、16日午前6時半ごろ、東京・九段の靖国神社に参拝しました。 靖国神社には「終戦の日」の15日、自民党の鈴木幹事長ら党幹部3人がそろって参拝しましたが、小林氏は地元の千葉県…
+TechCrunchから、Woman claims her stepfather used Grok to transform childhood photo into explicit imagery。
+The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse."
+BBC Worldから、Qatar denies capturing three Iranian pilots after downing fighter jets。
+Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.
+BBC Worldから、Morocco detains dozens of migrants trying to cross into Ceuta, reports say。
+Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.
+NHK主要ニュースから、インドネシア東部地震の死者47人に 救助活動続く。
+15日に起きたインドネシア東部のフローレス島付近を震源とするマグニチュード7.7の地震で、インドネシア政府はこれまでに47人が死亡したと発表しました。当局は、まだ建物に閉じ込められた人がいるとして救助…
+NHK主要ニュースから、熊本地震 活発な活動続く 最大震度5弱程度以上の地震に注意。
+先月、最大震度7の地震で大きな被害があった熊本県では活発な地震活動が続いていて、気象庁は1か月ほどは最大震度5弱程度以上の地震に注意するよう呼びかけています。熊本県では16日、湿った空気の影響で大気の…
+NHK主要ニュースから、【千葉豪雨】死者9人 行方不明1人 浸水被害1000棟超 雨に注意。
+線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、これまでに9人の死亡が確認されました。住宅も大きな被害が出ていて、浸水の被害は床上と床下を含めると1000棟を超えます。 気象庁によります…
+BBC Worldから、Eleven killed in Israeli strikes on southern Lebanon, authorities say。
+Israel's military said it had struck "Hezbollah terror infrastructure" in response to what it described as earlier action against its soldiers.
+BBC Worldから、Liechtenstein changes succession rule to allow women to ascend the throne。
+The declaration was made on the national day of the central European country, which has a population of just 44,000.
+TechCrunchから、Anthropic shares more details about how Claude’s new watermarks will work。
+How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?
+TechCrunchから、SpaceX officially closes its Cursor acquisition。
+AI coding startup Cursor is now officially a part of SpaceX.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
