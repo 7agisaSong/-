@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-16
-生成時刻: 07:00:42
+生成日: 2026-08-17
+生成時刻: 07:00:33
 
 おはようございます。
-今日は2026年8月16日、日曜日です。
+今日は2026年8月17日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Rescuers search for survivors of powerful Indonesia earthquake。
-Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.
-NHK主要ニュースから、自民 小林政調会長が靖国神社に参拝。
-自民党の小林政務調査会長は、16日午前6時半ごろ、東京・九段の靖国神社に参拝しました。 靖国神社には「終戦の日」の15日、自民党の鈴木幹事長ら党幹部3人がそろって参拝しましたが、小林氏は地元の千葉県…
-TechCrunchから、Woman claims her stepfather used Grok to transform childhood photo into explicit imagery。
-The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse."
-BBC Worldから、Qatar denies capturing three Iranian pilots after downing fighter jets。
-Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.
-BBC Worldから、Morocco detains dozens of migrants trying to cross into Ceuta, reports say。
-Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.
-NHK主要ニュースから、インドネシア東部地震の死者47人に 救助活動続く。
-15日に起きたインドネシア東部のフローレス島付近を震源とするマグニチュード7.7の地震で、インドネシア政府はこれまでに47人が死亡したと発表しました。当局は、まだ建物に閉じ込められた人がいるとして救助…
-NHK主要ニュースから、熊本地震 活発な活動続く 最大震度5弱程度以上の地震に注意。
-先月、最大震度7の地震で大きな被害があった熊本県では活発な地震活動が続いていて、気象庁は1か月ほどは最大震度5弱程度以上の地震に注意するよう呼びかけています。熊本県では16日、湿った空気の影響で大気の…
-NHK主要ニュースから、【千葉豪雨】死者9人 行方不明1人 浸水被害1000棟超 雨に注意。
-線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、これまでに9人の死亡が確認されました。住宅も大きな被害が出ていて、浸水の被害は床上と床下を含めると1000棟を超えます。 気象庁によります…
-BBC Worldから、Eleven killed in Israeli strikes on southern Lebanon, authorities say。
-Israel's military said it had struck "Hezbollah terror infrastructure" in response to what it described as earlier action against its soldiers.
-BBC Worldから、Liechtenstein changes succession rule to allow women to ascend the throne。
-The declaration was made on the national day of the central European country, which has a population of just 44,000.
-TechCrunchから、Anthropic shares more details about how Claude’s new watermarks will work。
-How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?
-TechCrunchから、SpaceX officially closes its Cursor acquisition。
-AI coding startup Cursor is now officially a part of SpaceX.
+BBC Worldから、Trump says US to scale back military drills with South Korea after it stayed out of Iran war。
+His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.
+NHK主要ニュースから、【地震速報】福岡 糸島で震度4 津波の心配なし。
+17日午前6時37分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は福岡県福岡地方で震源の深さは10キロ、地震の規模を示すマグニチュードは4.4と推定されます。 各市町村の震度…
+TechCrunchから、Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+。
+OpenRouter's CEO recently described the startup as Stripe for AI.
+NHK主要ニュースから、車いす利用者 送迎車での死亡事故7年で30件 消費者事故調。
+車いすに乗ったまま利用できる介護施設などの送迎車で、急ブレーキや衝突時などに車いすの人が死亡する事故が去年までの7年間に30件起きていたことが、消費者庁の安全調査委員会、いわゆる「消費者事故調」のまと…
+NHK主要ニュースから、熊本地震 地震活動と暑さに注意 できるかぎりの熱中症対策を。
+熊本地震の発生からまもなく3週間ですが、16日も震度3の地震が起きるなど、地震活動は依然として活発な状態が続いています。引き続き、強い揺れを伴う地震に注意してください。 また、17日も熊本県では厳しい…
+TechCrunchから、Why people aren’t buying Mark Zuckerberg’s AI future。
+On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.
+NHK主要ニュースから、きょうから米韓軍事演習 野外機動訓練縮小続くも北朝鮮は反発。
+アメリカ軍と韓国軍は、17日から朝鮮半島有事を想定した定例の合同軍事演習を行います。イ・ジェミョン（李在明）政権が北朝鮮との対話を模索する中、野外での機動訓練は縮小される予定ですが、北朝鮮は反発してい…
+BBC Worldから、Trump envoy Kushner meets Hamas leader to push Gaza peace plan。
+The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.
+BBC Worldから、Two dead and hundreds evacuated after twin fires break out on Greek island。
+About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.
+BBC Worldから、Russia says at least seven killed in largest Ukrainian attack of 2026。
+Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.
+NHK主要ニュースから、千葉豪雨 死者10人 千葉市で車約2500台が路上に残る。
+記録的な豪雨となった千葉県では、16日、新たに1人の死亡が確認されたと県が発表し、亡くなった人は10人になりました。また、千葉市によりますと、水につかって動かなくなった車は市が管理する道路で2500台…
+TechCrunchから、Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’。
+Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
