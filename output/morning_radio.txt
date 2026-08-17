@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-17
-生成時刻: 07:00:33
+生成日: 2026-08-18
+生成時刻: 07:50:55
 
 おはようございます。
-今日は2026年8月17日、月曜日です。
+今日は2026年8月18日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Trump says US to scale back military drills with South Korea after it stayed out of Iran war。
-His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.
-NHK主要ニュースから、【地震速報】福岡 糸島で震度4 津波の心配なし。
-17日午前6時37分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は福岡県福岡地方で震源の深さは10キロ、地震の規模を示すマグニチュードは4.4と推定されます。 各市町村の震度…
-TechCrunchから、Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+。
-OpenRouter's CEO recently described the startup as Stripe for AI.
-NHK主要ニュースから、車いす利用者 送迎車での死亡事故7年で30件 消費者事故調。
-車いすに乗ったまま利用できる介護施設などの送迎車で、急ブレーキや衝突時などに車いすの人が死亡する事故が去年までの7年間に30件起きていたことが、消費者庁の安全調査委員会、いわゆる「消費者事故調」のまと…
-NHK主要ニュースから、熊本地震 地震活動と暑さに注意 できるかぎりの熱中症対策を。
-熊本地震の発生からまもなく3週間ですが、16日も震度3の地震が起きるなど、地震活動は依然として活発な状態が続いています。引き続き、強い揺れを伴う地震に注意してください。 また、17日も熊本県では厳しい…
-TechCrunchから、Why people aren’t buying Mark Zuckerberg’s AI future。
-On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.
-NHK主要ニュースから、きょうから米韓軍事演習 野外機動訓練縮小続くも北朝鮮は反発。
-アメリカ軍と韓国軍は、17日から朝鮮半島有事を想定した定例の合同軍事演習を行います。イ・ジェミョン（李在明）政権が北朝鮮との対話を模索する中、野外での機動訓練は縮小される予定ですが、北朝鮮は反発してい…
-BBC Worldから、Trump envoy Kushner meets Hamas leader to push Gaza peace plan。
-The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.
-BBC Worldから、Two dead and hundreds evacuated after twin fires break out on Greek island。
-About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.
-BBC Worldから、Russia says at least seven killed in largest Ukrainian attack of 2026。
-Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.
-NHK主要ニュースから、千葉豪雨 死者10人 千葉市で車約2500台が路上に残る。
-記録的な豪雨となった千葉県では、16日、新たに1人の死亡が確認されたと県が発表し、亡くなった人は10人になりました。また、千葉市によりますと、水につかって動かなくなった車は市が管理する道路で2500台…
-TechCrunchから、Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’。
-Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.
+NHK主要ニュースから、トランプ大統領 “北朝鮮 対話呼びかけに対し非常に前向き”。
+アメリカのトランプ大統領は、北朝鮮のキム・ジョンウン(金正恩)総書記が対話の呼びかけに対して、非常に前向きな反応を示したと説明しました。一方、韓国に対しては、イラン情勢で支援が得られなかったことなどに…
+TechCrunchから、AI automation startup Relay shuts down, staff joins Google’s Chrome team。
+"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon," Jacob Bank, Relay founder and CEO, said.
+NHK主要ニュースから、ロシア外相“駐ロ日本大使呼び出し” 日本側“18日に応じる”。
+プーチン大統領の北方領土訪問に日本政府が抗議したことを受けて、ロシアのラブロフ外相はロシアに駐在する日本大使を呼び出したと明らかにしました。日本側はこの呼び出しに、いったんは応じなかったものの、日本の…
+TechCrunchから、‘Unprecedented’ number of Apple users received recent spyware alert, say investigators。
+Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.
+NHK主要ニュースから、熊本地震から3週間 3000人以上避難所に 避難所以外支援も課題。
+7月、熊本県で最大震度7を観測した地震から18日で3週間です。県内では3000人以上が避難所で生活しているほか、被災した自宅や車の中で避難を続ける人も多く、いかに必要な支援を行き届かせ、災害関連死を防…
+NHK主要ニュースから、千葉豪雨 被災店舗の再開や農業被害対応など 生活再建が課題。
+線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、10人の死亡が確認され、浸水した住宅は、およそ2000棟にのぼります。ガスや水道など、ライフラインの復旧が進む一方、被災した店舗の再開や農業…
+NHK主要ニュースから、高校野球 夏の甲子園【大会13日目 準々決勝の見どころ】。
+夏の全国高校野球は大会13日目、準々決勝、4試合が行われます。
+TechCrunchから、Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21。
+If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!
+BBC Worldから、Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal。
+Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.
+TechCrunchから、Spotify’s new Playlist Notes let users and editors explain their song picks。
+Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.
+TechCrunchから、Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B。
+Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.
+BBC Worldから、Mushroom murderer Erin Patterson is appealing - here's what you need to know。
+The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
