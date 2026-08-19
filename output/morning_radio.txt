@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-19
-生成時刻: 06:59:36
+生成日: 2026-08-20
+生成時刻: 07:02:09
 
 おはようございます。
-今日は2026年8月19日、水曜日です。
+今日は2026年8月20日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、西日本中心に気温上昇 危険な暑さに 東北は土砂災害など注意。
-19日は西日本を中心に気温が上がり、九州では体温を超えるような危険な暑さとなるところもある見込みです。 熱中症対策を徹底してください。 一方、湿った空気の影響で、東北では大気の状態が不安定になり、…
-NHK主要ニュースから、熊本地震 19日は熊本市で38度危険な暑さに 地震活動にも注意を。
-熊本地震の被災地では19日は気温が高くなり、危険な暑さとなるところがある見込みで、熱中症対策を徹底してください。 一方、地震活動について、気象庁は、緩やかに減少してはいるものの、依然として活発な活動…
-NHK主要ニュースから、トランプ大統領「協議行われていない」イランも強気姿勢を維持。
-イラン情勢をめぐってアメリカのトランプ大統領はSNSでイラン側と協議は行われていないとし、ホルムズ海峡の地図に「新たなアメリカ領」と書き添えた画像も投稿して、イランをけん制しました。 一方、イランは…
-TechCrunchから、DOJ’s probe into Andreessen Horowitz over board seats baffles VCs。
-Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.
-NHK主要ニュースから、千葉豪雨 死者13人 浸水2300棟超 路上の車両きょう移動完了へ。
-線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では13人が死亡し、住宅の浸水被害は床上と床下あわせて2300棟余りに上っています。 一方、千葉市は、市内の路上に残されていたおよそ2500台の…
-TechCrunchから、TikTok explores peer-to-peer payments via DMs, report says。
-If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.
-OpenAI Newsから、Strengthening democratic oversight in national security。
-OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.
-MusicRadarから、Nearly 40% of music released last month used AI。
-Almost a quarter was fully AI generated
-TechCrunchから、OpenAI institutes new safeguards after Hugging Face breach。
-The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.
-MusicRadarから、Rush’s Geddy Lee and Alex Lifeson give the thumbs-up to Angine De Poitrine: “The most entertaining and exhilarating bits of music that I've heard for a long, long time”。
-“I love the fact that they've gone viral"
-BBC Worldから、Lindsay Clancy begged for help before her children's killings, mother-in-law testifies。
-Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.
-NHK主要ニュースから、米トランプ政権 ICC＝国際刑事裁判所 赤根所長を制裁対象に。
-アメリカのトランプ政権は戦争犯罪などを裁くICC＝国際刑事裁判所について「悪意を持って権限を乱用している」などと主張し、トップを務める赤根智子所長を制裁対象に加えると発表しました。 ICCに対する圧…
+TechCrunchから、Cognition CEO denies report that SpaceX tried to acquire the startup。
+SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.
+TechCrunchから、Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’。
+After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.
+NHK主要ニュースから、高校野球 夏の甲子園 準決勝 智弁和歌山×横浜【速報予定】。
+夏の全国高校野球は準決勝2試合です。第1試合は、ともに優勝経験がある智弁和歌山高校と神奈川の横浜高校が対戦します。 最新情報をお伝えします。 NHKは試合をテレビとラジオで中継するとともに、「NH…
+NHK主要ニュースから、トランプ大統領 北朝鮮キム総書記との年内会談に意欲。
+アメリカのトランプ大統領は、北朝鮮のキム・ジョンウン(金正恩)総書記との年内の会談の実現に意欲を示しました。「賢い大統領がいるかぎり、彼は問題ないだろう」とも述べ北朝鮮の核をめぐる問題への対処に自信を…
+BBC Worldから、Sacked Ukrainian defence minister calls for presidential election。
+Martial law has been in place in Ukraine since February 2022, under which elections are suspended.
+NHK主要ニュースから、秋篠宮ご夫妻パラグアイに到着。
+秋篠宮ご夫妻は現地時間の19日、パラグアイの空港に到着されました。来週にかけて各地を巡り、日本からの移住者や日系人たちと交流されます。
+NHK主要ニュースから、神戸 女性殺害事件1年「面識ない」ストーカー相談 兵庫で増加。
+去年、神戸市で24歳の会社員の女性が、面識のない相手からストーカー被害を受けたうえ、マンションで殺害された事件から20日で1年です。 事件以降、兵庫県内では、面識のない相手からのストーカー被害の相談…
+TechCrunchから、Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth。
+AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.
+NHK主要ニュースから、鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か。
+鎌倉時代、元が日本に攻め入った「元寇」で沈んだ船がある長崎県の海底遺跡で、矢の一部が見つかりました。元に滅ぼされた南宋のものとみられ、調査した奈良文化財研究所などの研究グループでは、「元がどのように武…
+TechCrunchから、Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman。
+The actress' firm Kinship Ventures is an investor in the company.
+TechCrunchから、Gambling on the Little League World Series? Sports bettors have gone too far。
+Have we tried turning off society and turning it back on again?
+OpenAI Newsから、Offering Zero Data Retention for frontier models。
+OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
