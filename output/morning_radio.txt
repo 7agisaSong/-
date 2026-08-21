@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-21
-生成時刻: 07:03:09
+生成日: 2026-08-22
+生成時刻: 07:01:17
 
 おはようございます。
-今日は2026年8月21日、金曜日です。
+今日は2026年8月22日、土曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、政府 来週にも熊本地震で支援パッケージ 観光振興「応援割」も。
-今回の熊本地震を受けて、政府は来週にも被災者の生活再建に向けた支援パッケージをとりまとめる方針です。住まいの確保の支援策のほか、観光振興のため、国が宿泊代の一部を補助する「応援割」の実施などが盛り込ま…
-NHK主要ニュースから、千葉豪雨 生活やなりわいの再建が課題に。
-千葉県の記録的な豪雨では、これまでに13人が亡くなり、住宅の浸水被害は、およそ3500棟にのぼっています。農林水産業でも、これまでに少なくとも19億円にのぼる被害が出ていて、生活やなりわいの再建が課題…
-NHK主要ニュースから、熊本地震 被災地はきょうも猛烈な暑さ 熱中症対策継続を。
-熊本地震の被災地は21日も猛烈な暑さになる見込みで、引き続き、できるかぎりの熱中症対策をしてください。一方、地震活動について気象庁は、依然として活発な状態が続いているとして、1か月から2か月程度は最大…
-TechCrunchから、The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss。
-An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.
-NHK主要ニュースから、栃木4人死亡列車事故 見張り役情報共有できていなかった可能性。
-20日、栃木県鹿沼市の東武日光線の駅で特急列車に作業員4人がはねられて死亡した事故で、東武鉄道は20日夜に会見を開き、駅の周辺には現場作業員のほか、列車の接近などを知らせる3人の「見張り役」が配置され…
-TechCrunchから、OK, can we actually cool data centers with our pee?。
-Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.
-BBC Worldから、Dozens dead after boat capsizes in north-western Nigeria。
-The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.
-BBC Worldから、Como mayor hit by electric bike and issues blanket ban in Italian city。
-Alessandro Rapinese said the prohibition was for public safety, adding "I know what it's like to be hit by one of these beasts".
-TechCrunchから、Someone targeted security researchers using a fake crypto conference as a lure。
-A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.
-TechCrunchから、Mark buys a castle。
-Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland.
-BBC Worldから、US says sanctions will 'squash' Iran's economy and 'collapse' its regime。
-US Treasury Secretary Scott Bessent says allies will need to decide whether they "are with us or against us".
-TechCrunchから、Google gives publishers a new way to fight AI-driven traffic losses。
-Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.
+NHK主要ニュースから、東海から九州中心に気温上昇 酷暑日予想も 広範囲で大気不安定。
+22日は東海から九州を中心に気温が上がり、大分県では最高気温が40度と酷暑日が予想されているところもあります。熱中症対策を徹底してください。 一方、湿った空気の影響で、北日本から西日本の広い範囲で大…
+NHK主要ニュースから、千葉 路上の車両の所有者への引き渡し 警察などに協力求める。
+記録的な豪雨となった千葉県では、路上に残されていた車を移動させたあと、所有者への引き渡しが課題となっています。そうした中、行政や関係機関などで作るプロジェクトチームの会合が開かれ、警察にも協力を求めな…
+BBC Worldから、One killed in sword attack at Swedish school。
+Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.
+TechCrunchから、Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams。
+Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.
+NHK主要ニュースから、秋篠宮ご夫妻 日本人のパラグアイ移住90周年記念式典に。
+パラグアイを公式訪問している秋篠宮ご夫妻は、日本人の移住90周年を記念する式典に臨まれました。
+TechCrunchから、TikTok reaches $400M settlement over children’s privacy lawsuit。
+Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.
+NHK主要ニュースから、栃木4人死亡事故 運転士「急ブレーキかけたが間に合わず」。
+20日、栃木県鹿沼市の駅で特急列車に作業員4人がはねられて死亡した事故で、列車の運転士は東武鉄道の聞き取りに対し「作業員の待避が終わったという合図を受けホームに入ったあと線路上の作業員に気づき、急ブレ…
+NHK主要ニュースから、内閣改造と党役員人事 来月の見方広がる 鈴木幹事長の続投焦点。
+高市政権の発足から1年となるのを前に、自民党内では、高市総理大臣が、来月、内閣改造と自民党の役員人事に踏み切るという見方が広がっています。新たに日本維新の会からの入閣が検討されているほか、党役員人事で…
+TechCrunchから、The $225 Pebble Time 2 is a refreshingly fun smartwatch。
+The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.
+BBC Worldから、Russian double-tap drone strike kills 15 in Ukrainian mall, officials say。
+At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.
+TechCrunchから、Nvidia just showed that the harness, not the AI model, is now the real hero。
+Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.
+TechCrunchから、Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today。
+If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
