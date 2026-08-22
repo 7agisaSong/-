@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-22
-生成時刻: 07:01:17
+生成日: 2026-08-23
+生成時刻: 06:59:40
 
 おはようございます。
-今日は2026年8月22日、土曜日です。
+今日は2026年8月23日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、東海から九州中心に気温上昇 酷暑日予想も 広範囲で大気不安定。
-22日は東海から九州を中心に気温が上がり、大分県では最高気温が40度と酷暑日が予想されているところもあります。熱中症対策を徹底してください。 一方、湿った空気の影響で、北日本から西日本の広い範囲で大…
-NHK主要ニュースから、千葉 路上の車両の所有者への引き渡し 警察などに協力求める。
-記録的な豪雨となった千葉県では、路上に残されていた車を移動させたあと、所有者への引き渡しが課題となっています。そうした中、行政や関係機関などで作るプロジェクトチームの会合が開かれ、警察にも協力を求めな…
-BBC Worldから、One killed in sword attack at Swedish school。
-Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.
-TechCrunchから、Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams。
-Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.
-NHK主要ニュースから、秋篠宮ご夫妻 日本人のパラグアイ移住90周年記念式典に。
-パラグアイを公式訪問している秋篠宮ご夫妻は、日本人の移住90周年を記念する式典に臨まれました。
-TechCrunchから、TikTok reaches $400M settlement over children’s privacy lawsuit。
-Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.
-NHK主要ニュースから、栃木4人死亡事故 運転士「急ブレーキかけたが間に合わず」。
-20日、栃木県鹿沼市の駅で特急列車に作業員4人がはねられて死亡した事故で、列車の運転士は東武鉄道の聞き取りに対し「作業員の待避が終わったという合図を受けホームに入ったあと線路上の作業員に気づき、急ブレ…
-NHK主要ニュースから、内閣改造と党役員人事 来月の見方広がる 鈴木幹事長の続投焦点。
-高市政権の発足から1年となるのを前に、自民党内では、高市総理大臣が、来月、内閣改造と自民党の役員人事に踏み切るという見方が広がっています。新たに日本維新の会からの入閣が検討されているほか、党役員人事で…
-TechCrunchから、The $225 Pebble Time 2 is a refreshingly fun smartwatch。
-The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.
-BBC Worldから、Russian double-tap drone strike kills 15 in Ukrainian mall, officials say。
-At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.
-TechCrunchから、Nvidia just showed that the harness, not the AI model, is now the real hero。
-Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.
-TechCrunchから、Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today。
-If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!
+NHK主要ニュースから、茨城 東京 埼玉 千葉で震度5弱 気象庁“今後1週間程度は注意”。
+23日午前2時ごろ、茨城県南部を震源とするマグニチュード5.9の地震が発生し、茨城県、埼玉県、千葉県、東京都の各地で震度5弱の強い揺れを観測しました。気象庁は、今後1週間程度は最大震度5弱程度の揺れを…
+TechCrunchから、Harvard’s $699 startup bootcamp offers AI avatars of its instructors。
+In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.
+NHK主要ニュースから、【地震】茨城 牛久市役所で天井の一部落ちる。
+震度5弱の揺れを観測した茨城県牛久市では市役所の2階で長さおよそ2メートル、幅およそ50センチの天井の一部が落下したということです。
+NHK主要ニュースから、【被害情報まとめ】地震 埼玉県や神奈川県で複数のけが人。
+地震による被害の情報をお伝えします。
+TechCrunchから、Will the DOJ’s investigation into a16z spook other VCs?。
+On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.
+BBC Worldから、Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse。
+Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs as he accused the US of starting a trade war.
+BBC Worldから、Carney faces crucial test after walking away from Trump's deal。
+The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.
+NHK主要ニュースから、東京 足立区のスーパー 消火剤が大量に噴射 地震で誤作動か。
+警視庁によりますと、23日午前2時すぎ、震度5弱の揺れを観測した東京 足立区の一ツ家1丁目にあるスーパーで、消火設備のスプリンクラーから消火剤が大量に噴射されているのが見つかりました。地震の影響で誤作…
+TechCrunchから、Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research。
+Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.
+NHK主要ニュースから、【地震】東京 江東区“水道管が破裂”道路に水があふれ出す。
+震度4の揺れを観測した東京 江東区の清澄では水道管が破裂したという情報があり、都の水道局が対応にあたっています。現場近くの道路では中央付近から水があふれ出していましたが、地震から1時間半余りがたった2…
+TechCrunchから、OpenAI says California should strengthen its AI safety bill。
+OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.
+TechCrunchから、Frontier AI labs still won’t say how they’d contain a rogue model。
+A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
