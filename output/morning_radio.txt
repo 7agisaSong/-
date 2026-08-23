@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-23
-生成時刻: 06:59:40
+生成日: 2026-08-24
+生成時刻: 06:59:09
 
 おはようございます。
-今日は2026年8月23日、日曜日です。
+今日は2026年8月24日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、茨城 東京 埼玉 千葉で震度5弱 気象庁“今後1週間程度は注意”。
-23日午前2時ごろ、茨城県南部を震源とするマグニチュード5.9の地震が発生し、茨城県、埼玉県、千葉県、東京都の各地で震度5弱の強い揺れを観測しました。気象庁は、今後1週間程度は最大震度5弱程度の揺れを…
-TechCrunchから、Harvard’s $699 startup bootcamp offers AI avatars of its instructors。
-In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.
-NHK主要ニュースから、【地震】茨城 牛久市役所で天井の一部落ちる。
-震度5弱の揺れを観測した茨城県牛久市では市役所の2階で長さおよそ2メートル、幅およそ50センチの天井の一部が落下したということです。
-NHK主要ニュースから、【被害情報まとめ】地震 埼玉県や神奈川県で複数のけが人。
-地震による被害の情報をお伝えします。
-TechCrunchから、Will the DOJ’s investigation into a16z spook other VCs?。
-On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.
-BBC Worldから、Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse。
-Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs as he accused the US of starting a trade war.
-BBC Worldから、Carney faces crucial test after walking away from Trump's deal。
-The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.
-NHK主要ニュースから、東京 足立区のスーパー 消火剤が大量に噴射 地震で誤作動か。
-警視庁によりますと、23日午前2時すぎ、震度5弱の揺れを観測した東京 足立区の一ツ家1丁目にあるスーパーで、消火設備のスプリンクラーから消火剤が大量に噴射されているのが見つかりました。地震の影響で誤作…
-TechCrunchから、Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research。
-Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.
-NHK主要ニュースから、【地震】東京 江東区“水道管が破裂”道路に水があふれ出す。
-震度4の揺れを観測した東京 江東区の清澄では水道管が破裂したという情報があり、都の水道局が対応にあたっています。現場近くの道路では中央付近から水があふれ出していましたが、地震から1時間半余りがたった2…
-TechCrunchから、OpenAI says California should strengthen its AI safety bill。
-OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.
-TechCrunchから、Frontier AI labs still won’t say how they’d contain a rogue model。
-A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.
+NHK主要ニュースから、大分で39度予想 熊本も危険な暑さに 熱中症対策の徹底を。
+24日も西日本と東日本の各地で気温が上がり、大分県では最高気温が39度と危険な暑さとなる見込みです。熊本県の被災地でも危険な暑さになる見込みで、熱中症対策を徹底してください。
+NHK主要ニュースから、台風18号 あす以降 沖縄・奄美に接近へ 早めに備えを。
+非常に強い台風18号は25日以降、沖縄・奄美に近づくおそれがあります。24日からは次第に風が強まり、25日には猛烈な風が吹く見込みで、気象庁は早めに備えを進めるように呼びかけています。
+NHK主要ニュースから、経産省など 家事支援・ベビーシッター利用の税制優遇を要望へ。
+経済産業省などは、仕事と子育て・介護などの両立を後押ししようと、来年度の税制改正に向けて、家事支援サービスやベビーシッターの利用者が税制上の優遇措置を受けられるよう、要望を出す方針を固めました。
+NHK主要ニュースから、東武鉄道4人死亡事故 複数のミス重なった疑い 警察 経緯解明へ。
+栃木県鹿沼市の東武日光線で作業員4人が死亡した列車事故では、列車接近の伝達やホームへの進入の際に複数のミスが重なった疑いがあり、警察は作業の責任者や見張り役などから詳しい状況を聞くなどして、線路上の作…
+NHK主要ニュースから、新方式で国産初の量子コンピューター稼働開始 分子科学研究所。
+開発競争が進む量子コンピューターをめぐり、「中性原子」と呼ばれる国産としては初めての方式を採用した量子コンピューターが、愛知県内で稼働を始めたことがわかりました。
+TechCrunchから、Who’s behind the new ‘stealth model’ Ox Alpha?。
+A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.
+TechCrunchから、Uber faces fine of nearly $1B over automated driver suspensions。
+The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.
+TechCrunchから、Linkdaze’s smart calendar is built to run a household, not just track a schedule。
+Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.
+BBC Worldから、Trump says Canada wants 'benefits' of being US state after trade talks collapse。
+Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused the US of starting a trade war.
+BBC Worldから、Guinea rubbish landfill collapse kills 30。
+A mound of rubbish at a major waste site buried several homes in the capital, the government says.
+BBC Worldから、France links sharp rise in drownings to heatwaves。
+A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.
+TechCrunchから、TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions。
+Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
