@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-24
-生成時刻: 06:59:09
+生成日: 2026-08-25
+生成時刻: 07:02:47
 
 おはようございます。
-今日は2026年8月24日、月曜日です。
+今日は2026年8月25日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、大分で39度予想 熊本も危険な暑さに 熱中症対策の徹底を。
-24日も西日本と東日本の各地で気温が上がり、大分県では最高気温が39度と危険な暑さとなる見込みです。熊本県の被災地でも危険な暑さになる見込みで、熱中症対策を徹底してください。
-NHK主要ニュースから、台風18号 あす以降 沖縄・奄美に接近へ 早めに備えを。
-非常に強い台風18号は25日以降、沖縄・奄美に近づくおそれがあります。24日からは次第に風が強まり、25日には猛烈な風が吹く見込みで、気象庁は早めに備えを進めるように呼びかけています。
-NHK主要ニュースから、経産省など 家事支援・ベビーシッター利用の税制優遇を要望へ。
-経済産業省などは、仕事と子育て・介護などの両立を後押ししようと、来年度の税制改正に向けて、家事支援サービスやベビーシッターの利用者が税制上の優遇措置を受けられるよう、要望を出す方針を固めました。
-NHK主要ニュースから、東武鉄道4人死亡事故 複数のミス重なった疑い 警察 経緯解明へ。
-栃木県鹿沼市の東武日光線で作業員4人が死亡した列車事故では、列車接近の伝達やホームへの進入の際に複数のミスが重なった疑いがあり、警察は作業の責任者や見張り役などから詳しい状況を聞くなどして、線路上の作…
-NHK主要ニュースから、新方式で国産初の量子コンピューター稼働開始 分子科学研究所。
-開発競争が進む量子コンピューターをめぐり、「中性原子」と呼ばれる国産としては初めての方式を採用した量子コンピューターが、愛知県内で稼働を始めたことがわかりました。
-TechCrunchから、Who’s behind the new ‘stealth model’ Ox Alpha?。
-A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.
-TechCrunchから、Uber faces fine of nearly $1B over automated driver suspensions。
-The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.
-TechCrunchから、Linkdaze’s smart calendar is built to run a household, not just track a schedule。
-Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.
-BBC Worldから、Trump says Canada wants 'benefits' of being US state after trade talks collapse。
-Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused the US of starting a trade war.
-BBC Worldから、Guinea rubbish landfill collapse kills 30。
-A mound of rubbish at a major waste site buried several homes in the capital, the government says.
-BBC Worldから、France links sharp rise in drownings to heatwaves。
-A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.
-TechCrunchから、TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions。
-Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
+NHK主要ニュースから、米財務長官“イランと取り引きある企業などに大規模経済制裁”。
+アメリカのベッセント財務長官はイランの孤立化を図るためイランと取り引きのある企業や個人などに対し、大規模な経済制裁を科す措置を開始したと発表しました。ベッセント長官は、「あらゆる国や組織がアメリカの制…
+NHK主要ニュースから、岐阜 大野町 住宅で成人とみられる3人の遺体見つかる。
+24日午後、岐阜県大野町の住宅で成人とみられる3人の遺体が見つかりました。死後しばらく時間が経過していて性別などは分かっていないということで、警察は身元の確認を進めるとともに、死亡した詳しい経緯を調べ…
+TechCrunchから、Trump bought SpaceX shares two weeks after blockbuster IPO。
+The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.
+TechCrunchから、Zillow and Redfin settle FTC antitrust case。
+Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.
+NHK主要ニュースから、台風18号 沖縄の大東島地方が暴風域に 暴風や高波に厳重警戒。
+非常に強い台風18号は沖縄の大東島地方を暴風域に巻き込みながら西寄りに進んでいます。沖縄・奄美では、26日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあり、気象庁は暴風や高波に厳重に警戒す…
+NHK主要ニュースから、トランプ大統領 カナダの自動車などへの追加関税を50％に。
+アメリカのトランプ大統領は24日、カナダから輸入される自動車や自動車部品などへの追加関税を来年1月から50％に引き上げると表明しました。アメリカとカナダは関税措置を相次いで表明し、対立が激しくなってい…
+TechCrunchから、Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space。
+Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.
+TechCrunchから、Alabama launches investigation into OpenAI’s hack of Hugging Face。
+Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.
+TechCrunchから、Amazon hikes hardware prices by 60%, blaming memory shortage。
+As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.
+BBC Worldから、Iran faces 'greatest financial offensive ever', says US treasury secretary。
+Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.
+BBC Worldから、UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia。
+It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.
+MusicRadarから、"I guess some of you probably know there’s a new man in town”: ZZ Top get back on the road just days after drummer Frank Beard’s death。
+Michael Monahan is behind the kit on their current US tour
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
