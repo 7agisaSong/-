@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-25
-生成時刻: 07:02:47
+生成日: 2026-08-26
+生成時刻: 07:01:27
 
 おはようございます。
-今日は2026年8月25日、火曜日です。
+今日は2026年8月26日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、米財務長官“イランと取り引きある企業などに大規模経済制裁”。
-アメリカのベッセント財務長官はイランの孤立化を図るためイランと取り引きのある企業や個人などに対し、大規模な経済制裁を科す措置を開始したと発表しました。ベッセント長官は、「あらゆる国や組織がアメリカの制…
-NHK主要ニュースから、岐阜 大野町 住宅で成人とみられる3人の遺体見つかる。
-24日午後、岐阜県大野町の住宅で成人とみられる3人の遺体が見つかりました。死後しばらく時間が経過していて性別などは分かっていないということで、警察は身元の確認を進めるとともに、死亡した詳しい経緯を調べ…
-TechCrunchから、Trump bought SpaceX shares two weeks after blockbuster IPO。
-The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.
-TechCrunchから、Zillow and Redfin settle FTC antitrust case。
-Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.
-NHK主要ニュースから、台風18号 沖縄の大東島地方が暴風域に 暴風や高波に厳重警戒。
-非常に強い台風18号は沖縄の大東島地方を暴風域に巻き込みながら西寄りに進んでいます。沖縄・奄美では、26日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあり、気象庁は暴風や高波に厳重に警戒す…
-NHK主要ニュースから、トランプ大統領 カナダの自動車などへの追加関税を50％に。
-アメリカのトランプ大統領は24日、カナダから輸入される自動車や自動車部品などへの追加関税を来年1月から50％に引き上げると表明しました。アメリカとカナダは関税措置を相次いで表明し、対立が激しくなってい…
-TechCrunchから、Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space。
-Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.
-TechCrunchから、Alabama launches investigation into OpenAI’s hack of Hugging Face。
-Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.
-TechCrunchから、Amazon hikes hardware prices by 60%, blaming memory shortage。
-As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.
-BBC Worldから、Iran faces 'greatest financial offensive ever', says US treasury secretary。
-Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.
-BBC Worldから、UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia。
-It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.
-MusicRadarから、"I guess some of you probably know there’s a new man in town”: ZZ Top get back on the road just days after drummer Frank Beard’s death。
-Michael Monahan is behind the kit on their current US tour
+NHK主要ニュースから、台風18号 鹿児島 奄美や沖縄本島を暴風域に巻き込んで西へ。
+強い台風18号は鹿児島県の奄美地方や、沖縄本島地方を暴風域に巻き込みながら西寄りに進んでいます。 沖縄・奄美では昼前にかけて暴風となるおそれがあるほか、これまでの雨でレベル4危険警報が出されている地…
+NHK主要ニュースから、妊娠中期に暑い中を過ごすと「早産」リスク高まる。
+妊娠中期の妊婦が暑い中を過ごすと、「早産」のリスクが高まるという研究結果を、東京科学大学のグループがまとめました。分析をした専門家は「妊娠中期は"安定期"とも言われるが、妊婦には無理をさせないことが大…
+TechCrunchから、X sends cease-and-desist to open-source project Nitter over alleged scraping。
+X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.
+NHK主要ニュースから、南太平洋 バヌアツ諸島で火山噴火 津波の心配なし。
+25日夜、南太平洋のバヌアツ諸島の火山で発生した大規模な噴火について、気象庁は噴火による津波の有無を調べていましたが26日午前5時、「日本への津波の心配はない」と発表しました。
+NHK主要ニュースから、政府 エネルギー安定確保で新計画 代替パイプライン建設支援。
+中東情勢を受けて、政府は26日、エネルギーの安定確保に向けた新たな計画をまとめることにしていて、ホルムズ海峡を通らない経路での原油の調達につながる代替パイプラインの建設支援などを盛り込む方針です。
+BBC Worldから、Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%。
+The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.
+BBC Worldから、CIA chief travels to Moscow for unannounced talks, US media reports。
+Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.
+NHK主要ニュースから、「百日せき」患者増の2か月前に下水調査で流行の兆し 阪大など。
+去年、大きな流行となった「百日せき」について、大阪大学などの研究グループが下水に含まれる菌の遺伝子を継続的に調べたところ、患者数が増え始める2か月以上前に流行の兆しが現れていたことが分かりました。研究…
+BBC Worldから、Mass arrests in global crackdown on West African cyber-crime networks。
+The operation included the arrest of 39 people in South Africa for romance and investment scams.
+MusicRadarから、“The thing I remember most was all the musicians when I came up with the little guitar lick saying: 'Damn, that’s so good, that's the coolest little lick'": How Dolly Parton created a country classic…。
+Following the sad news of her death, we look back on the making of the song that became Parton's first big crossover hit
+TechCrunchから、Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious。
+Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.
+MusicRadarから、“Her songs will continue to resonate with people of all ages”: Music legend Dolly Parton dies at 80。
+The prolific artist behind the timeless Jolene and 9 to 5 sadly passed away today of undisclosed causes
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
