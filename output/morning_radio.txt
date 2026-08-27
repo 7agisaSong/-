@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-26
-生成時刻: 07:01:27
+生成日: 2026-08-27
+生成時刻: 11:11:11
 
 おはようございます。
-今日は2026年8月26日、水曜日です。
+今日は2026年8月27日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、台風18号 鹿児島 奄美や沖縄本島を暴風域に巻き込んで西へ。
-強い台風18号は鹿児島県の奄美地方や、沖縄本島地方を暴風域に巻き込みながら西寄りに進んでいます。 沖縄・奄美では昼前にかけて暴風となるおそれがあるほか、これまでの雨でレベル4危険警報が出されている地…
-NHK主要ニュースから、妊娠中期に暑い中を過ごすと「早産」リスク高まる。
-妊娠中期の妊婦が暑い中を過ごすと、「早産」のリスクが高まるという研究結果を、東京科学大学のグループがまとめました。分析をした専門家は「妊娠中期は"安定期"とも言われるが、妊婦には無理をさせないことが大…
-TechCrunchから、X sends cease-and-desist to open-source project Nitter over alleged scraping。
-X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.
-NHK主要ニュースから、南太平洋 バヌアツ諸島で火山噴火 津波の心配なし。
-25日夜、南太平洋のバヌアツ諸島の火山で発生した大規模な噴火について、気象庁は噴火による津波の有無を調べていましたが26日午前5時、「日本への津波の心配はない」と発表しました。
-NHK主要ニュースから、政府 エネルギー安定確保で新計画 代替パイプライン建設支援。
-中東情勢を受けて、政府は26日、エネルギーの安定確保に向けた新たな計画をまとめることにしていて、ホルムズ海峡を通らない経路での原油の調達につながる代替パイプラインの建設支援などを盛り込む方針です。
-BBC Worldから、Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%。
-The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.
-BBC Worldから、CIA chief travels to Moscow for unannounced talks, US media reports。
-Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.
-NHK主要ニュースから、「百日せき」患者増の2か月前に下水調査で流行の兆し 阪大など。
-去年、大きな流行となった「百日せき」について、大阪大学などの研究グループが下水に含まれる菌の遺伝子を継続的に調べたところ、患者数が増え始める2か月以上前に流行の兆しが現れていたことが分かりました。研究…
-BBC Worldから、Mass arrests in global crackdown on West African cyber-crime networks。
-The operation included the arrest of 39 people in South Africa for romance and investment scams.
-MusicRadarから、“The thing I remember most was all the musicians when I came up with the little guitar lick saying: 'Damn, that’s so good, that's the coolest little lick'": How Dolly Parton created a country classic…。
-Following the sad news of her death, we look back on the making of the song that became Parton's first big crossover hit
-TechCrunchから、Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious。
-Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.
-MusicRadarから、“Her songs will continue to resonate with people of all ages”: Music legend Dolly Parton dies at 80。
-The prolific artist behind the timeless Jolene and 9 to 5 sadly passed away today of undisclosed causes
+NHK主要ニュースから、【大雨被害まとめ】石川 富山 道路冠水や床下浸水の情報。
+石川県によりますと、県内の大雨による人的被害は、午前8時時点で、確認されていないということです。 一方、「緊急安全確保」が出されている羽咋市と宝達志水町では道路が冠水したという情報が入っているほか、中…
+NHK主要ニュースから、【速報中】石川 富山にレベル5大雨特別警報 命の助かる行動を。
+前線に向かって流れ込む湿った空気などの影響で北陸では線状降水帯が相次いで発生し、気象庁は午前6時20分、石川県と富山県にレベル5大雨特別警報を発表しました。 川の氾濫や浸水がすでに発生していて気象庁…
+NHK主要ニュースから、中部電力 浜岡原発解体めぐり工事報告書き換えと発表。
+静岡県にある浜岡原子力発電所の1、2号機の廃炉作業をめぐり、中部電力は、作業にかかった費用を不適切な手続きで請求していたと正式に発表しました。 作業を請け負った会社から受け取った2024年度の工事報…
+NHK主要ニュースから、【配信 河川 現在の状況】石川 富山にレベル5大雨特別警報。
+石川県と富山県にレベル5大雨特別警報が発表され、各地で浸水や川の氾濫が発生しています。 各地の様子を配信映像でお伝えします。
+NHK主要ニュースから、ネパール・中国の国境地帯で土石流“日本人5人と連絡取れず”。
+ネパールと中国の国境地帯で26日、大規模な土石流が発生し、ネパールの首都カトマンズにある日本大使館によりますと、観光ツアーに参加していたとみられる日本人5人と連絡が取れないということです。日本大使館は…
+TechCrunchから、Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation。
+The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.
+TechCrunchから、Amazon just tripled its order of Nvidia chips over ‘surging demand’。
+Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.
+TechCrunchから、Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well。
+The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.
+BBC Worldから、US drug agency approves breakthrough treatment for pancreatic cancer。
+Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.
+TechCrunchから、Anthropic continues compute-gobbling streak in $45B deal with Nscale。
+The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.
+TechCrunchから、Google’s Gemini has a branding problem, and so does the rest of AI。
+Consumer AI apps need to stop making users learn their product architecture.
+MusicRadarから、“It fundamentally changes how quickly musicians can build sounds”: Neural DSP adds Device Presets and expands Quad Cortex functionality in huge update that’ll help you spend less time tweaking。
+CorOS and Cortex Control 4.1.0 expands plugin compatibility, adds eight new virtual devices and supports multiple device management – but are Device Presets the game-changer?
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
