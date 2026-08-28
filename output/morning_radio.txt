@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-27
-生成時刻: 11:11:11
+生成日: 2026-08-28
+生成時刻: 14:49:41
 
 おはようございます。
-今日は2026年8月27日、木曜日です。
+今日は2026年8月28日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、【大雨被害まとめ】石川 富山 道路冠水や床下浸水の情報。
-石川県によりますと、県内の大雨による人的被害は、午前8時時点で、確認されていないということです。 一方、「緊急安全確保」が出されている羽咋市と宝達志水町では道路が冠水したという情報が入っているほか、中…
-NHK主要ニュースから、【速報中】石川 富山にレベル5大雨特別警報 命の助かる行動を。
-前線に向かって流れ込む湿った空気などの影響で北陸では線状降水帯が相次いで発生し、気象庁は午前6時20分、石川県と富山県にレベル5大雨特別警報を発表しました。 川の氾濫や浸水がすでに発生していて気象庁…
-NHK主要ニュースから、中部電力 浜岡原発解体めぐり工事報告書き換えと発表。
-静岡県にある浜岡原子力発電所の1、2号機の廃炉作業をめぐり、中部電力は、作業にかかった費用を不適切な手続きで請求していたと正式に発表しました。 作業を請け負った会社から受け取った2024年度の工事報…
-NHK主要ニュースから、【配信 河川 現在の状況】石川 富山にレベル5大雨特別警報。
-石川県と富山県にレベル5大雨特別警報が発表され、各地で浸水や川の氾濫が発生しています。 各地の様子を配信映像でお伝えします。
-NHK主要ニュースから、ネパール・中国の国境地帯で土石流“日本人5人と連絡取れず”。
-ネパールと中国の国境地帯で26日、大規模な土石流が発生し、ネパールの首都カトマンズにある日本大使館によりますと、観光ツアーに参加していたとみられる日本人5人と連絡が取れないということです。日本大使館は…
-TechCrunchから、Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation。
-The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.
-TechCrunchから、Amazon just tripled its order of Nvidia chips over ‘surging demand’。
-Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.
-TechCrunchから、Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well。
-The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.
-BBC Worldから、US drug agency approves breakthrough treatment for pancreatic cancer。
-Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.
-TechCrunchから、Anthropic continues compute-gobbling streak in $45B deal with Nscale。
-The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.
-TechCrunchから、Google’s Gemini has a branding problem, and so does the rest of AI。
-Consumer AI apps need to stop making users learn their product architecture.
-MusicRadarから、“It fundamentally changes how quickly musicians can build sounds”: Neural DSP adds Device Presets and expands Quad Cortex functionality in huge update that’ll help you spend less time tweaking。
-CorOS and Cortex Control 4.1.0 expands plugin compatibility, adds eight new virtual devices and supports multiple device management – but are Device Presets the game-changer?
+NHK主要ニュースから、インフルエンザ全国的な流行入り 8月の発表は異例の早さ。
+今月23日までの1週間に全国から報告されたインフルエンザの患者数が1医療機関あたり1人を超え、厚生労働省は28日、全国的な流行に入ったと発表しました。 8月中の発表は異例の早さで、1年を通して流行し…
+NHK主要ニュースから、横浜 山中市長 支援者に辞意伝える 重大なパワハラ行為認定で。
+職員に対する重大なパワハラ行為があったと認定された横浜市の山中竹春市長が、28日開かれた自身の後援会の会合で、辞職する意向を支援者に伝えました。
+NHK主要ニュースから、石川県 道路に土砂 周囲と行き来できない地域相次ぐ。
+石川県内では大雨で土砂崩れが発生して道路が通行止めになり、各自治体によりますと、28日午前10時の時点で少なくとも107世帯、210人余りが周囲と行き来ができない状態だということです。
+BBC Worldから、Trump administration illegally retaliated against Anthropic, judge rules。
+The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.
+NHK主要ニュースから、熊本地震1か月 イオンモール熊本に献花台も 犠牲者を追悼。
+熊本県で最大震度7の揺れを観測した地震から28日で1か月です。地震のあとに起きた爆発で7人が亡くなった熊本県嘉島町の「イオンモール熊本」では、献花台に訪れた人たちが犠牲者を悼みました。
+NHK主要ニュースから、全国的に大気不安定 北陸再び雨強まる見込み 土砂災害に警戒。
+前線や低気圧の影響などで、北海道では明け方に線状降水帯が発生したほか、近畿や中国地方でも雨雲が発達するなど、全国的に大気の状態が非常に不安定になっています。 27日記録的な大雨となった北陸では、再び…
+TechCrunchから、AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10。
+A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking throughout the night.
+BBC Worldから、Tate brothers blast US jail conditions as they seek bail in UK extradition fight。
+Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.
+TechCrunchから、Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026。
+At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
+BBC Worldから、What we know after the big Grand Theft Auto 6 preview。
+The official look at the blockbuster video game leaves fans and critics impressed.
+BBC Worldから、Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children。
+Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.
+TechCrunchから、Rivian’s CFO is leaving the company。
+Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
