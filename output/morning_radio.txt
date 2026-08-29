@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-29
-生成時刻: 12:23:02
+生成日: 2026-08-30
+生成時刻: 08:37:45
 
 おはようございます。
-今日は2026年8月29日、土曜日です。
+今日は2026年8月30日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、ネパール土石流 586人が死亡 国連は支援を拡大する方針。
-ネパールと中国の国境地帯で発生した大規模な土石流では、これまでに両国で合わせて586人の死亡が確認され、ネパール側では1900人以上が行方不明となり、日本人5人とも連絡が取れなくなっています。 大量…
-NHK主要ニュースから、大気の状態非常に不安定 北陸で再び大雨のおそれ。
-前線や湿った空気の影響で大気の状態が非常に不安定になり、27日、記録的な大雨となった北陸でも再び雨が強まっています。北日本から西日本では31日にかけて非常に激しい雨や激しい雨が降り、北陸でも再び大雨と…
-NHK主要ニュースから、鹿児島いちき串木野市沖合で2人発見 行方不明の中高生捜索中に。
-鹿児島県の串木野海上保安部によりますと、29日午前、いちき串木野市の照島海岸の付近の沖合で、2人が発見されたということです。
-BBC Worldから、Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil。
-Venezuelan interim president says the unusual agreement will help revive her country's economy.
-BBC Worldから、Right-wing commentator Milo Yiannopoulos detained by ICE。
-The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.
-BBC Worldから、Landlady to 9/11 hijackers reveals their links to alleged Saudi spy。
-A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.
-TechCrunchから、Chinese automakers are following Tesla’s bet that robots are the next big profit machine。
-Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.
-TechCrunchから、Is the best way to watch a movie on a pair of sunglasses?。
-Are XREAL's smart glasses the way of the future for home entertainment?
-BBC Worldから、Footage of Tibet floods isn't being shown in China - and we know little about victims there。
-Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.
-TechCrunchから、Neocloud Lambda secures $1B in debt to buy more chips。
-Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.
-BBC Worldから、Norway mourns King Harald as Haakon VIII ascends throne。
-Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto "all for norway".
-TechCrunchから、An Anthropic researcher just gave us a peek at self-improving AI。
-Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.
+NHK主要ニュースから、福井県に大雨特別警報 福井市 大野市 勝山市の3市が対象。
+前線と湿った空気の影響で福井県では記録的な大雨となり、気象庁は30日早朝、福井市と大野市、それに勝山市にレベル5大雨特別警報を発表しました。 川の氾濫や浸水がすでに発生していて、気象庁は少しでも命が…
+NHK主要ニュースから、【被害まとめ】福井県内で道路冠水や住宅浸水相次ぐ。
+前線と湿った空気の影響で福井県では記録的な大雨となっています。県内では道路の冠水や、住宅の浸水が相次いでいます。 各地の被害をまとめました。
+NHK主要ニュースから、【動画】福井市大宮町の国道が冠水 茶色い水が激しく流れる。
+30日午前4時ごろ、福井市大宮町で撮影された映像です。 道路が冠水し、茶色く濁った水が激しく流れている様子が確認できます。 動画を撮影した50代の男性は、「国道が膝くらいの高さまで冠水していて、水…
+NHK主要ニュースから、気象庁と国交省が会見“身の安全確保を”福井県に大雨特別警報。
+福井県に「レベル5大雨特別警報」を発表したことについて、気象庁と国土交通省は30日午前5時半から合同で記者会見を開きました。
+NHK主要ニュースから、福井 大野 勝山の3市に緊急安全確保 命助かる可能性高い行動を。
+大雨の特別警報が出されたことを受けて、福井県大野市は午前4時半、市内10地区の1072世帯、2719人に出されていた「緊急安全確保」を、市内全域の1万1530世帯、2万8904人に拡大しました。 ま…
+BBC Worldから、At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot。
+An investigation has begun into the storage of weapons for Ukraine's military near a residential area.
+BBC Worldから、Former Ecuadorian president imprisoned for corruption。
+Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.
+BBC Worldから、Norway's new king remembers 'my dear father' in first speech。
+Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.
+TechCrunchから、Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft。
+This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.
+BBC Worldから、Right-wing commentator Milo Yiannopoulos deported from US to UK。
+The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).
+TechCrunchから、At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?。
+Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.
+TechCrunchから、“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z。
+Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a "discovery" science to an "engineering" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
