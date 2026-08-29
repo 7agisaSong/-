@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-28
-生成時刻: 14:49:41
+生成日: 2026-08-29
+生成時刻: 12:23:02
 
 おはようございます。
-今日は2026年8月28日、金曜日です。
+今日は2026年8月29日、土曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、インフルエンザ全国的な流行入り 8月の発表は異例の早さ。
-今月23日までの1週間に全国から報告されたインフルエンザの患者数が1医療機関あたり1人を超え、厚生労働省は28日、全国的な流行に入ったと発表しました。 8月中の発表は異例の早さで、1年を通して流行し…
-NHK主要ニュースから、横浜 山中市長 支援者に辞意伝える 重大なパワハラ行為認定で。
-職員に対する重大なパワハラ行為があったと認定された横浜市の山中竹春市長が、28日開かれた自身の後援会の会合で、辞職する意向を支援者に伝えました。
-NHK主要ニュースから、石川県 道路に土砂 周囲と行き来できない地域相次ぐ。
-石川県内では大雨で土砂崩れが発生して道路が通行止めになり、各自治体によりますと、28日午前10時の時点で少なくとも107世帯、210人余りが周囲と行き来ができない状態だということです。
-BBC Worldから、Trump administration illegally retaliated against Anthropic, judge rules。
-The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.
-NHK主要ニュースから、熊本地震1か月 イオンモール熊本に献花台も 犠牲者を追悼。
-熊本県で最大震度7の揺れを観測した地震から28日で1か月です。地震のあとに起きた爆発で7人が亡くなった熊本県嘉島町の「イオンモール熊本」では、献花台に訪れた人たちが犠牲者を悼みました。
-NHK主要ニュースから、全国的に大気不安定 北陸再び雨強まる見込み 土砂災害に警戒。
-前線や低気圧の影響などで、北海道では明け方に線状降水帯が発生したほか、近畿や中国地方でも雨雲が発達するなど、全国的に大気の状態が非常に不安定になっています。 27日記録的な大雨となった北陸では、再び…
-TechCrunchから、AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10。
-A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking throughout the night.
-BBC Worldから、Tate brothers blast US jail conditions as they seek bail in UK extradition fight。
-Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.
-TechCrunchから、Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026。
-At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
-BBC Worldから、What we know after the big Grand Theft Auto 6 preview。
-The official look at the blockbuster video game leaves fans and critics impressed.
-BBC Worldから、Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children。
-Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.
-TechCrunchから、Rivian’s CFO is leaving the company。
-Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.
+NHK主要ニュースから、ネパール土石流 586人が死亡 国連は支援を拡大する方針。
+ネパールと中国の国境地帯で発生した大規模な土石流では、これまでに両国で合わせて586人の死亡が確認され、ネパール側では1900人以上が行方不明となり、日本人5人とも連絡が取れなくなっています。 大量…
+NHK主要ニュースから、大気の状態非常に不安定 北陸で再び大雨のおそれ。
+前線や湿った空気の影響で大気の状態が非常に不安定になり、27日、記録的な大雨となった北陸でも再び雨が強まっています。北日本から西日本では31日にかけて非常に激しい雨や激しい雨が降り、北陸でも再び大雨と…
+NHK主要ニュースから、鹿児島いちき串木野市沖合で2人発見 行方不明の中高生捜索中に。
+鹿児島県の串木野海上保安部によりますと、29日午前、いちき串木野市の照島海岸の付近の沖合で、2人が発見されたということです。
+BBC Worldから、Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil。
+Venezuelan interim president says the unusual agreement will help revive her country's economy.
+BBC Worldから、Right-wing commentator Milo Yiannopoulos detained by ICE。
+The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.
+BBC Worldから、Landlady to 9/11 hijackers reveals their links to alleged Saudi spy。
+A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.
+TechCrunchから、Chinese automakers are following Tesla’s bet that robots are the next big profit machine。
+Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.
+TechCrunchから、Is the best way to watch a movie on a pair of sunglasses?。
+Are XREAL's smart glasses the way of the future for home entertainment?
+BBC Worldから、Footage of Tibet floods isn't being shown in China - and we know little about victims there。
+Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.
+TechCrunchから、Neocloud Lambda secures $1B in debt to buy more chips。
+Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.
+BBC Worldから、Norway mourns King Harald as Haakon VIII ascends throne。
+Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto "all for norway".
+TechCrunchから、An Anthropic researcher just gave us a peek at self-improving AI。
+Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
