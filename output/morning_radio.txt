@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-30
-生成時刻: 08:37:45
+生成日: 2026-08-31
+生成時刻: 08:56:04
 
 おはようございます。
-今日は2026年8月30日、日曜日です。
+今日は2026年8月31日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、福井県に大雨特別警報 福井市 大野市 勝山市の3市が対象。
-前線と湿った空気の影響で福井県では記録的な大雨となり、気象庁は30日早朝、福井市と大野市、それに勝山市にレベル5大雨特別警報を発表しました。 川の氾濫や浸水がすでに発生していて、気象庁は少しでも命が…
-NHK主要ニュースから、【被害まとめ】福井県内で道路冠水や住宅浸水相次ぐ。
-前線と湿った空気の影響で福井県では記録的な大雨となっています。県内では道路の冠水や、住宅の浸水が相次いでいます。 各地の被害をまとめました。
-NHK主要ニュースから、【動画】福井市大宮町の国道が冠水 茶色い水が激しく流れる。
-30日午前4時ごろ、福井市大宮町で撮影された映像です。 道路が冠水し、茶色く濁った水が激しく流れている様子が確認できます。 動画を撮影した50代の男性は、「国道が膝くらいの高さまで冠水していて、水…
-NHK主要ニュースから、気象庁と国交省が会見“身の安全確保を”福井県に大雨特別警報。
-福井県に「レベル5大雨特別警報」を発表したことについて、気象庁と国土交通省は30日午前5時半から合同で記者会見を開きました。
-NHK主要ニュースから、福井 大野 勝山の3市に緊急安全確保 命助かる可能性高い行動を。
-大雨の特別警報が出されたことを受けて、福井県大野市は午前4時半、市内10地区の1072世帯、2719人に出されていた「緊急安全確保」を、市内全域の1万1530世帯、2万8904人に拡大しました。 ま…
-BBC Worldから、At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot。
-An investigation has begun into the storage of weapons for Ukraine's military near a residential area.
-BBC Worldから、Former Ecuadorian president imprisoned for corruption。
-Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.
-BBC Worldから、Norway's new king remembers 'my dear father' in first speech。
-Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.
-TechCrunchから、Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft。
-This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.
-BBC Worldから、Right-wing commentator Milo Yiannopoulos deported from US to UK。
-The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).
-TechCrunchから、At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?。
-Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.
-TechCrunchから、“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z。
-Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a "discovery" science to an "engineering" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.
+BBC Worldから、US strikes Iranian launchers on Larak Island in first known attack in weeks。
+Iran says the attack killed some civilians and is the first known US strike on Iran since late July.
+BBC Worldから、15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon。
+"It was a beautiful day - and then people were screaming," one hiker who was airlifted to safety tells the BBC.
+NHK主要ニュースから、核のごみ最終処分地 近く茨城・常陸大宮市に文献調査申し入れ。
+高レベル放射性廃棄物、いわゆる「核のごみ」の最終処分地の選定をめぐり、経済産業省が、茨城県の常陸大宮市に対し、調査の第1段階となる「文献調査」の実施を近く、申し入れる方向で最終的な調整を進めていること…
+NHK主要ニュースから、ベルギー国防相“新たに駐在武官配置し日本と連携強化”。
+ヨーロッパ各国が軍事力を増強する中国を念頭に、安全保障面で日本との協力を強化する中、ベルギーの国防相がNHKの単独インタビューに応じ、東京に防衛省とより緊密に情報交換などを行う新たなポストを設置すると…
+NHK主要ニュースから、千葉豪雨 走行中のタクシー浸水被害100台超 協会が緊急会合へ。
+8月13日の千葉県の記録的な豪雨で、少なくとも100台を超えるタクシーが、走行中に浸水の被害を受けていたことが、業界団体への取材で分かりました。業界団体は31日に緊急の会合を開き、大雨などで危険が迫っ…
+NHK主要ニュースから、滋賀 乗用車とトラックが正面衝突 3人死亡 3人重軽傷。
+30日夕方、滋賀県高島市の国道で5人が乗った乗用車とトラックが正面衝突する事故があり、乗用車に乗っていた20代から30代の男女3人が死亡したほか、4歳の男の子が大けがをするなど3人が重軽傷を負いました…
+BBC Worldから、Eight killed and others missing after ferry capsizes off northern Cyprus。
+A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.
+NHK主要ニュースから、中道 立民 公明 きょう再び党首会談へ「分党」やむなしの意見。
+立憲民主党が、中道改革連合、公明党とは合流しない方針を示したことを受けて、3党は31日、改めて党首会談を行う方向で調整しています。 中道・公明両党からは「分党」もやむをえないという意見が相次いでいて…
+TechCrunchから、Liux’s Big microcar bets on sustainability to take on Chinese rivals。
+The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.
+BBC Worldから、Manhunt after shooting at Swiss rave kills woman, 22, and injures five。
+Five others in their twenties were injured after shots were fired at a techno event near Zurich.
+TechCrunchから、Musk’s faster path to more gas turbines comes with pollution problem。
+Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.
+BBC Worldから、Iceland votes against restarting EU membership talks。
+Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
