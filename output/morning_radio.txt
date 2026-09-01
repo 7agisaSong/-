@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-01
-生成時刻: 09:48:02
+生成日: 2026-09-02
+生成時刻: 08:34:40
 
 おはようございます。
-今日は2026年9月1日、火曜日です。
+今日は2026年9月2日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、長期金利 2.965％に上昇 約29年11か月ぶりの水準。
-1日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが一時、2.965％まで上昇しました。 日本相互証券によりますと、1996年10月以来、およそ29年11か月ぶりの高い水…
-TechCrunchから、Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year。
-Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.
-NHK主要ニュースから、防災の日 政府の総合防災訓練 日本海溝・千島海溝巨大地震想定。
-1日は「防災の日」です。 ことしの政府の総合防災訓練は、日本海溝・千島海溝で巨大地震が発生し、北海道と東北の広い範囲で甚大な被害が出ているという想定で行われ、国や自治体の担当者が初動対応や連携の手順…
-TechCrunchから、Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI。
-Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.
-TechCrunchから、Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund。
-The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.
-TechCrunchから、a16z brings growth fund to $8.5B days after launching new $1.1B fund。
-Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.
-TechCrunchから、A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms。
-Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.
-NHK主要ニュースから、米ベッセント財務長官と日銀総裁や片山財務相が相次ぎ会談。
-G20＝主要20か国の財務相・中央銀行総裁会議が開かれているアメリカのノースカロライナ州・アッシュビルでアメリカ財務省の高官が、31日、NHKの単独インタビューに応じ、ベッセント財務長官が日銀の植田総…
-MusicRadarから、“An exceptionally accurate model of the original Prophet, with a clutch of incredibly useful enhancements”: GForce Prophet-5 review。
-Embellished by official backing from Sequential, GForce brings us the original soothsayer in software form. We look at the fortunes of the new Prophet
-NHK主要ニュースから、西日本や北陸で猛暑日予想 熱中症対策を 大気の状態も不安定に。
-1日は西日本と東日本を中心に気温が上がり、35度以上の猛暑日になる見込みです。 記録的な大雨となった北陸でも猛烈な暑さが予想されていて、復旧作業などの際には熱中症対策を心がけてください。 一方、湿…
-BBC Worldから、US singer D4vd's celebrity lawyers withdraw from murder case。
-The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.
-BBC Worldから、Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously。
-Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.
+TechCrunchから、Reliance’s JioHotstar takes its streaming empire global — without sports。
+JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.
+NHK主要ニュースから、北日本で大雨 青森で線状降水帯発生 青森・秋田では厳重警戒を。
+前線を伴った低気圧の影響で北日本では局地的に猛烈な雨が降り、青森県では線状降水帯が発生したほか、「記録的短時間大雨」の気象防災速報が相次いで発表されました。秋田県でも雨が強まり青森県と秋田県にはレベル…
+TechCrunchから、Apple follows Google in adopting Trump’s ‘Lake America’ name。
+Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
+NHK主要ニュースから、伊勢神宮近くの商店街火災 鎮火に向け消火活動続く。
+8月31日、三重県の伊勢神宮の近くにある商店街で起きた火事は、夜を徹して消火活動が続けられましたが、火が出てから1日半以上がたった9月2日午前7時時点でも完全には消し止められていません。 焼け跡に火…
+TechCrunchから、AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B。
+AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.
+BBC Worldから、US strikes Iran as state media reports four killed at wedding party。
+Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.
+NHK主要ニュースから、G20は2日目の議論に 声明とりまとめに向けた調整も続く。
+アメリカで行われているG20＝主要20か国の財務相・中央銀行総裁会議は、2日目の議論が行われ、貿易の不均衡などをテーマに意見が交わされたとみられます。
+TechCrunchから、Open AI’s Astra model is on the way — and very good at breaking into computer systems。
+OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.
+BBC Worldから、Germany says Russia behind Leipzig airport drone attack。
+A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.
+TechCrunchから、Google’s Android update tackles motion sickness, accessibility, and more。
+While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.
+Google AI Blogから、The latest AI news we announced in August 2026。
+Transitioning cards: 1. Text "Gemini 3.7 Flash" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text "Claim your student plan for 1 year at no cost"
+NHK主要ニュースから、ネパール土石流発生1週間 2万人態勢で救助。
+ネパールと中国の国境付近で起きた大規模な土石流の発生から、9月2日で1週間です。被災地ではこれまでに1000人以上の死亡が確認されたほか、日本人5人を含む4400人以上の行方がわからなくなっていて、ネ…
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
