@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-08-31
-生成時刻: 08:56:04
+生成日: 2026-09-01
+生成時刻: 09:48:02
 
 おはようございます。
-今日は2026年8月31日、月曜日です。
+今日は2026年9月1日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、US strikes Iranian launchers on Larak Island in first known attack in weeks。
-Iran says the attack killed some civilians and is the first known US strike on Iran since late July.
-BBC Worldから、15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon。
-"It was a beautiful day - and then people were screaming," one hiker who was airlifted to safety tells the BBC.
-NHK主要ニュースから、核のごみ最終処分地 近く茨城・常陸大宮市に文献調査申し入れ。
-高レベル放射性廃棄物、いわゆる「核のごみ」の最終処分地の選定をめぐり、経済産業省が、茨城県の常陸大宮市に対し、調査の第1段階となる「文献調査」の実施を近く、申し入れる方向で最終的な調整を進めていること…
-NHK主要ニュースから、ベルギー国防相“新たに駐在武官配置し日本と連携強化”。
-ヨーロッパ各国が軍事力を増強する中国を念頭に、安全保障面で日本との協力を強化する中、ベルギーの国防相がNHKの単独インタビューに応じ、東京に防衛省とより緊密に情報交換などを行う新たなポストを設置すると…
-NHK主要ニュースから、千葉豪雨 走行中のタクシー浸水被害100台超 協会が緊急会合へ。
-8月13日の千葉県の記録的な豪雨で、少なくとも100台を超えるタクシーが、走行中に浸水の被害を受けていたことが、業界団体への取材で分かりました。業界団体は31日に緊急の会合を開き、大雨などで危険が迫っ…
-NHK主要ニュースから、滋賀 乗用車とトラックが正面衝突 3人死亡 3人重軽傷。
-30日夕方、滋賀県高島市の国道で5人が乗った乗用車とトラックが正面衝突する事故があり、乗用車に乗っていた20代から30代の男女3人が死亡したほか、4歳の男の子が大けがをするなど3人が重軽傷を負いました…
-BBC Worldから、Eight killed and others missing after ferry capsizes off northern Cyprus。
-A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.
-NHK主要ニュースから、中道 立民 公明 きょう再び党首会談へ「分党」やむなしの意見。
-立憲民主党が、中道改革連合、公明党とは合流しない方針を示したことを受けて、3党は31日、改めて党首会談を行う方向で調整しています。 中道・公明両党からは「分党」もやむをえないという意見が相次いでいて…
-TechCrunchから、Liux’s Big microcar bets on sustainability to take on Chinese rivals。
-The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.
-BBC Worldから、Manhunt after shooting at Swiss rave kills woman, 22, and injures five。
-Five others in their twenties were injured after shots were fired at a techno event near Zurich.
-TechCrunchから、Musk’s faster path to more gas turbines comes with pollution problem。
-Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.
-BBC Worldから、Iceland votes against restarting EU membership talks。
-Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.
+NHK主要ニュースから、長期金利 2.965％に上昇 約29年11か月ぶりの水準。
+1日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが一時、2.965％まで上昇しました。 日本相互証券によりますと、1996年10月以来、およそ29年11か月ぶりの高い水…
+TechCrunchから、Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year。
+Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.
+NHK主要ニュースから、防災の日 政府の総合防災訓練 日本海溝・千島海溝巨大地震想定。
+1日は「防災の日」です。 ことしの政府の総合防災訓練は、日本海溝・千島海溝で巨大地震が発生し、北海道と東北の広い範囲で甚大な被害が出ているという想定で行われ、国や自治体の担当者が初動対応や連携の手順…
+TechCrunchから、Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI。
+Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.
+TechCrunchから、Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund。
+The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.
+TechCrunchから、a16z brings growth fund to $8.5B days after launching new $1.1B fund。
+Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.
+TechCrunchから、A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms。
+Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.
+NHK主要ニュースから、米ベッセント財務長官と日銀総裁や片山財務相が相次ぎ会談。
+G20＝主要20か国の財務相・中央銀行総裁会議が開かれているアメリカのノースカロライナ州・アッシュビルでアメリカ財務省の高官が、31日、NHKの単独インタビューに応じ、ベッセント財務長官が日銀の植田総…
+MusicRadarから、“An exceptionally accurate model of the original Prophet, with a clutch of incredibly useful enhancements”: GForce Prophet-5 review。
+Embellished by official backing from Sequential, GForce brings us the original soothsayer in software form. We look at the fortunes of the new Prophet
+NHK主要ニュースから、西日本や北陸で猛暑日予想 熱中症対策を 大気の状態も不安定に。
+1日は西日本と東日本を中心に気温が上がり、35度以上の猛暑日になる見込みです。 記録的な大雨となった北陸でも猛烈な暑さが予想されていて、復旧作業などの際には熱中症対策を心がけてください。 一方、湿…
+BBC Worldから、US singer D4vd's celebrity lawyers withdraw from murder case。
+The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.
+BBC Worldから、Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously。
+Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
