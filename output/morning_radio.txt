@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-02
-生成時刻: 08:34:40
+生成日: 2026-09-03
+生成時刻: 08:35:15
 
 おはようございます。
-今日は2026年9月2日、水曜日です。
+今日は2026年9月3日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、Reliance’s JioHotstar takes its streaming empire global — without sports。
-JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.
-NHK主要ニュースから、北日本で大雨 青森で線状降水帯発生 青森・秋田では厳重警戒を。
-前線を伴った低気圧の影響で北日本では局地的に猛烈な雨が降り、青森県では線状降水帯が発生したほか、「記録的短時間大雨」の気象防災速報が相次いで発表されました。秋田県でも雨が強まり青森県と秋田県にはレベル…
-TechCrunchから、Apple follows Google in adopting Trump’s ‘Lake America’ name。
-Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
-NHK主要ニュースから、伊勢神宮近くの商店街火災 鎮火に向け消火活動続く。
-8月31日、三重県の伊勢神宮の近くにある商店街で起きた火事は、夜を徹して消火活動が続けられましたが、火が出てから1日半以上がたった9月2日午前7時時点でも完全には消し止められていません。 焼け跡に火…
-TechCrunchから、AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B。
-AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.
-BBC Worldから、US strikes Iran as state media reports four killed at wedding party。
-Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.
-NHK主要ニュースから、G20は2日目の議論に 声明とりまとめに向けた調整も続く。
-アメリカで行われているG20＝主要20か国の財務相・中央銀行総裁会議は、2日目の議論が行われ、貿易の不均衡などをテーマに意見が交わされたとみられます。
-TechCrunchから、Open AI’s Astra model is on the way — and very good at breaking into computer systems。
-OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.
-BBC Worldから、Germany says Russia behind Leipzig airport drone attack。
-A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.
-TechCrunchから、Google’s Android update tackles motion sickness, accessibility, and more。
-While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.
-Google AI Blogから、The latest AI news we announced in August 2026。
-Transitioning cards: 1. Text "Gemini 3.7 Flash" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text "Claim your student plan for 1 year at no cost"
-NHK主要ニュースから、ネパール土石流発生1週間 2万人態勢で救助。
-ネパールと中国の国境付近で起きた大規模な土石流の発生から、9月2日で1週間です。被災地ではこれまでに1000人以上の死亡が確認されたほか、日本人5人を含む4400人以上の行方がわからなくなっていて、ネ…
+TechCrunchから、The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026。
+The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.
+NHK主要ニュースから、東北新幹線 運転見合わせ 那須塩原～盛岡の上下線。
+JR東日本によりますと、東北新幹線は保守用車が故障している影響で、那須塩原駅と盛岡駅の間の上下線で運転を見合わせています。運転再開は午前8時20分ごろを見込んでいるということです。
+NHK主要ニュースから、前線活発化 秋田で非常に激しい雨 広い範囲で大雨続くおそれ。
+秋雨前線の影響で東北や北陸に発達した雨雲がかかっています。このあと前線は次第に南下し、台風24号が湿った空気を運んでくることから、今後数日は広い範囲で大雨が続くおそれがあります。気象庁は「大雨になりや…
+TechCrunchから、Palo Alto Networks paid $500M for Thrive-backed Console, sources say。
+The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.
+TechCrunchから、TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals。
+On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
+NHK主要ニュースから、【大雨】青森市やむつ市 県道で土砂崩れや住宅浸水の被害。
+青森県や消防によりますと、青森県内ではむつ市の県道で土砂崩れが発生しているほか、青森市で住宅が水につかったり、道路が冠水したりしているということです。
+NHK主要ニュースから、青森 五所川原 一部地域に緊急安全確保 川の堤防決壊のおそれ。
+大雨の影響で青森県五所川原市は、飯詰川の堤防が決壊する可能性があるとして3日午前6時に飯詰川と大泊溜池の近くの一部の地域に「緊急安全確保」を出しました。 5段階の警戒レベルのうち最も高い「レベル5」…
+TechCrunchから、Google spared from ad-business breakup, but judge orders changes to how it operates。
+Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.
+BBC Worldから、Protests in Spain over government's handling of Ceuta migrant crisis。
+Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.
+TechCrunchから、OpenAI’s new reasoning technique alarms AI safety experts。
+OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.
+BBC Worldから、Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case。
+For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.
+NHK主要ニュースから、高市首相 党役員人事と内閣改造 再来週にも踏み切るとの見方も。
+自民党の役員人事と内閣改造をめぐり、政府・与党内では食料品の消費税減税に関する税制改正大綱を決定したあと、再来週にも高市総理大臣が人事に踏み切るのではないかという見方が出ています。党役員人事では麻生副…
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
