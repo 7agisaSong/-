@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-03
-生成時刻: 08:35:15
+生成日: 2026-09-04
+生成時刻: 08:32:30
 
 おはようございます。
-今日は2026年9月3日、木曜日です。
+今日は2026年9月4日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026。
-The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.
-NHK主要ニュースから、東北新幹線 運転見合わせ 那須塩原～盛岡の上下線。
-JR東日本によりますと、東北新幹線は保守用車が故障している影響で、那須塩原駅と盛岡駅の間の上下線で運転を見合わせています。運転再開は午前8時20分ごろを見込んでいるということです。
-NHK主要ニュースから、前線活発化 秋田で非常に激しい雨 広い範囲で大雨続くおそれ。
-秋雨前線の影響で東北や北陸に発達した雨雲がかかっています。このあと前線は次第に南下し、台風24号が湿った空気を運んでくることから、今後数日は広い範囲で大雨が続くおそれがあります。気象庁は「大雨になりや…
-TechCrunchから、Palo Alto Networks paid $500M for Thrive-backed Console, sources say。
-The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.
-TechCrunchから、TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals。
-On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
-NHK主要ニュースから、【大雨】青森市やむつ市 県道で土砂崩れや住宅浸水の被害。
-青森県や消防によりますと、青森県内ではむつ市の県道で土砂崩れが発生しているほか、青森市で住宅が水につかったり、道路が冠水したりしているということです。
-NHK主要ニュースから、青森 五所川原 一部地域に緊急安全確保 川の堤防決壊のおそれ。
-大雨の影響で青森県五所川原市は、飯詰川の堤防が決壊する可能性があるとして3日午前6時に飯詰川と大泊溜池の近くの一部の地域に「緊急安全確保」を出しました。 5段階の警戒レベルのうち最も高い「レベル5」…
-TechCrunchから、Google spared from ad-business breakup, but judge orders changes to how it operates。
-Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.
-BBC Worldから、Protests in Spain over government's handling of Ceuta migrant crisis。
-Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.
-TechCrunchから、OpenAI’s new reasoning technique alarms AI safety experts。
-OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.
-BBC Worldから、Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case。
-For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.
-NHK主要ニュースから、高市首相 党役員人事と内閣改造 再来週にも踏み切るとの見方も。
-自民党の役員人事と内閣改造をめぐり、政府・与党内では食料品の消費税減税に関する税制改正大綱を決定したあと、再来週にも高市総理大臣が人事に踏み切るのではないかという見方が出ています。党役員人事では麻生副…
+NHK主要ニュースから、台風と前線で西日本中心に発達した雨雲 線状降水帯のおそれも。
+台風や秋雨前線の影響で、西日本を中心に大気の状態が非常に不安定になり九州南部では局地的に非常に激しい雨が降っています。 鹿児島県と宮崎県、大分県、高知県では、4日の夜にかけて、線状降水帯が発生して大…
+TechCrunchから、Oura files to go public。
+The ring maker says that its business has shown significant revenue growth over the past year.
+BBC Worldから、Transplanted pig kidney works in US man's body for record 271 days。
+A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.
+BBC Worldから、US investigating if missile hit Iran wedding, Vance says。
+The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.
+TechCrunchから、Tesla is asking people if they want to buy and run Cybercab fleets。
+The company published a form on its website Thursday soliciting info from people who are interested in "Cybercab fleet vehicle purchasing."
+TechCrunchから、Startup ARR is less secure than ever, new research shows。
+The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.
+NHK主要ニュースから、ネパール土石流 閉じこめの水力発電所に生存者か。
+ネパールと中国の国境付近で起きた大規模な土石流は、これまでに1200人以上が死亡し、5500人以上の行方がわからなくなっています。多くの作業員が行方不明となっている水力発電所では、生存者が残されている…
+NHK主要ニュースから、日本製紙八代工場 解体中の煙突火事 きょう現場検証。
+ことし7月の熊本地震で9人が死亡した日本製紙八代工場の解体作業中の煙突で起きた火事は、出火からおよそ6時間半後の4日午前0時半ごろに消し止められました。警察と消防は、4日現場検証を行うなどして、詳しく…
+MusicRadarから、“Oh, and did we mention it’s a 7-string?”: Ibanez just fully weaponised the Iceman for metal and refreshed a whole bunch of its flagship signature models for Joe Satriani, Steve Vai, and more。
+The Iceman has always been a gent among metal guitars but with seven strings and a multi-scale build and Fishmans, consider it a true djent
+TechCrunchから、The Cybercab is Tesla’s ‘fork in the road’ moment。
+The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.
+TechCrunchから、Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation。
+The high-profile startup's annual revenue run rate stands at over $100 million.
+NHK主要ニュースから、最低賃金引き上げ 国は中小企業などへの支援進める。
+最低賃金が引き上げられ、全国平均の時給は1177円となります。一方で、賃金の引き上げは特に中小企業などでは影響が大きいため、国は、支援を充実させたいとしています。
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
