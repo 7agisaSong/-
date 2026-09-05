@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-05
-生成時刻: 08:22:04
+生成日: 2026-09-06
+生成時刻: 08:22:02
 
 おはようございます。
-今日は2026年9月5日、土曜日です。
+今日は2026年9月6日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、OpenAI’s rogue agents keep escaping, with no formal process to investigate them。
-OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.
-BBC Worldから、Germany's far-right AfD bids for first taste of power in eastern vote。
-If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.
-BBC Worldから、Mistrial declared in Lindsay Clancy murder case, after jury deadlocks。
-The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.
-NHK主要ニュースから、鹿児島 屋久島町にレベル5土砂災害特別警報 命が助かる行動を。
-台風や秋雨前線の影響で大気の状態が非常に不安定になり、種子島・屋久島地方では猛烈な雨が降っていて、気象庁は鹿児島県の屋久島町に「レベル5土砂災害特別警報」を発表しました。 これまで経験したことのないよ…
-NHK主要ニュースから、円相場 荒い値動き続く FRB 日銀の利上げ観測や介入警戒で。
-4日のニューヨーク外国為替市場ではアメリカの雇用統計で堅調さが示されたことで円を売ってドルを買う動きが進んだあと、一転して円を買い戻す動きが広がりました。 円相場は当面、アメリカのFRB＝連邦準備制…
-NHK主要ニュースから、台風24号と秋雨前線の影響で大気不安定 今後の進路 見通しは。
-台風24号は、午前6時には沖縄県の久米島の北およそ200キロの海上にあって、1時間におよそ10キロの速さで南南西へ進んでいます。
-NHK主要ニュースから、インドネシア大規模噴火 現時点で目立った潮位変化観測されず。
-5日未明、インドネシアのクラカタウ火山で大規模な噴火が発生しました。 気象庁は噴火による津波の有無や日本への影響を調べていますが、午前6時半現在、国内や海外の観測点で目立った潮位の変化は観測されてい…
-NHK主要ニュースから、【特別警報】気象庁が記者会見「直ちに身の安全確保して」。
-鹿児島県屋久島町に「レベル5土砂災害特別警報」を発表したことについて、気象庁は、午前6時10分から記者会見を開き、警戒点などについて説明しました。
-TechCrunchから、AI compute provider Nscale is looking for $3.5B in pre-IPO financing。
-Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.
-TechCrunchから、Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now。
-A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.
-TechCrunchから、What will Apple’s John Ternus era look like?。
-It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]
-TechCrunchから、No little kids allowed, and other new info about Tesla’s Cybercab。
-The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.
+TechCrunchから、Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft。
+Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.
+BBC Worldから、US and Iran trade retaliatory attacks on ships as conflict flares。
+The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.
+NHK主要ニュースから、西日本～東北の太平洋側中心に大雨 10日まで続くおそれも。
+台風24号や秋雨前線の影響で7日にかけて、西日本から東北にかけての太平洋側を中心に広い範囲で大雨となる見込みです。 各地で非常に激しい雨が降って浸水や土砂災害の危険度が高まるおそれがあり、厳重な警戒…
+NHK主要ニュースから、東京 伊豆諸島南部に「線状降水帯直前予測」。
+気象庁は東京の伊豆諸島南部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前7時8分、「線状降水帯直前予測」の気象防災速報を発表しました。 「線状降水帯」は発達した積乱雲が連な…
+NHK主要ニュースから、東京 八丈町に記録的短時間大雨の気象防災速報。
+気象庁によりますと、東京 伊豆諸島の八丈町付近では、レーダーによる解析で午前6時40分までの1時間におよそ110ミリの猛烈な雨が降ったとみられます。 災害が発生する危険が迫っていることから、気象庁は…
+BBC Worldから、US envoys meet Putin in Moscow for Ukraine talks。
+Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation "is not so easy".
+BBC Worldから、Prince William to attend King Harald's funeral in Norway。
+The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.
+NHK主要ニュースから、JR首都圏在来線 6日夜から7日にかけて運休や遅れの可能性。
+JR東日本によりますと、前線や台風による大雨の影響で、首都圏の在来線は6日、日曜日の夜から7日の月曜日にかけて、運休や遅れが発生する可能性があるということです。 詳しい運転計画は決まり次第、発表する…
+TechCrunchから、Hikers rescued after using Google Gemini for planning。
+The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."
+NHK主要ニュースから、岐阜の洋菓子店で火事 2人死亡3人搬送 事件巻き込まれたか。
+5日夜、岐阜県本巣市の店舗兼住宅で火事があり、焼け跡から2人の遺体が見つかったほか、3人がけがをして病院に搬送されました。 当時、店舗兼住宅には住人と知人が集まっていて、このうちの1人が人を刺してガ…
+TechCrunchから、OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure。
+OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.
+TechCrunchから、Clucky’s new alarm app wakes you up with a crowing rooster。
+Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
