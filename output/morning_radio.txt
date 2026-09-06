@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-06
-生成時刻: 08:22:02
+生成日: 2026-09-07
+生成時刻: 08:12:50
 
 おはようございます。
-今日は2026年9月6日、日曜日です。
+今日は2026年9月7日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft。
-Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.
-BBC Worldから、US and Iran trade retaliatory attacks on ships as conflict flares。
-The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.
-NHK主要ニュースから、西日本～東北の太平洋側中心に大雨 10日まで続くおそれも。
-台風24号や秋雨前線の影響で7日にかけて、西日本から東北にかけての太平洋側を中心に広い範囲で大雨となる見込みです。 各地で非常に激しい雨が降って浸水や土砂災害の危険度が高まるおそれがあり、厳重な警戒…
-NHK主要ニュースから、東京 伊豆諸島南部に「線状降水帯直前予測」。
-気象庁は東京の伊豆諸島南部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前7時8分、「線状降水帯直前予測」の気象防災速報を発表しました。 「線状降水帯」は発達した積乱雲が連な…
-NHK主要ニュースから、東京 八丈町に記録的短時間大雨の気象防災速報。
-気象庁によりますと、東京 伊豆諸島の八丈町付近では、レーダーによる解析で午前6時40分までの1時間におよそ110ミリの猛烈な雨が降ったとみられます。 災害が発生する危険が迫っていることから、気象庁は…
-BBC Worldから、US envoys meet Putin in Moscow for Ukraine talks。
-Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation "is not so easy".
-BBC Worldから、Prince William to attend King Harald's funeral in Norway。
-The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.
-NHK主要ニュースから、JR首都圏在来線 6日夜から7日にかけて運休や遅れの可能性。
-JR東日本によりますと、前線や台風による大雨の影響で、首都圏の在来線は6日、日曜日の夜から7日の月曜日にかけて、運休や遅れが発生する可能性があるということです。 詳しい運転計画は決まり次第、発表する…
-TechCrunchから、Hikers rescued after using Google Gemini for planning。
-The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."
-NHK主要ニュースから、岐阜の洋菓子店で火事 2人死亡3人搬送 事件巻き込まれたか。
-5日夜、岐阜県本巣市の店舗兼住宅で火事があり、焼け跡から2人の遺体が見つかったほか、3人がけがをして病院に搬送されました。 当時、店舗兼住宅には住人と知人が集まっていて、このうちの1人が人を刺してガ…
-TechCrunchから、OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure。
-OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.
-TechCrunchから、Clucky’s new alarm app wakes you up with a crowing rooster。
-Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.
+BBC Worldから、Germany's far-right AfD set for big win in eastern state, just short of majority。
+Germany's AfD has hailed a "historic result" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.
+NHK主要ニュースから、東京 新島村に土砂災害特別警報 伊豆諸島や関東南部で大雨。
+秋雨前線の影響で東京の伊豆諸島や関東南部では大雨となり、新島村には「レベル5土砂災害特別警報」が発表されています。 重大な土砂災害がすでに発生している可能性が極めて高い状況で、命が助かる可能性が高い行…
+NHK主要ニュースから、東北新幹線 人身事故で運転見合わせ 東京と仙台の間 上下線。
+JR東日本のホームページによりますと、東北新幹線は、宇都宮駅と那須塩原駅の間でおきた人身事故の影響で、東京駅と仙台駅の間の上下線で運転を見合わせています。 運転再開の見込みは立っていないということで…
+NHK主要ニュースから、大雨交通影響 7日は山手線など本数減 運休区間も。
+大雨の影響で7日は、新幹線と首都圏の在来線など一部の交通機関で運休が決まっています。
+TechCrunchから、Phil Schiller’s App Store exit reportedly driven by wariness over future plans。
+Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.
+BBC Worldから、Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain。
+Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.
+TechCrunchから、Authors push back as publishers and agents make claims on Anthropic settlement。
+Authors say publishers seem to be claiming more than their fair share of settlement payments.
+BBC Worldから、Zelensky says he expects war to continue into winter after talks with US envoys。
+There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.
+NHK主要ニュースから、関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を。
+秋雨前線が北上している影響で、伊豆諸島や関東南部で大雨となり、土砂災害の危険度が非常に高まっています。 関東と東海、それに東北では線状降水帯が発生するおそれがあり、安全な場所で過ごすようにしてください…
+NHK主要ニュースから、3人死亡火事は同級生の集まりで発生か 会社役員関与の可能性も。
+5日、岐阜県本巣市の店舗兼住宅で3人が死亡した火事で、現場には住人とその同級生合わせて10人が集まっていたとみられることが、警察への取材で分かりました。1人が人を刺してガソリンをまいたという通報があっ…
+BBC Worldから、Dozens feared trapped in collapsed building in Delhi。
+As many as 50 people are thought to have been inside the five-storey hostel when it came down.
+TechCrunchから、Travis Kalanick’s Atoms might be getting into the robotaxi business。
+The Uber founder has said that Atoms will allow him to complete "unfinished business."
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
