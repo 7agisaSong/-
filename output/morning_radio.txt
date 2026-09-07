@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-07
-生成時刻: 08:12:50
+生成日: 2026-09-08
+生成時刻: 08:47:06
 
 おはようございます。
-今日は2026年9月7日、月曜日です。
+今日は2026年9月8日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Germany's far-right AfD set for big win in eastern state, just short of majority。
-Germany's AfD has hailed a "historic result" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.
-NHK主要ニュースから、東京 新島村に土砂災害特別警報 伊豆諸島や関東南部で大雨。
-秋雨前線の影響で東京の伊豆諸島や関東南部では大雨となり、新島村には「レベル5土砂災害特別警報」が発表されています。 重大な土砂災害がすでに発生している可能性が極めて高い状況で、命が助かる可能性が高い行…
-NHK主要ニュースから、東北新幹線 人身事故で運転見合わせ 東京と仙台の間 上下線。
-JR東日本のホームページによりますと、東北新幹線は、宇都宮駅と那須塩原駅の間でおきた人身事故の影響で、東京駅と仙台駅の間の上下線で運転を見合わせています。 運転再開の見込みは立っていないということで…
-NHK主要ニュースから、大雨交通影響 7日は山手線など本数減 運休区間も。
-大雨の影響で7日は、新幹線と首都圏の在来線など一部の交通機関で運休が決まっています。
-TechCrunchから、Phil Schiller’s App Store exit reportedly driven by wariness over future plans。
-Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.
-BBC Worldから、Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain。
-Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.
-TechCrunchから、Authors push back as publishers and agents make claims on Anthropic settlement。
-Authors say publishers seem to be claiming more than their fair share of settlement payments.
-BBC Worldから、Zelensky says he expects war to continue into winter after talks with US envoys。
-There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.
-NHK主要ニュースから、関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を。
-秋雨前線が北上している影響で、伊豆諸島や関東南部で大雨となり、土砂災害の危険度が非常に高まっています。 関東と東海、それに東北では線状降水帯が発生するおそれがあり、安全な場所で過ごすようにしてください…
-NHK主要ニュースから、3人死亡火事は同級生の集まりで発生か 会社役員関与の可能性も。
-5日、岐阜県本巣市の店舗兼住宅で3人が死亡した火事で、現場には住人とその同級生合わせて10人が集まっていたとみられることが、警察への取材で分かりました。1人が人を刺してガソリンをまいたという通報があっ…
-BBC Worldから、Dozens feared trapped in collapsed building in Delhi。
-As many as 50 people are thought to have been inside the five-storey hostel when it came down.
-TechCrunchから、Travis Kalanick’s Atoms might be getting into the robotaxi business。
-The Uber founder has said that Atoms will allow him to complete "unfinished business."
+NHK主要ニュースから、円相場 値上がり 一時1ドル＝153円台に ことし2月以来。
+8日の東京外国為替市場、7日夕方からのドルを売って円を買う動きがさらに強まり、午前8時すぎに一時、1ドル＝153円台後半まで値上がりしました。 1ドル＝153円台をつけるのはことし2月以来、およそ半…
+NHK主要ニュースから、伊豆諸島の特別警報は危険警報に 東海は線状降水帯可能性も。
+記録的な大雨となった東京の伊豆諸島に発表されていた「レベル5土砂災害特別警報」は、8日明け方に、「レベル4土砂災害危険警報」に切り替えられましたが、伊豆諸島北部では土砂災害の危険度が非常に高い状態が続…
+BBC Worldから、Flight recorders recovered from 'devastating' Amazon cargo plane crash。
+Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.
+BBC Worldから、Palestinian parents fear for children's lives at school as settler attacks grow。
+A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.
+NHK主要ニュースから、中国 日本製半導体関連物質をダンピング認定。
+中国政府は、半導体の製造工程で使われる化学物質「ジクロロシラン」のうち日本からの輸入品の価格が不当に安く抑えられているとして事実上の関税措置をとると発表しました。
+NHK主要ニュースから、無人機対策 ウクライナで漁業用網の再利用進む。
+ロシアの無人機による攻撃が相次ぐウクライナで、使われなくなった漁業用の網を再利用して、被害を防ぐための対策が進められています。
+NHK主要ニュースから、岐阜 洋菓子店3人死亡の放火疑い事件 “死亡役員が関与”証言。
+岐阜県本巣市の洋菓子店兼住宅が焼けて3人が死亡し、放火の疑いがある事件で、現場から救助されて無事だった住人の同級生が、警察に対し「死亡した会社役員が事件に関与した」という趣旨の話をしていることが捜査関…
+TechCrunchから、Opaque recurrence, and other AI terms that you should probably know。
+The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
+TechCrunchから、A secret new Elizabeth Holmes documentary stuns Telluride。
+Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder.
+MusicRadarから、“Our thoughts and deepest condolences are with the participant’s family, friends, campmates”: Two men reported to have died during Burning Man 2026。
+Fatalities follow murder investigation after 2025 event
+MusicRadarから、“You have to respect the groove, and there’s certain musicians that understand that and there’s certain ones who don’t”: Greg Phillinganes has some urgent advice for you as he reveals what Quincy Jone…。
+“You’re never more of a musician than you are a human being”
+TechCrunchから、What we expect from the upcoming Apple launch。
+While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
