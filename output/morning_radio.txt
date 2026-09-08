@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-08
-生成時刻: 08:47:06
+生成日: 2026-09-09
+生成時刻: 08:41:06
 
 おはようございます。
-今日は2026年9月8日、火曜日です。
+今日は2026年9月9日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、円相場 値上がり 一時1ドル＝153円台に ことし2月以来。
-8日の東京外国為替市場、7日夕方からのドルを売って円を買う動きがさらに強まり、午前8時すぎに一時、1ドル＝153円台後半まで値上がりしました。 1ドル＝153円台をつけるのはことし2月以来、およそ半…
-NHK主要ニュースから、伊豆諸島の特別警報は危険警報に 東海は線状降水帯可能性も。
-記録的な大雨となった東京の伊豆諸島に発表されていた「レベル5土砂災害特別警報」は、8日明け方に、「レベル4土砂災害危険警報」に切り替えられましたが、伊豆諸島北部では土砂災害の危険度が非常に高い状態が続…
-BBC Worldから、Flight recorders recovered from 'devastating' Amazon cargo plane crash。
-Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.
-BBC Worldから、Palestinian parents fear for children's lives at school as settler attacks grow。
-A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.
-NHK主要ニュースから、中国 日本製半導体関連物質をダンピング認定。
-中国政府は、半導体の製造工程で使われる化学物質「ジクロロシラン」のうち日本からの輸入品の価格が不当に安く抑えられているとして事実上の関税措置をとると発表しました。
-NHK主要ニュースから、無人機対策 ウクライナで漁業用網の再利用進む。
-ロシアの無人機による攻撃が相次ぐウクライナで、使われなくなった漁業用の網を再利用して、被害を防ぐための対策が進められています。
-NHK主要ニュースから、岐阜 洋菓子店3人死亡の放火疑い事件 “死亡役員が関与”証言。
-岐阜県本巣市の洋菓子店兼住宅が焼けて3人が死亡し、放火の疑いがある事件で、現場から救助されて無事だった住人の同級生が、警察に対し「死亡した会社役員が事件に関与した」という趣旨の話をしていることが捜査関…
-TechCrunchから、Opaque recurrence, and other AI terms that you should probably know。
-The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
-TechCrunchから、A secret new Elizabeth Holmes documentary stuns Telluride。
-Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder.
-MusicRadarから、“Our thoughts and deepest condolences are with the participant’s family, friends, campmates”: Two men reported to have died during Burning Man 2026。
-Fatalities follow murder investigation after 2025 event
-MusicRadarから、“You have to respect the groove, and there’s certain musicians that understand that and there’s certain ones who don’t”: Greg Phillinganes has some urgent advice for you as he reveals what Quincy Jone…。
-“You’re never more of a musician than you are a human being”
-TechCrunchから、What we expect from the upcoming Apple launch。
-While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.
+TechCrunchから、White House takes down ‘Build the Wall’ game after the Tetris Company complains。
+The Trump administration's short-lived arcade game "Build the Wall" is now nowhere to be found after the Tetris Company posted that it takes "copyright infringement very seriously."
+NHK主要ニュースから、NY原油市場 約3か月ぶり高値 ホルムズ海峡や代替ルートに懸念。
+8日のニューヨーク原油市場では、中東のホルムズ海峡やその代替ルートとなっている紅海をめぐる状況が悪化して原油の供給に悪影響を与えるという懸念が広がり、国際的な取り引きの指標となるWTIの先物価格が一時…
+BBC Worldから、'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on。
+As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.
+NHK主要ニュースから、名古屋 植田川の水があふれた地域 一夜明けた様子は。
+8日の大雨で名古屋市内を流れる植田川の水があふれた名古屋市名東区の川沿いの地域では朝早くから、水につかった車の様子を確かめる住民の姿が見られました。 8日、川の水があふれる様子を撮影した男性は「家の…
+NHK主要ニュースから、大雨続く見込み 各地で線状降水帯発生のおそれ。
+秋雨前線の活動が活発になり、東海では8日、線状降水帯が発生して浸水や冠水の被害が相次いだほか、庄内川には一時、レベル5氾濫特別警報が発表されました。この時間も四国で非常に激しい雨が降るなど西日本と東日…
+BBC Worldから、Paul Adams: British-Israeli relations at lowest ebb in decades。
+Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.
+NHK主要ニュースから、アメリカ 共和党が初めて中間選挙前に党大会開催へ 焦点は。
+アメリカのトランプ政権に対する有権者の評価が事実上示される11月の中間選挙を前に、与党・共和党は、9日から南部テキサス州でトランプ大統領も出席して党大会を開きます。共和党が中間選挙を前に党大会を開くの…
+TechCrunchから、Hackers are stealing Claude tokens from subscribers。
+Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.
+TechCrunchから、Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market。
+Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.
+TechCrunchから、The Exploration Company nabs $450 million to challenge SpaceX。
+The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”
+NHK主要ニュースから、自民党役員人事と内閣改造 政権骨格維持 維新ポスト調整も。
+高市総理大臣は自民党の役員人事と内閣改造を行うにあたり、政権の骨格を維持し、政策を着実に推進していく体制の構築を重視しているものとみられます。一方、日本維新の会の議員も新たに入閣させる方針で、具体的な…
+BBC Worldから、UK announces sanctions on West Bank settlements prompting furious Israeli response。
+Britain's foreign secretary accuses settlers of carrying out the "ethnic cleansing" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
