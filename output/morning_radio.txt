@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-09
-生成時刻: 08:41:06
+生成日: 2026-09-10
+生成時刻: 08:31:12
 
 おはようございます。
-今日は2026年9月9日、水曜日です。
+今日は2026年9月10日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、White House takes down ‘Build the Wall’ game after the Tetris Company complains。
-The Trump administration's short-lived arcade game "Build the Wall" is now nowhere to be found after the Tetris Company posted that it takes "copyright infringement very seriously."
-NHK主要ニュースから、NY原油市場 約3か月ぶり高値 ホルムズ海峡や代替ルートに懸念。
-8日のニューヨーク原油市場では、中東のホルムズ海峡やその代替ルートとなっている紅海をめぐる状況が悪化して原油の供給に悪影響を与えるという懸念が広がり、国際的な取り引きの指標となるWTIの先物価格が一時…
-BBC Worldから、'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on。
-As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.
-NHK主要ニュースから、名古屋 植田川の水があふれた地域 一夜明けた様子は。
-8日の大雨で名古屋市内を流れる植田川の水があふれた名古屋市名東区の川沿いの地域では朝早くから、水につかった車の様子を確かめる住民の姿が見られました。 8日、川の水があふれる様子を撮影した男性は「家の…
-NHK主要ニュースから、大雨続く見込み 各地で線状降水帯発生のおそれ。
-秋雨前線の活動が活発になり、東海では8日、線状降水帯が発生して浸水や冠水の被害が相次いだほか、庄内川には一時、レベル5氾濫特別警報が発表されました。この時間も四国で非常に激しい雨が降るなど西日本と東日…
-BBC Worldから、Paul Adams: British-Israeli relations at lowest ebb in decades。
-Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.
-NHK主要ニュースから、アメリカ 共和党が初めて中間選挙前に党大会開催へ 焦点は。
-アメリカのトランプ政権に対する有権者の評価が事実上示される11月の中間選挙を前に、与党・共和党は、9日から南部テキサス州でトランプ大統領も出席して党大会を開きます。共和党が中間選挙を前に党大会を開くの…
-TechCrunchから、Hackers are stealing Claude tokens from subscribers。
-Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.
-TechCrunchから、Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market。
-Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.
-TechCrunchから、The Exploration Company nabs $450 million to challenge SpaceX。
-The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”
-NHK主要ニュースから、自民党役員人事と内閣改造 政権骨格維持 維新ポスト調整も。
-高市総理大臣は自民党の役員人事と内閣改造を行うにあたり、政権の骨格を維持し、政策を着実に推進していく体制の構築を重視しているものとみられます。一方、日本維新の会の議員も新たに入閣させる方針で、具体的な…
-BBC Worldから、UK announces sanctions on West Bank settlements prompting furious Israeli response。
-Britain's foreign secretary accuses settlers of carrying out the "ethnic cleansing" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.
+NHK主要ニュースから、広い範囲で大気不安定 地盤緩んでいるため土砂災害などに注意。
+秋雨前線や低気圧の影響で、10日も広い範囲で大気の状態が不安定になっていて、伊豆諸島では局地的に雨雲が発達して「レベル4土砂災害危険警報」が発表されている地域があり、厳重な警戒が必要です。 このほか…
+TechCrunchから、Automattic’s board forces CEO Matt Mullenweg into leave of absence。
+Mullenweg said in a company Slack message that it was against his will.
+NHK主要ニュースから、アップル 初の折りたたみ式スマホ発表 販売価格36万円余から。
+アメリカのIT大手「アップル」は9日、西部カリフォルニア州の本社で最新の製品を発表し、日本での販売価格が36万円余りの折りたたみ式のスマートフォンを披露しました。 折りたたみ式の端末は各メーカーの間…
+TechCrunchから、OpenAI adds a prominent AI doomer to its board of directors。
+Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.
+TechCrunchから、Massachusetts hits data centers with new clean power rules。
+Massachusetts has become the third state in as many months to slap new restrictions on data center development.
+NHK主要ニュースから、ラスカー賞に睡眠研究の筑波大 柳沢教授らと中外製薬研究者3人。
+アメリカでもっとも権威のある医学賞とされる「ラスカー賞」のことしの受賞者が発表され、筑波大学の柳沢正史教授と中外製薬の研究者3人が選ばれました。
+BBC Worldから、Spanish intelligence warned of Ceuta mass crossing plans before surge。
+Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.
+TechCrunchから、Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago。
+John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.
+NHK主要ニュースから、アメリカ 共和党大会始まる 中間選挙前に初開催。
+アメリカのトランプ政権に対する有権者の評価が示される11月の中間選挙を前に、与党・共和党の、中間選挙前では初めての党大会が始まりました。トランプ大統領は初日に演説する予定ですが、支持率が下落傾向にある…
+TechCrunchから、Apple Watch’s new AI features are normalizing the idea that technology is always listening。
+Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.
+BBC Worldから、Iran referred to UN Security Council for nuclear non-compliance。
+Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.
+NHK主要ニュースから、中道 立民・公明出身者で分裂へ 統一会派での連携維持が課題。
+中道改革連合は、立憲民主党出身者と公明党出身者に分かれる方針を決め、結成から8か月で分裂することになりました。 双方は、国会での勢力確保に向け衆議院で統一会派を組む方針で、連携を維持して政権に対じし…
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
