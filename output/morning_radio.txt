@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-10
-生成時刻: 08:31:12
+生成日: 2026-09-11
+生成時刻: 08:25:09
 
 おはようございます。
-今日は2026年9月10日、木曜日です。
+今日は2026年9月11日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、広い範囲で大気不安定 地盤緩んでいるため土砂災害などに注意。
-秋雨前線や低気圧の影響で、10日も広い範囲で大気の状態が不安定になっていて、伊豆諸島では局地的に雨雲が発達して「レベル4土砂災害危険警報」が発表されている地域があり、厳重な警戒が必要です。 このほか…
-TechCrunchから、Automattic’s board forces CEO Matt Mullenweg into leave of absence。
-Mullenweg said in a company Slack message that it was against his will.
-NHK主要ニュースから、アップル 初の折りたたみ式スマホ発表 販売価格36万円余から。
-アメリカのIT大手「アップル」は9日、西部カリフォルニア州の本社で最新の製品を発表し、日本での販売価格が36万円余りの折りたたみ式のスマートフォンを披露しました。 折りたたみ式の端末は各メーカーの間…
-TechCrunchから、OpenAI adds a prominent AI doomer to its board of directors。
-Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.
-TechCrunchから、Massachusetts hits data centers with new clean power rules。
-Massachusetts has become the third state in as many months to slap new restrictions on data center development.
-NHK主要ニュースから、ラスカー賞に睡眠研究の筑波大 柳沢教授らと中外製薬研究者3人。
-アメリカでもっとも権威のある医学賞とされる「ラスカー賞」のことしの受賞者が発表され、筑波大学の柳沢正史教授と中外製薬の研究者3人が選ばれました。
-BBC Worldから、Spanish intelligence warned of Ceuta mass crossing plans before surge。
-Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.
-TechCrunchから、Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago。
-John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.
-NHK主要ニュースから、アメリカ 共和党大会始まる 中間選挙前に初開催。
-アメリカのトランプ政権に対する有権者の評価が示される11月の中間選挙を前に、与党・共和党の、中間選挙前では初めての党大会が始まりました。トランプ大統領は初日に演説する予定ですが、支持率が下落傾向にある…
-TechCrunchから、Apple Watch’s new AI features are normalizing the idea that technology is always listening。
-Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.
-BBC Worldから、Iran referred to UN Security Council for nuclear non-compliance。
-Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.
-NHK主要ニュースから、中道 立民・公明出身者で分裂へ 統一会派での連携維持が課題。
-中道改革連合は、立憲民主党出身者と公明党出身者に分かれる方針を決め、結成から8か月で分裂することになりました。 双方は、国会での勢力確保に向け衆議院で統一会派を組む方針で、連携を維持して政権に対じし…
+TechCrunchから、Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play。
+Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.
+NHK主要ニュースから、紀子さま 60歳の誕生日。
+秋篠宮妃の紀子さまは11日、60歳の誕生日を迎えられました。
+TechCrunchから、Jensen Huang explains why Nvidia will grow an astounding 70% next year。
+Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.
+NHK主要ニュースから、秋雨前線で大気不安定 太平洋側中心に激しい雨のおそれ。
+本州の南岸付近に停滞する秋雨前線の影響で、東海や甲信などで雨雲が発達しています。近畿や東海、関東甲信では11日、激しい雨が降るところがある見込みで、土砂災害に十分注意が必要です。
+TechCrunchから、Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his。
+Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.
+TechCrunchから、OpenAI puts Pro subscriptions on hold due to Astra demand。
+The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.
+TechCrunchから、Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek。
+A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.
+NHK主要ニュースから、磐越道 部活動バス事故 容疑者の「鑑定留置」3か月延長へ。
+ことし5月、福島県の磐越自動車道で、部活動の遠征中の高校生などが死傷したバス事故で、検察は、運転していた68歳の容疑者の認知機能や身体機能が運転にどう影響したかさらに詳しく調べる必要があるとして、「鑑…
+NHK主要ニュースから、共和党大会 トランプ大統領再び演説へ 民主党対抗集会も。
+11月のアメリカの中間選挙を前に開かれている与党・共和党の党大会が10日、最終日となり、トランプ大統領が前日に続いて演説するほかバンス副大統領も登壇し、野党・民主党への批判を強めるとみられます。一方、…
+BBC Worldから、More than 20 children killed in DR Congo school fire。
+Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.
+BBC Worldから、Yemen's Houthis reportedly seize strategic Red Sea port of Mokha。
+Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.
+BBC Worldから、Can Trump really pay $5,000 to every American adult?。
+Analysts question if the US president's election year offer is workable, legal or affordable.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
