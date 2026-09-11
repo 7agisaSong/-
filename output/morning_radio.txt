@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-11
-生成時刻: 08:25:09
+生成日: 2026-09-12
+生成時刻: 08:32:48
 
 おはようございます。
-今日は2026年9月11日、金曜日です。
+今日は2026年9月12日、土曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play。
-Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.
-NHK主要ニュースから、紀子さま 60歳の誕生日。
-秋篠宮妃の紀子さまは11日、60歳の誕生日を迎えられました。
-TechCrunchから、Jensen Huang explains why Nvidia will grow an astounding 70% next year。
-Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.
-NHK主要ニュースから、秋雨前線で大気不安定 太平洋側中心に激しい雨のおそれ。
-本州の南岸付近に停滞する秋雨前線の影響で、東海や甲信などで雨雲が発達しています。近畿や東海、関東甲信では11日、激しい雨が降るところがある見込みで、土砂災害に十分注意が必要です。
-TechCrunchから、Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his。
-Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.
-TechCrunchから、OpenAI puts Pro subscriptions on hold due to Astra demand。
-The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.
-TechCrunchから、Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek。
-A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.
-NHK主要ニュースから、磐越道 部活動バス事故 容疑者の「鑑定留置」3か月延長へ。
-ことし5月、福島県の磐越自動車道で、部活動の遠征中の高校生などが死傷したバス事故で、検察は、運転していた68歳の容疑者の認知機能や身体機能が運転にどう影響したかさらに詳しく調べる必要があるとして、「鑑…
-NHK主要ニュースから、共和党大会 トランプ大統領再び演説へ 民主党対抗集会も。
-11月のアメリカの中間選挙を前に開かれている与党・共和党の党大会が10日、最終日となり、トランプ大統領が前日に続いて演説するほかバンス副大統領も登壇し、野党・民主党への批判を強めるとみられます。一方、…
-BBC Worldから、More than 20 children killed in DR Congo school fire。
-Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.
-BBC Worldから、Yemen's Houthis reportedly seize strategic Red Sea port of Mokha。
-Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.
-BBC Worldから、Can Trump really pay $5,000 to every American adult?。
-Analysts question if the US president's election year offer is workable, legal or affordable.
+NHK主要ニュースから、サウジアラビアの東西パイプライン 攻撃受け一時操業停止。
+サウジアラビア政府は、ホルムズ海峡をう回する原油の輸送ルートとして重要性が増している東西パイプラインが攻撃を受け、予防的な措置として操業を一時停止したと明らかにしました。
+TechCrunchから、Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data。
+The round for the two-year-old startup is coming together months after Mecka announced its Series A.
+BBC Worldから、Arrest made over the death of black woman found hanged from tree。
+Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.
+NHK主要ニュースから、スイスで観光客を乗せたバスが横転 5人死亡。
+スイス東部でオランダ人の観光客を乗せたバスが横転し、5人が死亡、40人がけがをしました。
+BBC Worldから、Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane。
+The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.
+BBC Worldから、Passenger train derails in France leaving at least 44 injured。
+France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.
+TechCrunchから、Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road。
+"It's actually allegedly being built out now," said Rabois, who has clearly dealt with a missed construction timeline or two.
+NHK主要ニュースから、中部電力 報告書提出受け14日に会見 経営トップ進退判断へ。
+中部電力は、浜岡原子力発電所3号機と4号機の審査で地震の想定に関するデータを改ざんしていた問題で外部の専門家らによる調査報告書が提出されたことを受けて、14日に記者会見を開きます。会社で原発をめぐる不…
+TechCrunchから、Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too。
+Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.
+TechCrunchから、OpenAI’s feud with mathematicians is only escalating。
+Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
+BBC Worldから、Tragic death of woman who testified against father in notorious mafia murder of mother。
+Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.
+TechCrunchから、One week left to book your exhibit table at TechCrunch Disrupt 2026。
+Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
