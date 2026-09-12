@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-12
-生成時刻: 08:32:48
+生成日: 2026-09-13
+生成時刻: 08:25:57
 
 おはようございます。
-今日は2026年9月12日、土曜日です。
+今日は2026年9月13日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、サウジアラビアの東西パイプライン 攻撃受け一時操業停止。
-サウジアラビア政府は、ホルムズ海峡をう回する原油の輸送ルートとして重要性が増している東西パイプラインが攻撃を受け、予防的な措置として操業を一時停止したと明らかにしました。
-TechCrunchから、Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data。
-The round for the two-year-old startup is coming together months after Mecka announced its Series A.
-BBC Worldから、Arrest made over the death of black woman found hanged from tree。
-Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.
-NHK主要ニュースから、スイスで観光客を乗せたバスが横転 5人死亡。
-スイス東部でオランダ人の観光客を乗せたバスが横転し、5人が死亡、40人がけがをしました。
-BBC Worldから、Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane。
-The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.
-BBC Worldから、Passenger train derails in France leaving at least 44 injured。
-France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.
-TechCrunchから、Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road。
-"It's actually allegedly being built out now," said Rabois, who has clearly dealt with a missed construction timeline or two.
-NHK主要ニュースから、中部電力 報告書提出受け14日に会見 経営トップ進退判断へ。
-中部電力は、浜岡原子力発電所3号機と4号機の審査で地震の想定に関するデータを改ざんしていた問題で外部の専門家らによる調査報告書が提出されたことを受けて、14日に記者会見を開きます。会社で原発をめぐる不…
-TechCrunchから、Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too。
-Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.
-TechCrunchから、OpenAI’s feud with mathematicians is only escalating。
-Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
-BBC Worldから、Tragic death of woman who testified against father in notorious mafia murder of mother。
-Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.
-TechCrunchから、One week left to book your exhibit table at TechCrunch Disrupt 2026。
-Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.
+OpenAI Newsから、Perplexity trusts GPT-6 Astra with end-to-end systems。
+Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.
+TechCrunchから、Automattic confirms Mullenweg has returned as CEO after attempted ouster by board。
+Automattic says Mullenweg is back as "chairman and CEO of Automattic, with full support of the board."
+NHK主要ニュースから、米アンソロピックCEO“AI開発ペース減速させる必要”。
+アメリカのAI新興企業アンソロピックのCEOは、AIが急速に進歩し、人間が制御する能力を上回る可能性があるとして、開発を減速させる必要があるとの考えを示しました。
+NHK主要ニュースから、ベネチア国際映画祭 日本の2作品は最優秀賞ならず。
+世界3大映画祭の1つ、イタリアのベネチア国際映画祭で日本の2つの作品は最優秀賞は逃したものの、文化団体などが優れた作品に贈る「独立賞」をそれぞれ受賞しました。
+BBC Worldから、Trump's comments on a united Ireland may have targeted audience across the Atlantic。
+Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.
+BBC Worldから、Anthropic boss Dario Amodei calls for AI development to slow down。
+The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.
+NHK主要ニュースから、千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も。
+8月に千葉県を襲った記録的な豪雨では520余りの商店や事業所などが被災し、被害額はあわせて26億円余りにのぼることが県の調査で新たに分かりました。復旧に時間がかかり、1か月たっても事業を再開できない企…
+NHK主要ニュースから、サウジアラビア パイプライン損壊 トランプ氏“イラン関与か”。
+サウジアラビア産の原油をホルムズ海峡を通らずに輸出するパイプラインが何者かに攻撃され、操業を停止したことについて、アメリカのトランプ大統領は、イランが関わっている可能性があるという認識を示しました。
+TechCrunchから、OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026。
+While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.
+NHK主要ニュースから、京都 陸上競技場で28人搬送 “同じ種類の弁当を食べていた”。
+12日、陸上の全日本実業団選手権が開かれていた京都市の陸上競技場で、運営に関わる複数のスタッフが下痢やおう吐などの症状を訴え、28人が病院に搬送されました。主催者によりますと、ほとんどが同じ種類の弁当…
+BBC Worldから、Fire at nursing home in Chile kills 16 residents。
+Ten people were evacuated from the home in Araucanía region in central Chile.
+TechCrunchから、Anthropic CEO outlines plan to slow AI development。
+Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
