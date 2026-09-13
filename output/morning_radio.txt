@@ -1,9 +1,9 @@
 朝のラジオ原稿
-生成日: 2026-09-13
-生成時刻: 08:25:57
+生成日: 2026-09-14
+生成時刻: 08:35:17
 
 おはようございます。
-今日は2026年9月13日、日曜日です。
+今日は2026年9月14日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
@@ -11,28 +11,28 @@
 続いて、取得したニュースの主な見出しをお伝えします。
 OpenAI Newsから、Perplexity trusts GPT-6 Astra with end-to-end systems。
 Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.
-TechCrunchから、Automattic confirms Mullenweg has returned as CEO after attempted ouster by board。
-Automattic says Mullenweg is back as "chairman and CEO of Automattic, with full support of the board."
-NHK主要ニュースから、米アンソロピックCEO“AI開発ペース減速させる必要”。
-アメリカのAI新興企業アンソロピックのCEOは、AIが急速に進歩し、人間が制御する能力を上回る可能性があるとして、開発を減速させる必要があるとの考えを示しました。
-NHK主要ニュースから、ベネチア国際映画祭 日本の2作品は最優秀賞ならず。
-世界3大映画祭の1つ、イタリアのベネチア国際映画祭で日本の2つの作品は最優秀賞は逃したものの、文化団体などが優れた作品に贈る「独立賞」をそれぞれ受賞しました。
-BBC Worldから、Trump's comments on a united Ireland may have targeted audience across the Atlantic。
-Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.
-BBC Worldから、Anthropic boss Dario Amodei calls for AI development to slow down。
-The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.
-NHK主要ニュースから、千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も。
-8月に千葉県を襲った記録的な豪雨では520余りの商店や事業所などが被災し、被害額はあわせて26億円余りにのぼることが県の調査で新たに分かりました。復旧に時間がかかり、1か月たっても事業を再開できない企…
-NHK主要ニュースから、サウジアラビア パイプライン損壊 トランプ氏“イラン関与か”。
-サウジアラビア産の原油をホルムズ海峡を通らずに輸出するパイプラインが何者かに攻撃され、操業を停止したことについて、アメリカのトランプ大統領は、イランが関わっている可能性があるという認識を示しました。
-TechCrunchから、OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026。
-While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.
-NHK主要ニュースから、京都 陸上競技場で28人搬送 “同じ種類の弁当を食べていた”。
-12日、陸上の全日本実業団選手権が開かれていた京都市の陸上競技場で、運営に関わる複数のスタッフが下痢やおう吐などの症状を訴え、28人が病院に搬送されました。主催者によりますと、ほとんどが同じ種類の弁当…
-BBC Worldから、Fire at nursing home in Chile kills 16 residents。
-Ten people were evacuated from the home in Araucanía region in central Chile.
-TechCrunchから、Anthropic CEO outlines plan to slow AI development。
-Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?
+NHK主要ニュースから、沖縄県知事選挙 新人の古謝玄太氏が初当選 現職ら抑える。
+13日、投票が行われた沖縄県知事選挙は、自民・維新両党や国民民主党など6党から推薦を受けた新人の古謝玄太氏が、現職の玉城デニー氏らを抑えて初めての当選を果たしました。
+BBC Worldから、Swedish party blocs tied after Sunday vote, projections say。
+A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.
+NHK主要ニュースから、ウクライナとポーランド結ぶ旅客列車にロシアが無人機攻撃。
+ウクライナ国営の鉄道会社は13日、隣国のポーランドを結ぶ旅客列車がロシアの無人機による攻撃を受けたと発表しました。けが人はいませんでしたが、現場近くには攻撃の直前まで、イギリスのジョンソン元首相など外…
+NHK主要ニュースから、前線停滞 日本海側中心に激しい雨のおそれ 土砂災害など警戒。
+秋雨前線が停滞する影響で、日本海側を中心に激しい雨が降るおそれがあります。土砂災害や低い土地の浸水、川の増水に警戒が必要です。
+TechCrunchから、Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic。
+Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.
+TechCrunchから、Larry Ellison cancels $7.5 billion sale of Oracle stock。
+Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.
+NHK主要ニュースから、政府・与党 沖縄県知事選 古謝氏当選で辺野古移設推進。
+13日、投票が行われた沖縄県知事選挙で新人の古謝玄太氏が当選したことを受けて、政府・与党は、アメリカ軍普天間基地の名護市辺野古への移設計画を着実に進めるとともに、沖縄経済の振興に向けて県政を後押しして…
+TechCrunchから、The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs。
+From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.
+TechCrunchから、What’s behind the AI industry’s latest warnings of doom?。
+On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.
+NHK主要ニュースから、中部電力きょう会見へ 林社長 勝野会長が辞意固める。
+中部電力は浜岡原子力発電所3号機と4号機の審査で地震の想定に関するデータを改ざんしていた問題で14日、記者会見を開きます。関係者によりますと林欣吾社長と勝野哲会長の経営トップ2人は辞任する意向を固めて…
+BBC Worldから、Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station。
+The former UK PM said "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
