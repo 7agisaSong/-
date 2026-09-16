@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-16
-生成時刻: 08:44:07
+生成日: 2026-09-17
+生成時刻: 08:52:49
 
 おはようございます。
-今日は2026年9月16日、水曜日です。
+今日は2026年9月17日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、自民党役員人事決定へ 執行部ほぼ留任 総務梶山氏 国対村井氏。
-高市総理大臣は、17日の内閣改造に先立って16日に自民党の役員人事を行います。麻生副総裁や鈴木幹事長ら党執行部のほとんどを留任させた上で、総務会長には梶山国会対策委員長を、国会対策委員長には村井元官房…
-NHK主要ニュースから、アメリカ長期金利が19年ぶりの高水準 インフレ懸念背景に。
-15日のニューヨーク債券市場ではアメリカの長期金利が19年ぶりの高い水準となりました。中東情勢を背景にしたインフレの加速や財政悪化への懸念から、世界的に長期金利が上昇する展開となっています。
-TechCrunchから、The AI data center boom is colliding with cities scarred by big industry。
-National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.
-BBC Worldから、All support acts on Ed Sheeran's US tour quit after Macklemore dropped。
-The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.
-NHK主要ニュースから、空自の無人偵察機墜落 機体回収と通信履歴分析で原因調査。
-15日、鳥取県沖を飛行していた航空自衛隊の大型無人偵察機、「グローバルホーク」が海上に墜落した事故で、自衛隊は現場の海域から機体を回収するとともに地上装置との間の通信履歴を分析して事故の原因を調べる方…
-NHK主要ニュースから、消費税減税 小規模事業者が税率変化に対応できるか課題。
-政府が15日に閣議決定した食料品の消費税減税の大綱では、来年4月から税率を1％に引き下げるとしていますが、外食は10％のままです。 大綱では、外食の事業者にテイクアウトの導入支援などを行うとしていま…
-TechCrunchから、Meta now lets AI agents handle the boring parts of WhatsApp Business setup。
-A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.
-TechCrunchから、The AI graveyard: a running list of projects and startups that didn’t make it。
-From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
-MusicRadarから、IK Multimedia launches flagship amp and effects modeller that lets you run four Tone Models simultaneously: “The complete Tonex rig on a single pedalboard”。
-The Tonex digital tone universe expands once more with a fully featured floor unit that offers serious pro-quality rig options
-TechCrunchから、US data centers could consume more natural gas than Germany and Japan combined by 2035。
-The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.
-TechCrunchから、SpaceX will try to put Starship in orbit for the first time on September 22。
-Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.
-BBC Worldから、South African president vows justice as more women's bodies found near Johannesburg。
-Police have not linked the deaths to a serial killer but are investigating this possibility.
+TechCrunchから、Musk’s long-time backer is giving SpaceX stock to its investors。
+Valor Equity Partners is handing out stock to its LPs instead of cash returns.
+TechCrunchから、Al Gore has a surprisingly calm take on the AI data center backlash。
+In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.
+TechCrunchから、US automakers could soon be forced to include AM radio for free。
+The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.
+BBC Worldから、US interest rates raised for first time in three years。
+Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.
+NHK主要ニュースから、【台風25号】小笠原諸島では18日以降 雨風が強まるおそれ。
+大型の台風25号は日本のはるか南東の海上を北に進んでいて、小笠原諸島では18日から19日ごろにかけて雨や風が強まって波も高くなる見込みです。 台風はその後、本州の南の海上に進み、連休の天気に影響を与え…
+NHK主要ニュースから、高市首相きょう内閣改造 政権の骨格維持 維新は中司氏初入閣へ。
+高市総理大臣は、政権が掲げる重要政策の推進に向けて17日、内閣改造を行います。 木原官房長官、片山財務大臣、茂木外務大臣、小泉防衛大臣を留任させる意向を固め、政権の骨格を維持する方針です。 また、日本…
+NHK主要ニュースから、米 FRB 0.25％の利上げ決定 利上げは約3年ぶり。
+アメリカのFRB＝連邦準備制度理事会は、金融政策を決める会合を開き、16日、0.25％の利上げを決定したと発表しました。 利上げは2023年7月以来3年2か月ぶりで、ウォーシュ議長はインフレ率が高すぎ…
+NHK主要ニュースから、NY市場 ダウ一時900ドル超の下落 外国為替市場は1ドル156円台。
+16日のニューヨーク株式市場では、アメリカのFRB＝連邦準備制度理事会が今後も利上げを進めるとの見方からダウ平均株価は一時、900ドルを超える値下がりとなりました。
+TechCrunchから、Noise wants to help everyday people become paid content creators。
+Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.
+TechCrunchから、Pulley, a Carta rival, is shutting down。
+Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.
+NHK主要ニュースから、ゼレンスキー大統領「北朝鮮は安い値段で現代戦を経験」。
+ウクライナのゼレンスキー大統領がNHKの単独インタビューに応じ、北朝鮮が数万人規模の兵力をロシアでの戦闘に参加させたとの見方を示すとともに「現代戦を学んでおり、その経験を安い値段で得た」と述べ、日本を…
+BBC Worldから、US House votes to hold billionaire Epstein associate Leon Black in contempt。
+Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
