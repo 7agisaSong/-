@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-17
-生成時刻: 08:52:49
+生成日: 2026-09-18
+生成時刻: 08:42:41
 
 おはようございます。
-今日は2026年9月17日、木曜日です。
+今日は2026年9月18日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、Musk’s long-time backer is giving SpaceX stock to its investors。
-Valor Equity Partners is handing out stock to its LPs instead of cash returns.
-TechCrunchから、Al Gore has a surprisingly calm take on the AI data center backlash。
-In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.
-TechCrunchから、US automakers could soon be forced to include AM radio for free。
-The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.
-BBC Worldから、US interest rates raised for first time in three years。
-Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.
-NHK主要ニュースから、【台風25号】小笠原諸島では18日以降 雨風が強まるおそれ。
-大型の台風25号は日本のはるか南東の海上を北に進んでいて、小笠原諸島では18日から19日ごろにかけて雨や風が強まって波も高くなる見込みです。 台風はその後、本州の南の海上に進み、連休の天気に影響を与え…
-NHK主要ニュースから、高市首相きょう内閣改造 政権の骨格維持 維新は中司氏初入閣へ。
-高市総理大臣は、政権が掲げる重要政策の推進に向けて17日、内閣改造を行います。 木原官房長官、片山財務大臣、茂木外務大臣、小泉防衛大臣を留任させる意向を固め、政権の骨格を維持する方針です。 また、日本…
-NHK主要ニュースから、米 FRB 0.25％の利上げ決定 利上げは約3年ぶり。
-アメリカのFRB＝連邦準備制度理事会は、金融政策を決める会合を開き、16日、0.25％の利上げを決定したと発表しました。 利上げは2023年7月以来3年2か月ぶりで、ウォーシュ議長はインフレ率が高すぎ…
-NHK主要ニュースから、NY市場 ダウ一時900ドル超の下落 外国為替市場は1ドル156円台。
-16日のニューヨーク株式市場では、アメリカのFRB＝連邦準備制度理事会が今後も利上げを進めるとの見方からダウ平均株価は一時、900ドルを超える値下がりとなりました。
-TechCrunchから、Noise wants to help everyday people become paid content creators。
-Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.
-TechCrunchから、Pulley, a Carta rival, is shutting down。
-Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.
-NHK主要ニュースから、ゼレンスキー大統領「北朝鮮は安い値段で現代戦を経験」。
-ウクライナのゼレンスキー大統領がNHKの単独インタビューに応じ、北朝鮮が数万人規模の兵力をロシアでの戦闘に参加させたとの見方を示すとともに「現代戦を学んでおり、その経験を安い値段で得た」と述べ、日本を…
-BBC Worldから、US House votes to hold billionaire Epstein associate Leon Black in contempt。
-Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.
+TechCrunchから、Crusoe raises $3.9B to build massive data centers and small modular “AI factories”。
+The round values the data center giant at $30.9 billion.
+TechCrunchから、Google DeepMind launches institute to widen the AGI debate。
+Google DeepMind just launched an institute to hash out the big AGI questions in public
+NHK主要ニュースから、ドジャースが5年連続の地区優勝。
+大リーグのドジャースは17日、地区優勝へのマジックナンバーを「1」として臨んだレッズ戦に勝って、ナショナルリーグ西部地区で5年連続の優勝を果たしました。
+NHK主要ニュースから、【気象予報士解説】台風25号今後の進路は。
+台風25号の今後の進路について檜山気象予報士の解説です。 （おはよう日本 9月18日午前7時台） ※データ放送ではご覧いただけません。
+TechCrunchから、Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear。
+An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.
+TechCrunchから、PrismML hopes its tiny LLM will change how we all use AI。
+If AI lab PrismML isn't on your radar yet, it should be.
+TechCrunchから、The FAA’s plan to fix air traffic? $875M worth of AI。
+A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.
+BBC Worldから、US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark。
+The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.
+NHK主要ニュースから、九州新幹線 52日ぶりに全線で運行再開。
+ことし7月の熊本地震の影響で、熊本駅と新水俣駅の間で運行を取りやめていた九州新幹線は復旧工事が終わり、きょう午前6時に全線で運行を再開しました。 九州新幹線が全線で運行できるようになったのは52日ぶ…
+NHK主要ニュースから、台風25号 小笠原に接近へ 連休の東日本太平洋側大雨おそれ。
+大型の台風25号は、19日にかけて小笠原諸島に近づく見込みで、気象庁は高波に警戒し、強風や土砂災害などに十分注意するよう呼びかけています。 その後、20日日曜日から21日月曜日ごろには、関東など東日…
+NHK主要ニュースから、第2次高市改造内閣発足 食料品の消費税減税など政策推進が課題。
+高市総理大臣は、17日に内閣改造を行い、重要政策の担当閣僚を留任させる一方、専門性を重視して7人を初入閣で起用するなど新たな内閣を発足させました。 年末に向けて食料品の消費税減税に必要な法案の審議や…
+BBC Worldから、UN experts say grounds to believe US committed war crimes in Iran strikes。
+The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
