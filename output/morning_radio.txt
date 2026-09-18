@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-18
-生成時刻: 08:42:41
+生成日: 2026-09-19
+生成時刻: 08:36:32
 
 おはようございます。
-今日は2026年9月18日、金曜日です。
+今日は2026年9月19日、土曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、Crusoe raises $3.9B to build massive data centers and small modular “AI factories”。
-The round values the data center giant at $30.9 billion.
-TechCrunchから、Google DeepMind launches institute to widen the AGI debate。
-Google DeepMind just launched an institute to hash out the big AGI questions in public
-NHK主要ニュースから、ドジャースが5年連続の地区優勝。
-大リーグのドジャースは17日、地区優勝へのマジックナンバーを「1」として臨んだレッズ戦に勝って、ナショナルリーグ西部地区で5年連続の優勝を果たしました。
-NHK主要ニュースから、【気象予報士解説】台風25号今後の進路は。
-台風25号の今後の進路について檜山気象予報士の解説です。 （おはよう日本 9月18日午前7時台） ※データ放送ではご覧いただけません。
-TechCrunchから、Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear。
-An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.
-TechCrunchから、PrismML hopes its tiny LLM will change how we all use AI。
-If AI lab PrismML isn't on your radar yet, it should be.
-TechCrunchから、The FAA’s plan to fix air traffic? $875M worth of AI。
-A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.
-BBC Worldから、US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark。
-The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.
-NHK主要ニュースから、九州新幹線 52日ぶりに全線で運行再開。
-ことし7月の熊本地震の影響で、熊本駅と新水俣駅の間で運行を取りやめていた九州新幹線は復旧工事が終わり、きょう午前6時に全線で運行を再開しました。 九州新幹線が全線で運行できるようになったのは52日ぶ…
-NHK主要ニュースから、台風25号 小笠原に接近へ 連休の東日本太平洋側大雨おそれ。
-大型の台風25号は、19日にかけて小笠原諸島に近づく見込みで、気象庁は高波に警戒し、強風や土砂災害などに十分注意するよう呼びかけています。 その後、20日日曜日から21日月曜日ごろには、関東など東日…
-NHK主要ニュースから、第2次高市改造内閣発足 食料品の消費税減税など政策推進が課題。
-高市総理大臣は、17日に内閣改造を行い、重要政策の担当閣僚を留任させる一方、専門性を重視して7人を初入閣で起用するなど新たな内閣を発足させました。 年末に向けて食料品の消費税減税に必要な法案の審議や…
-BBC Worldから、UN experts say grounds to believe US committed war crimes in Iran strikes。
-The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.
+BBC Worldから、Trump says he is banning CNN and Politico from White House。
+The US president has had a tense and fiery relationship with the US media throughout his political career.
+TechCrunchから、A startup that builds other startups raised $100M, and is all-in on physical AI。
+UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.
+NHK主要ニュースから、トランプ大統領「グリーンランド安全保障 米に恒久管理 合意」。
+アメリカのトランプ大統領は18日、SNSへの投稿で、デンマークの自治領、グリーンランドの安全保障をめぐり、デンマークとグリーンランドとの間でアメリカに恒久的な管理権を与える合意に達したと投稿しました。…
+TechCrunchから、Anthropic is operating a lab that conducts biology experiments。
+AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.
+TechCrunchから、AI hallucination nearly triggers US military operation。
+“It’s important for service members to understand the uncertainty inherent to LLMs," a GovAI research scholar warns.
+BBC Worldから、US and Denmark reach deal over Greenland after Trump annexation threats。
+Trump said the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics haven't been confirmed by Danish officials.
+NHK主要ニュースから、台風25号 小笠原暴風警戒 あす以降伊豆諸島 関東近づくおそれ。
+大型の台風25号は、小笠原諸島の西南西の海上を進んでいて、小笠原諸島では高波に警戒が必要です。台風は強い勢力で、20日以降、伊豆諸島や関東などに近づく可能性があります。東海から東北の太平洋側では台風の…
+TechCrunchから、Anthropic’s first embedded evaluator is … Accenture?。
+Accenture is about to take on its most high-risk consulting engagement ever.
+NHK主要ニュースから、日銀 どう物価安定図るか 今後の利上げも難しい判断。
+日銀は18日、物価が大幅に上昇するリスクへの対応が必要だとして、これまでよりペースを速める形で利上げを決めました。今後も利上げを進める方針ですが、インフレへの懸念が世界的に高まる中、景気にも目配りしな…
+TechCrunchから、Automattic names interim CFO after exec departures。
+Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.
+BBC Worldから、At least 21 killed after vehicle loaded with explosives rams Pakistan mosque。
+A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.
+NHK主要ニュースから、高市首相 日米首脳会談を調整 対中認識のすりあわせ図る。
+高市総理大臣は来週、ニューヨークでの国連総会にあわせて、アメリカのトランプ大統領と会談する方向で最終調整を進めています。直後に米中首脳会談を控える中、中国をめぐる認識のすりあわせを図るとともに、日米同…
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
