@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-19
-生成時刻: 08:36:32
+生成日: 2026-09-20
+生成時刻: 08:36:25
 
 おはようございます。
-今日は2026年9月19日、土曜日です。
+今日は2026年9月20日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Trump says he is banning CNN and Politico from White House。
-The US president has had a tense and fiery relationship with the US media throughout his political career.
-TechCrunchから、A startup that builds other startups raised $100M, and is all-in on physical AI。
-UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.
-NHK主要ニュースから、トランプ大統領「グリーンランド安全保障 米に恒久管理 合意」。
-アメリカのトランプ大統領は18日、SNSへの投稿で、デンマークの自治領、グリーンランドの安全保障をめぐり、デンマークとグリーンランドとの間でアメリカに恒久的な管理権を与える合意に達したと投稿しました。…
-TechCrunchから、Anthropic is operating a lab that conducts biology experiments。
-AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.
-TechCrunchから、AI hallucination nearly triggers US military operation。
-“It’s important for service members to understand the uncertainty inherent to LLMs," a GovAI research scholar warns.
-BBC Worldから、US and Denmark reach deal over Greenland after Trump annexation threats。
-Trump said the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics haven't been confirmed by Danish officials.
-NHK主要ニュースから、台風25号 小笠原暴風警戒 あす以降伊豆諸島 関東近づくおそれ。
-大型の台風25号は、小笠原諸島の西南西の海上を進んでいて、小笠原諸島では高波に警戒が必要です。台風は強い勢力で、20日以降、伊豆諸島や関東などに近づく可能性があります。東海から東北の太平洋側では台風の…
-TechCrunchから、Anthropic’s first embedded evaluator is … Accenture?。
-Accenture is about to take on its most high-risk consulting engagement ever.
-NHK主要ニュースから、日銀 どう物価安定図るか 今後の利上げも難しい判断。
-日銀は18日、物価が大幅に上昇するリスクへの対応が必要だとして、これまでよりペースを速める形で利上げを決めました。今後も利上げを進める方針ですが、インフレへの懸念が世界的に高まる中、景気にも目配りしな…
-TechCrunchから、Automattic names interim CFO after exec departures。
-Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.
-BBC Worldから、At least 21 killed after vehicle loaded with explosives rams Pakistan mosque。
-A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.
-NHK主要ニュースから、高市首相 日米首脳会談を調整 対中認識のすりあわせ図る。
-高市総理大臣は来週、ニューヨークでの国連総会にあわせて、アメリカのトランプ大統領と会談する方向で最終調整を進めています。直後に米中首脳会談を控える中、中国をめぐる認識のすりあわせを図るとともに、日米同…
+BBC Worldから、Our head teacher was an abuser. We joined forces to get justice - now we're married。
+Students spent years collecting evidence against their Indonesian principal, before falling in love.
+BBC Worldから、Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'。
+Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.
+NHK主要ニュースから、【気象予報士解説】台風25号 今後の見通しは？。
+台風25号の今後の見通しや注意点について南利幸 気象予報士の解説です。
+NHK主要ニュースから、【台風25号】鉄道・空の便・道路は（20日朝の時点）。
+台風25号による交通機関への影響です。
+NHK主要ニュースから、台風25号 21日から22日ごろ関東など接近へ 大雨など厳重警戒を。
+大型で強い台風25号は、21日から22日ごろにかけて関東など東日本の太平洋側に強い勢力で接近する見込みで、東海から東北の太平洋側では平年の9月1か月分の雨量が1日で降るような大雨も予想されています。大…
+NHK主要ニュースから、電動車いす 転落などで死亡事故10年間で34件 NITE注意呼びかけ。
+電動車いすが用水路や側溝に転落するなどして乗っていた高齢者が死亡する事故が過去10年間で34件起きているとして、NITE＝製品評価技術基盤機構が注意を呼びかけています。
+NHK主要ニュースから、トランプ大統領「AIフォース」創設と発表 安全性懸念の中。
+AI＝人工知能の開発と安全性をめぐる議論が活発になるなか、アメリカのトランプ大統領は「AIの悪を探すため」として「AIフォース」を創設すると明らかにしました。
+TechCrunchから、Flock reportedly tries to shrink workforce with employee buyouts。
+Without buyouts, Flock would "almost certainly" need to lay off staff.
+BBC Worldから、Houthis say they targeted Saudi capital with ballistic missiles。
+A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.
+TechCrunchから、Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force。
+Trump claimed, without evidence, that the AI backlash is a Democratic hoax.
+BBC Worldから、Journalists denied White House access after Trump banned some media outlets。
+CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.
+TechCrunchから、Google’s Gemini is the latest AI model to hack other companies。
+Google said Gemini had "acted appropriately" by ending each hack immediately.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
