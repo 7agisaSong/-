@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-22
-生成時刻: 09:18:09
+生成日: 2026-09-23
+生成時刻: 08:51:40
 
 おはようございます。
-今日は2026年9月22日、火曜日です。
+今日は2026年9月23日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、CNN, MS NOW and Politico file lawsuit against Trump's White House ban。
-Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.
-TechCrunchから、The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping。
-Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.
-NHK主要ニュースから、台風25号 関東など記録的大雨 きょうも土砂災害に厳重警戒。
-強い台風25号の影響で関東や伊豆諸島では記録的な大雨となり、土砂災害や川の氾濫が相次ぎました。22日は広い範囲で晴れる見込みですが、これまでの大雨で地盤が緩んでいるため、引き続き、土砂災害には厳重に警…
-NHK主要ニュースから、【動画】台風25号 千葉 神奈川 一夜明けた各地の被害は。
-強い台風25号の影響で関東や伊豆諸島では記録的な大雨となり、土砂災害や川の氾濫が相次ぎました。22日の各地の被害の映像を動画でお伝えします。
-NHK主要ニュースから、大英図書館の再開発事業で着工式 日本の不動産会社が参画。
-日本の不動産会社が参画してイギリスの大英図書館の敷地内で進められる大規模な再開発で、図書館の拡張スペースのほか、研究環境などを備えた複合ビルの建設が始まり、着工式が行われました。
-NHK主要ニュースから、【台風25号】交通影響続く 首都圏の鉄道 運転見合わせ【22日】。
-台風25号による交通機関への影響です。 最新の交通情報に注意してください。
-BBC Worldから、Millions urged to evacuate as powerful Typhoon Dujuan hits Japan。
-The country's meteorological agency had warned of an "imminent threat to life," but this has now been downgraded.
-TechCrunchから、OpenAI forms math advisory group as its AI resolves more than 100 open problems。
-The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.
-TechCrunchから、Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket。
-Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.
-TechCrunchから、Meta’s Muse is outpacing ChatGPT’s early mobile launch。
-Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.
-NHK主要ニュースから、【台風25号 被害】神奈川と千葉で2人死亡4人不明 捜索続く。
-台風25号に伴う大雨の影響で21日、神奈川県や千葉県では土砂崩れが相次ぎ、50代と60代の2人が死亡したほか、4人の行方が分からなくなっています。警察と消防は22日も捜索を続けることにしています。
-TechCrunchから、Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google。
-Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.
+NHK主要ニュースから、日米首脳 中国めぐる諸課題を意見交換 高市首相からICCに言及。
+高市総理大臣は、国連総会のため訪れているニューヨークで、アメリカのトランプ大統領と日米首脳会談を行い、24日に控えた米中首脳会談を念頭に、中国をめぐる諸課題について意見を交わし、緊密に連携していくこと…
+TechCrunchから、TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4。
+Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.
+NHK主要ニュースから、トランプ大統領 グリーンランドに米軍基地設置の協定に署名。
+アメリカのトランプ大統領はデンマークの自治領、グリーンランドにアメリカ軍基地を設置することなどを盛り込んだ協定に署名しました。 グリーンランドをめぐってはトランプ大統領が過去に領有への意欲を示し、強…
+TechCrunchから、Snorkel AI triples valuation to $3.5B as demand for AI training data booms。
+The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.
+BBC Worldから、Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines。
+In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.
+NHK主要ニュースから、台風25号 千葉と神奈川で7人死亡 5人不明 浸水被害相次ぐ。
+台風25号の影響で、関東や伊豆諸島では記録的な大雨となり、土砂災害や川の氾濫による浸水被害が相次ぎました。 千葉県と神奈川県で7人が死亡、5人が行方不明となっています。 住宅の被害も相次ぎ、これまでに…
+NHK主要ニュースから、トランプ大統領 国連総会で演説 ICC加盟国に脱退呼びかけ。
+アメリカのトランプ大統領は、国連総会に出席して演説し、このところ制裁などで圧力を強めているICC＝国際刑事裁判所について「反米的で邪悪な者たちからなる裁判所だ」と主張し、加盟国に脱退を呼びかけました。
+BBC Worldから、US to build two military bases in Greenland under new deal with Denmark。
+The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.
+OpenAI Newsから、Better prompt caching for GPT-6。
+Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.
+BBC Worldから、How Ceuta, football and Israel are shaping Morocco's election。
+Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.
+NHK主要ニュースから、福岡 3歳児死亡事故 容疑者“当日の朝は焼酎を飲んだ”。
+今月20日、福岡市で飲酒運転とみられる車がバイク3台に追突し、近くにいた3歳の男の子が死亡した事故で、逮捕された68歳のドライバーが警察の調べに対し、事故当日の朝は焼酎を飲んだという趣旨の話をしている…
+TechCrunchから、Qualcomm launches two new smartphone chips with emphasis on AI。
+Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
