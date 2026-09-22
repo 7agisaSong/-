@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-21
-生成時刻: 08:33:34
+生成日: 2026-09-22
+生成時刻: 09:18:09
 
 おはようございます。
-今日は2026年9月21日、月曜日です。
+今日は2026年9月22日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、千葉 習志野市にレベル4土砂災害危険警報。
-銚子地方気象台は午前7時26分、習志野市にレベル4土砂災害危険警報を発表しました。 土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。 気象台は自治体からの避難の情報を確認し、崖の…
-NHK主要ニュースから、【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー。
-台風25号による交通機関への影響です。
-NHK主要ニュースから、【気象予報士解説】台風25号 大雨や暴風 今後の見通しは？。
-台風25号の今後の見通しや注意点について、南利幸 気象予報士の解説です。 9月21日の「おはよう日本」7時台で放送した内容です。 ※データ放送ではご覧いただけません。
-NHK主要ニュースから、台風25号は伊豆諸島や関東甲信に 大雨・暴風など厳重警戒。
-大型で強い台風25号は伊豆諸島南部の一部を巻き込み北寄りに進んでいて、伊豆諸島や関東では台風の接近前から大雨となり、レベル4危険警報が出されている地域があります。 台風は21日午後以降、伊豆諸島や関…
-TechCrunchから、6 days left to save up to $200 to TechCrunch Disrupt 2026。
-Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.
-BBC Worldから、Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece。
-One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.
-NHK主要ニュースから、千葉 佐倉 土砂が崩れ住宅の窓割れる。
-警察や消防によりますと、千葉県佐倉市では午前1時半すぎ、六崎の住民から「裏山の土砂が自分の家の外壁近くまで来ている」と消防に通報がありました。
-TechCrunchから、World model companies are keeping a lot of secrets。
-Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.
-BBC Worldから、German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on。
-Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.
-TechCrunchから、Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio。
-Many of The Boring Company's announced project have not materialized.
-TechCrunchから、Is the AI industry really ready to slow down?。
-On Equity, we debated whether Ai executives are serious about wanting to slow down.
-TechCrunchから、Vocci’s ring adds a new form factor to meeting note-taking。
-Vocci's lightweight ring costs $249, and might pose some privacy questions
+BBC Worldから、CNN, MS NOW and Politico file lawsuit against Trump's White House ban。
+Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.
+TechCrunchから、The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping。
+Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.
+NHK主要ニュースから、台風25号 関東など記録的大雨 きょうも土砂災害に厳重警戒。
+強い台風25号の影響で関東や伊豆諸島では記録的な大雨となり、土砂災害や川の氾濫が相次ぎました。22日は広い範囲で晴れる見込みですが、これまでの大雨で地盤が緩んでいるため、引き続き、土砂災害には厳重に警…
+NHK主要ニュースから、【動画】台風25号 千葉 神奈川 一夜明けた各地の被害は。
+強い台風25号の影響で関東や伊豆諸島では記録的な大雨となり、土砂災害や川の氾濫が相次ぎました。22日の各地の被害の映像を動画でお伝えします。
+NHK主要ニュースから、大英図書館の再開発事業で着工式 日本の不動産会社が参画。
+日本の不動産会社が参画してイギリスの大英図書館の敷地内で進められる大規模な再開発で、図書館の拡張スペースのほか、研究環境などを備えた複合ビルの建設が始まり、着工式が行われました。
+NHK主要ニュースから、【台風25号】交通影響続く 首都圏の鉄道 運転見合わせ【22日】。
+台風25号による交通機関への影響です。 最新の交通情報に注意してください。
+BBC Worldから、Millions urged to evacuate as powerful Typhoon Dujuan hits Japan。
+The country's meteorological agency had warned of an "imminent threat to life," but this has now been downgraded.
+TechCrunchから、OpenAI forms math advisory group as its AI resolves more than 100 open problems。
+The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.
+TechCrunchから、Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket。
+Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.
+TechCrunchから、Meta’s Muse is outpacing ChatGPT’s early mobile launch。
+Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.
+NHK主要ニュースから、【台風25号 被害】神奈川と千葉で2人死亡4人不明 捜索続く。
+台風25号に伴う大雨の影響で21日、神奈川県や千葉県では土砂崩れが相次ぎ、50代と60代の2人が死亡したほか、4人の行方が分からなくなっています。警察と消防は22日も捜索を続けることにしています。
+TechCrunchから、Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google。
+Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
