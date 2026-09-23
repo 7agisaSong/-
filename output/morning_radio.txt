@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-23
-生成時刻: 08:51:40
+生成日: 2026-09-24
+生成時刻: 08:59:25
 
 おはようございます。
-今日は2026年9月23日、水曜日です。
+今日は2026年9月24日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、日米首脳 中国めぐる諸課題を意見交換 高市首相からICCに言及。
-高市総理大臣は、国連総会のため訪れているニューヨークで、アメリカのトランプ大統領と日米首脳会談を行い、24日に控えた米中首脳会談を念頭に、中国をめぐる諸課題について意見を交わし、緊密に連携していくこと…
-TechCrunchから、TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4。
-Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.
-NHK主要ニュースから、トランプ大統領 グリーンランドに米軍基地設置の協定に署名。
-アメリカのトランプ大統領はデンマークの自治領、グリーンランドにアメリカ軍基地を設置することなどを盛り込んだ協定に署名しました。 グリーンランドをめぐってはトランプ大統領が過去に領有への意欲を示し、強…
-TechCrunchから、Snorkel AI triples valuation to $3.5B as demand for AI training data booms。
-The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.
-BBC Worldから、Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines。
-In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.
-NHK主要ニュースから、台風25号 千葉と神奈川で7人死亡 5人不明 浸水被害相次ぐ。
-台風25号の影響で、関東や伊豆諸島では記録的な大雨となり、土砂災害や川の氾濫による浸水被害が相次ぎました。 千葉県と神奈川県で7人が死亡、5人が行方不明となっています。 住宅の被害も相次ぎ、これまでに…
-NHK主要ニュースから、トランプ大統領 国連総会で演説 ICC加盟国に脱退呼びかけ。
-アメリカのトランプ大統領は、国連総会に出席して演説し、このところ制裁などで圧力を強めているICC＝国際刑事裁判所について「反米的で邪悪な者たちからなる裁判所だ」と主張し、加盟国に脱退を呼びかけました。
-BBC Worldから、US to build two military bases in Greenland under new deal with Denmark。
-The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.
-OpenAI Newsから、Better prompt caching for GPT-6。
-Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.
-BBC Worldから、How Ceuta, football and Israel are shaping Morocco's election。
-Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.
-NHK主要ニュースから、福岡 3歳児死亡事故 容疑者“当日の朝は焼酎を飲んだ”。
-今月20日、福岡市で飲酒運転とみられる車がバイク3台に追突し、近くにいた3歳の男の子が死亡した事故で、逮捕された68歳のドライバーが警察の調べに対し、事故当日の朝は焼酎を飲んだという趣旨の話をしている…
-TechCrunchから、Qualcomm launches two new smartphone chips with emphasis on AI。
-Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.
+TechCrunchから、Meta is trying VR glasses (again), this time with more IMAX。
+Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.
+BBC Worldから、OpenAI agent 'infiltrated' Australian government website, PM says。
+Albanese said he expressed "concern" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.
+TechCrunchから、Meta introduces camera-free AI glasses。
+Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.
+TechCrunchから、Vogue sent robots down the runway at Vogue World, and people were not impressed。
+Nothing says Italian craftsmanship like a Chinese robot doing a lasso to "L'Amour Toujours."
+MusicRadarから、“A cash grab”: Mark E Smith’s colleagues and partner wrangle over the "final” Fall album。
+Post Script has been put together since Smith’s death in 2018
+TechCrunchから、Anthropic says its biology lab has already found something big。
+But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.
+NHK主要ニュースから、台風26号が発生 沖縄の南の海上へ進む可能性 今後の進路に注意。
+23日夜、フィリピンの東の海上で台風26号が発生しました。今後、沖縄の南の海上へ進む可能性があり、気象庁は、今後の情報に注意するよう呼びかけています。
+BBC Worldから、AI superpower ambitions take centre stage as Trump and Xi meet。
+The US and China are vying for AI supremacy while seeking to keep it under human control.
+BBC Worldから、Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction。
+The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.
+TechCrunchから、If Amazon doesn’t know how to eliminate carbon emissions, then who does?。
+Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?
+NHK主要ニュースから、シールで落とし物を返却 新たな仕組み開発 警視庁などと連携へ。
+年々増加する落とし物をより迅速に返却しようと、都内のスタートアップ企業は、持ち主が特定できるシールを切り札にした新たな仕組みを開発し、今後、警視庁などと連携することになりました。
+NHK主要ニュースから、ジャングリア沖縄 親会社が173億円余の赤字。
+沖縄経済の起爆剤として期待を集め、去年7月に開業した、テーマパーク「ジャングリア沖縄」を運営している会社の親会社の、開業後初めてとなる決算がまとまり、173億円余りの最終赤字となったことがわかりました…
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
