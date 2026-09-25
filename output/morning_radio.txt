@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-24
-生成時刻: 08:59:25
+生成日: 2026-09-25
+生成時刻: 09:01:59
 
 おはようございます。
-今日は2026年9月24日、木曜日です。
+今日は2026年9月25日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、Meta is trying VR glasses (again), this time with more IMAX。
-Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.
-BBC Worldから、OpenAI agent 'infiltrated' Australian government website, PM says。
-Albanese said he expressed "concern" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.
-TechCrunchから、Meta introduces camera-free AI glasses。
-Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.
-TechCrunchから、Vogue sent robots down the runway at Vogue World, and people were not impressed。
-Nothing says Italian craftsmanship like a Chinese robot doing a lasso to "L'Amour Toujours."
-MusicRadarから、“A cash grab”: Mark E Smith’s colleagues and partner wrangle over the "final” Fall album。
-Post Script has been put together since Smith’s death in 2018
-TechCrunchから、Anthropic says its biology lab has already found something big。
-But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.
-NHK主要ニュースから、台風26号が発生 沖縄の南の海上へ進む可能性 今後の進路に注意。
-23日夜、フィリピンの東の海上で台風26号が発生しました。今後、沖縄の南の海上へ進む可能性があり、気象庁は、今後の情報に注意するよう呼びかけています。
-BBC Worldから、AI superpower ambitions take centre stage as Trump and Xi meet。
-The US and China are vying for AI supremacy while seeking to keep it under human control.
-BBC Worldから、Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction。
-The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.
-TechCrunchから、If Amazon doesn’t know how to eliminate carbon emissions, then who does?。
-Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?
-NHK主要ニュースから、シールで落とし物を返却 新たな仕組み開発 警視庁などと連携へ。
-年々増加する落とし物をより迅速に返却しようと、都内のスタートアップ企業は、持ち主が特定できるシールを切り札にした新たな仕組みを開発し、今後、警視庁などと連携することになりました。
-NHK主要ニュースから、ジャングリア沖縄 親会社が173億円余の赤字。
-沖縄経済の起爆剤として期待を集め、去年7月に開業した、テーマパーク「ジャングリア沖縄」を運営している会社の親会社の、開業後初めてとなる決算がまとまり、173億円余りの最終赤字となったことがわかりました…
+BBC Worldから、Netanyahu defends Israeli military action as delegates walk out before UN speech。
+The Israeli leader labels those who left his speech at the UN General Assembly as "moral cowards".
+TechCrunchから、Waymo is scaling fast. Here’s what the fleet data shows.。
+In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.
+BBC Worldから、Hundreds of thousands expected in Paris for Pope's visit。
+The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.
+MusicRadarから、“I remember Eddie sitting at the piano playing me this beautiful thing”: Sammy Hagar’s magical chemistry in Van Halen。
+“Eddie was the centre of things, the impetus for the songs”
+NHK主要ニュースから、イスラエル首相 国連演説で「イラン体制いずれ倒れる」と主張。
+イスラエルのネタニヤフ首相が国連総会で演説し、イランの核施設などへの攻撃を正当化した上で、「イランの体制はいずれ倒れる」と主張しました。
+NHK主要ニュースから、ホワイトハウス CNNなど取材禁止措置解除も米中報道に影響。
+アメリカのホワイトハウスはCNNなどのメディア3社の取材を禁止した措置について、連邦地方裁判所が差し止めを命じたことを受け、3社の取材を再び認めたと明らかにしました。
+NHK主要ニュースから、台風26号 あす以降沖縄の南を北上見込み 今後の情報に注意を。
+台風26号は26日以降、沖縄の南の海上を北寄りに進む見込みです。 進路の予報には幅があるため、最新の情報を確認するようにしてください。
+MusicRadarから、“My main purpose was to get information and harmonic values”: Mythic live recordings of John Coltrane to get official release。
+They capture the sax legend between 1960 and 1965
+NHK主要ニュースから、米中首脳会談終了 習主席「アメリカは『台湾独立』に反対を」。
+アメリカのトランプ大統領と中国の習近平国家主席が24日、ホワイトハウスで会談しました。 習主席はトランプ大統領に「台湾独立」に反対するよう求めたということですが、トランプ大統領がどのような反応を見せ…
+TechCrunchから、Nexterity wants to automate the hard, dangerous part of pipefitting。
+The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.
+NHK主要ニュースから、ICC脱退をナウルが表明 米国による圧力で同調広がるか焦点。
+国連総会の首脳演説で、南太平洋の島国ナウルのアデアン大統領はICC＝国際刑事裁判所から脱退する方針を表明しました。 国連総会ではアメリカのトランプ大統領が加盟国に対し、直ちに脱退するよう呼びかけてい…
+TechCrunchから、Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass。
+Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
