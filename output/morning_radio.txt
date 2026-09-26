@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-25
-生成時刻: 09:01:59
+生成日: 2026-09-26
+生成時刻: 09:09:54
 
 おはようございます。
-今日は2026年9月25日、金曜日です。
+今日は2026年9月26日、土曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Netanyahu defends Israeli military action as delegates walk out before UN speech。
-The Israeli leader labels those who left his speech at the UN General Assembly as "moral cowards".
-TechCrunchから、Waymo is scaling fast. Here’s what the fleet data shows.。
-In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.
-BBC Worldから、Hundreds of thousands expected in Paris for Pope's visit。
-The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.
-MusicRadarから、“I remember Eddie sitting at the piano playing me this beautiful thing”: Sammy Hagar’s magical chemistry in Van Halen。
-“Eddie was the centre of things, the impetus for the songs”
-NHK主要ニュースから、イスラエル首相 国連演説で「イラン体制いずれ倒れる」と主張。
-イスラエルのネタニヤフ首相が国連総会で演説し、イランの核施設などへの攻撃を正当化した上で、「イランの体制はいずれ倒れる」と主張しました。
-NHK主要ニュースから、ホワイトハウス CNNなど取材禁止措置解除も米中報道に影響。
-アメリカのホワイトハウスはCNNなどのメディア3社の取材を禁止した措置について、連邦地方裁判所が差し止めを命じたことを受け、3社の取材を再び認めたと明らかにしました。
-NHK主要ニュースから、台風26号 あす以降沖縄の南を北上見込み 今後の情報に注意を。
-台風26号は26日以降、沖縄の南の海上を北寄りに進む見込みです。 進路の予報には幅があるため、最新の情報を確認するようにしてください。
-MusicRadarから、“My main purpose was to get information and harmonic values”: Mythic live recordings of John Coltrane to get official release。
-They capture the sax legend between 1960 and 1965
-NHK主要ニュースから、米中首脳会談終了 習主席「アメリカは『台湾独立』に反対を」。
-アメリカのトランプ大統領と中国の習近平国家主席が24日、ホワイトハウスで会談しました。 習主席はトランプ大統領に「台湾独立」に反対するよう求めたということですが、トランプ大統領がどのような反応を見せ…
-TechCrunchから、Nexterity wants to automate the hard, dangerous part of pipefitting。
-The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.
-NHK主要ニュースから、ICC脱退をナウルが表明 米国による圧力で同調広がるか焦点。
-国連総会の首脳演説で、南太平洋の島国ナウルのアデアン大統領はICC＝国際刑事裁判所から脱退する方針を表明しました。 国連総会ではアメリカのトランプ大統領が加盟国に対し、直ちに脱退するよう呼びかけてい…
-TechCrunchから、Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass。
-Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.
+MusicRadarから、How The Mamas & The Papas created California Dreamin’, a counterculture anthem for the Summer Of Love。
+For all its sun-soaked connotations, the song was actually written in a freezing cold New York apartment
+BBC Worldから、Iran offers US deal to reopen Strait of Hormuz in seven days。
+Asked about the Iranian offer, a US official told the BBC "constructive discussions" were taking place through mediators.
+BBC Worldから、South African white genocide does not exist, new ambassador to US tells BBC。
+Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.
+TechCrunchから、Crusoe abandons $1.25B plan to use Boom turbines at AI data centers。
+Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.
+BBC Worldから、Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach。
+Current and former agents speak to the BBC about the devastating impact of the FBI hack.
+TechCrunchから、Automattic has a new board after failed attempt to put CEO on leave。
+After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.
+BBC Worldから、OpenAI investigating 'dozens' of instances of agents acting improperly。
+OpenAI agents tried to get information from "governments, universities, public agencies, and other institutions" through extreme means that sometimes curbed security controls, the company said.
+TechCrunchから、Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge。
+AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.
+NHK主要ニュースから、台風26号 沖縄であす非常に強い風 関東中心に土砂災害に注意を。
+沖縄の南にある台風26号は、今後、発達しながら北上して、沖縄県に近づく見込みです。沖縄県では27日、非常に強い風が吹いて、海上は大しけとなるおそれがあり、高波に警戒するとともに、強風にも十分注意が必要…
+NHK主要ニュースから、習主席 訪米終え帰国へ 年内にあと2回会談の意向示す。
+中国の習近平国家主席は3日間のアメリカ訪問を終え、日本時間の26日、帰国の途につきました。出発に先立ち、習主席は、年内にあと2回、トランプ大統領と会談を行う意向を示しました。
+NHK主要ニュースから、群馬 太田 女性死亡事件 逃走した長女の元夫を公開手配。
+25日、群馬県太田市の住宅でこの家に住む52歳の女性が殺害された事件で、警察は現場にいて女性の長男を切りつけて逃げた女性の長女の30歳の元夫について長男に対する殺人未遂の疑いで逮捕状を取り、公開手配し…
+BBC Worldから、Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says。
+Such strikes aim to disrupt "people's ability to stay connected, study, work", says Ukraine's president.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
