@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-26
-生成時刻: 09:09:54
+生成日: 2026-09-27
+生成時刻: 08:55:56
 
 おはようございます。
-今日は2026年9月26日、土曜日です。
+今日は2026年9月27日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-MusicRadarから、How The Mamas & The Papas created California Dreamin’, a counterculture anthem for the Summer Of Love。
-For all its sun-soaked connotations, the song was actually written in a freezing cold New York apartment
-BBC Worldから、Iran offers US deal to reopen Strait of Hormuz in seven days。
-Asked about the Iranian offer, a US official told the BBC "constructive discussions" were taking place through mediators.
-BBC Worldから、South African white genocide does not exist, new ambassador to US tells BBC。
-Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.
-TechCrunchから、Crusoe abandons $1.25B plan to use Boom turbines at AI data centers。
-Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.
-BBC Worldから、Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach。
-Current and former agents speak to the BBC about the devastating impact of the FBI hack.
-TechCrunchから、Automattic has a new board after failed attempt to put CEO on leave。
-After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.
-BBC Worldから、OpenAI investigating 'dozens' of instances of agents acting improperly。
-OpenAI agents tried to get information from "governments, universities, public agencies, and other institutions" through extreme means that sometimes curbed security controls, the company said.
-TechCrunchから、Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge。
-AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.
-NHK主要ニュースから、台風26号 沖縄であす非常に強い風 関東中心に土砂災害に注意を。
-沖縄の南にある台風26号は、今後、発達しながら北上して、沖縄県に近づく見込みです。沖縄県では27日、非常に強い風が吹いて、海上は大しけとなるおそれがあり、高波に警戒するとともに、強風にも十分注意が必要…
-NHK主要ニュースから、習主席 訪米終え帰国へ 年内にあと2回会談の意向示す。
-中国の習近平国家主席は3日間のアメリカ訪問を終え、日本時間の26日、帰国の途につきました。出発に先立ち、習主席は、年内にあと2回、トランプ大統領と会談を行う意向を示しました。
-NHK主要ニュースから、群馬 太田 女性死亡事件 逃走した長女の元夫を公開手配。
-25日、群馬県太田市の住宅でこの家に住む52歳の女性が殺害された事件で、警察は現場にいて女性の長男を切りつけて逃げた女性の長女の30歳の元夫について長男に対する殺人未遂の疑いで逮捕状を取り、公開手配し…
-BBC Worldから、Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says。
-Such strikes aim to disrupt "people's ability to stay connected, study, work", says Ukraine's president.
+NHK主要ニュースから、前線停滞で九州北部大雨に 土砂災害など厳重警戒を 台風26号も。
+秋雨前線の影響で九州北部には発達した雨雲がかかり、長崎県では猛烈な雨が降ったとみられるほか、福岡県と熊本県、長崎県、それに佐賀県では3時間以内に線状降水帯が発生する可能性が高まっているとして、「線状降…
+NHK主要ニュースから、群馬女性殺害事件 DVめぐり警察が元夫に事件前に2回口頭指導。
+群馬県太田市の住宅で52歳の母親が刃物で刺されて殺害された事件で、公開手配された長女の元夫に対し警察が事件前に長女へのDVをめぐり2回にわたり口頭で指導していたことが警察への取材で分かりました。 事…
+NHK主要ニュースから、【気象予報士解説】九州北部に線状降水帯のおそれ 台風26号は。
+秋雨前線の影響で九州北部には発達した雨雲がかかり、九州北部に「線状降水帯直前予測」気象防災速報が発表されました。警戒点や台風26号の見通しについて、南利幸 気象予報士の解説です。 27日の「おはよう…
+NHK主要ニュースから、熊本市全域に避難指示 31万5456世帯 74万822人。
+熊本市は、大雨や土砂災害発生のおそれがあるとして、午前7時15分、市内全域の31万5456世帯、74万822人に避難指示を出しました。 警戒レベル4の情報で、危険な場所から全員避難するよう呼びかけて…
+BBC Worldから、Trump rejects Iran deal to reopen Strait of Hormuz in seven days。
+Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the "definitive views" of mediators.
+BBC Worldから、Nor'easter brings flooding as New York and New Jersey declare emergency。
+Tens of millions of people from Maine to Virginia are in the path of the powerful storm.
+TechCrunchから、Insurers claim AI is already increasing healthcare costs。
+Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.
+TechCrunchから、TikTok agrees to pay at least $100M in Alabama settlement。
+TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.
+NHK主要ニュースから、米中合意文書 台湾言及なく 米大統領「習氏は私の考え理解」。
+アメリカのトランプ大統領と中国の習近平国家主席の首脳会談を受けてホワイトハウスは成果文書を発表し、安全性が議論となっているAIをめぐって対話の枠組みを設置したことなどを明らかにしました。 一方、文書…
+BBC Worldから、Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris。
+Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.
+TechCrunchから、Meta and YouTube say they will run ads for ‘Musk’ documentary after all。
+Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.
+TechCrunchから、Levoit’s new air purifier is for the pet odors that have taken over your apartment。
+This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
