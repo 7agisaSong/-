@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-28
-生成時刻: 08:59:49
+生成日: 2026-09-29
+生成時刻: 10:17:18
 
 おはようございます。
-今日は2026年9月28日、月曜日です。
+今日は2026年9月29日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-MusicRadarから、“I don't feel I've learnt enough” says Jonny Greenwood as he admits he used to be “clumsy” and “lazy”。
-Guitarist plays tribute night to Steve Reich on Sunday
-NHK主要ニュースから、台風26号 沖縄・奄美に接近 北～西日本では非常に激しい雨も。
-非常に強い台風26号は沖縄県の大東島地方や鹿児島県の奄美地方に近づいていて、高波に警戒するとともに、強風にも十分注意してください。 一方、秋雨前線と湿った空気の影響などで北日本から西日本の広い範囲で大…
-NHK主要ニュースから、技能五輪 日本は金2個含むメダル10個獲得 2年後は愛知県で開催。
-中国・上海で開かれていた、世界各地の若い技術者たちが仕事の技能を競い合う「技能五輪国際大会」が閉幕し、日本は金メダル2個を含むあわせて10個のメダルを獲得しました。
-NHK主要ニュースから、米軍使用のイギリス空軍基地近くでテロ準備などの疑い 5人逮捕。
-イギリスの警察は南西部にある空軍基地の近くでテロを準備した疑いなどで5人を逮捕したと発表しました。 地元メディアはこの基地はアメリカ軍がイランへの攻撃で使用していて、警察がイラン側が関与している可能性…
-BBC Worldから、Inside Yemen's front-line city as Houthis battle for control。
-In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.
-NHK主要ニュースから、台風25号の記録的大雨から1週間 千葉と神奈川で13人が死亡。
-台風25号に伴う記録的な大雨から28日で1週間となり、これまでに千葉県と神奈川県で13人が亡くなりました。 千葉県では依然として冠水や停電が続いている地域もあり、その解消が課題となっています。
-TechCrunchから、Anthropic’s CEO is about to have dinner with President Trump。
-This will be the first one-on-one meeting between Dario Amodei and Donald Trump
-NHK主要ニュースから、群馬女性殺害事件 逮捕の元夫 逃走中に服を着替え靴履いたか。
-群馬県太田市の住宅で52歳の母親が刃物で刺されて殺害され長男も切りつけられた事件で、27日に逮捕された長女の30歳の元夫は、現場から逃げたときとは違う服を着ていたことが警察への取材でわかりました。 逃…
-BBC Worldから、Embattled Serbian president resigns, paving way for early elections。
-Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.
-TechCrunchから、Can Muse overcome Meta’s trust issues?。
-On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.
-BBC Worldから、Two bodies found after avalanche hits Himalayan climbing group。
-Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.
-TechCrunchから、Anthropic’s Dario Amodei gets the SNL treatment。
-"AI is the devil and I its maker."
+NHK主要ニュースから、台風26号 日本の南の海上を北東へ 最新の気象情報確認を。
+台風26号は、日本の南の海上を東寄りに進んでいて、1日には伊豆諸島付近に進む可能性があります。 進路などの予報には幅があり、最新の気象情報を確認するようにしてください。
+TechCrunchから、Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort。
+Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.
+NHK主要ニュースから、北朝鮮外務次官 国連演説で“わが国は核保有国だ”と主張。
+北朝鮮の外務次官が国連総会で演説し「核保有国としての地位は覆すことはできない」と述べ、核兵器の保有を主張する立場の既成事実化をはかるねらいがあるとみられます。
+TechCrunchから、OpenAI reportedly ditches model over safety concerns。
+A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.
+MusicRadarから、The classic song recorded by Janis Joplin just three days before she died。
+“Her zest, her humour, her fragility, her fearlessness and her audacious, unbridled talent – it’s all captured on tape”
+TechCrunchから、Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds。
+Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.
+BBC Worldから、Tennessee governor rejects clemency bid for Christa Pike as execution looms。
+If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years.
+NHK主要ニュースから、千葉市中央区でトラックと乗用車が衝突 乗用車の3人死亡。
+29日明け方、千葉市中央区の交差点でトラックと乗用車が衝突する事故があり、炎上した乗用車に乗っていた3人が死亡しました。 警察や消防が事故の状況を調べています。
+BBC Worldから、French PM warns against escalation of school protests after 164 arrested。
+Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.
+NHK主要ニュースから、核のごみ文献調査 茨城 常陸大宮市長が赤澤大臣と面会し判断へ。
+高レベル放射性廃棄物、いわゆる「核のごみ」の最終処分地の選定をめぐり、茨城県常陸大宮市の鈴木定幸市長は、29日、赤澤経済産業大臣と面会し、国から申し入れのあった「文献調査」について、風評被害の懸念など…
+TechCrunchから、Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation。
+The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.
+BBC Worldから、New York Times executive fatally shot allegedly by elderly in-laws。
+Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
