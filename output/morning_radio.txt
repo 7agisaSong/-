@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-29
-生成時刻: 10:17:18
+生成日: 2026-09-30
+生成時刻: 09:46:51
 
 おはようございます。
-今日は2026年9月29日、火曜日です。
+今日は2026年9月30日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、台風26号 日本の南の海上を北東へ 最新の気象情報確認を。
-台風26号は、日本の南の海上を東寄りに進んでいて、1日には伊豆諸島付近に進む可能性があります。 進路などの予報には幅があり、最新の気象情報を確認するようにしてください。
-TechCrunchから、Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort。
-Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.
-NHK主要ニュースから、北朝鮮外務次官 国連演説で“わが国は核保有国だ”と主張。
-北朝鮮の外務次官が国連総会で演説し「核保有国としての地位は覆すことはできない」と述べ、核兵器の保有を主張する立場の既成事実化をはかるねらいがあるとみられます。
-TechCrunchから、OpenAI reportedly ditches model over safety concerns。
-A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.
-MusicRadarから、The classic song recorded by Janis Joplin just three days before she died。
-“Her zest, her humour, her fragility, her fearlessness and her audacious, unbridled talent – it’s all captured on tape”
-TechCrunchから、Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds。
-Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.
-BBC Worldから、Tennessee governor rejects clemency bid for Christa Pike as execution looms。
-If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years.
-NHK主要ニュースから、千葉市中央区でトラックと乗用車が衝突 乗用車の3人死亡。
-29日明け方、千葉市中央区の交差点でトラックと乗用車が衝突する事故があり、炎上した乗用車に乗っていた3人が死亡しました。 警察や消防が事故の状況を調べています。
-BBC Worldから、French PM warns against escalation of school protests after 164 arrested。
-Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.
-NHK主要ニュースから、核のごみ文献調査 茨城 常陸大宮市長が赤澤大臣と面会し判断へ。
-高レベル放射性廃棄物、いわゆる「核のごみ」の最終処分地の選定をめぐり、茨城県常陸大宮市の鈴木定幸市長は、29日、赤澤経済産業大臣と面会し、国から申し入れのあった「文献調査」について、風評被害の懸念など…
-TechCrunchから、Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation。
-The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.
-BBC Worldから、New York Times executive fatally shot allegedly by elderly in-laws。
-Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.
+TechCrunchから、America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch。
+For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.
+BBC Worldから、Chinese AI tool told researchers how to make bioweapons。
+Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.
+MusicRadarから、Guitar hero George Lynch on the highs and lows of his extraordinary career。
+“In any band there are complicated, triangulated emotions. Egos. And I guess my lack of diplomacy didn’t help”
+MusicRadarから、"The hypocrisy in the industry is insane": House legend Todd Edwards on sampling Suno。
+"Do you think I need to use AI? I've been making music without AI forever. I'm using it because it's an amazing adventure – I wouldn't be doing it if it wasn't"
+BBC Worldから、South Africa to clean up high-risk areas after 12 women killed。
+The deaths sparked a national outcry about the scale of violence against women in the country.
+BBC Worldから、Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries。
+The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.
+TechCrunchから、The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch。
+Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name "dot.com," which now redirects to the Grok chatbot download page.
+TechCrunchから、Your car and its mobile app are probably handing over all kinds of data to tech companies。
+Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.
+NHK主要ニュースから、台風26号 きょう夕方～あすにかけ伊豆諸島接近 千葉なども注意。
+台風26号は、30日夕方から1日にかけて伊豆諸島に近づく見込みで、高波や土砂災害に十分な注意が必要です。 また、台風の進路や速度によっては記録的な大雨で大きな被害が出ている千葉県でも1日、雨が強まる…
+TechCrunchから、a16z-backed EliseAI raises $350M, doubles valuation to $4B。
+EliseAI raises $350M, doubles valuation in a year.
+TechCrunchから、Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus。
+The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.
+MusicRadarから、“This could well be the amp simulator to rule them all”: Line 6 Helix Stadium Native review。
+Line 6 Helix Stadium Native brings Agoura amp models, Proxy clones, and 48-blocks to your DAW, but is it worth the $399.99 asking price for new users?
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
