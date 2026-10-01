@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-09-30
-生成時刻: 09:46:51
+生成日: 2026-10-01
+生成時刻: 09:51:19
 
 おはようございます。
-今日は2026年9月30日、水曜日です。
+今日は2026年10月1日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch。
-For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.
-BBC Worldから、Chinese AI tool told researchers how to make bioweapons。
-Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.
-MusicRadarから、Guitar hero George Lynch on the highs and lows of his extraordinary career。
-“In any band there are complicated, triangulated emotions. Egos. And I guess my lack of diplomacy didn’t help”
-MusicRadarから、"The hypocrisy in the industry is insane": House legend Todd Edwards on sampling Suno。
-"Do you think I need to use AI? I've been making music without AI forever. I'm using it because it's an amazing adventure – I wouldn't be doing it if it wasn't"
-BBC Worldから、South Africa to clean up high-risk areas after 12 women killed。
-The deaths sparked a national outcry about the scale of violence against women in the country.
-BBC Worldから、Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries。
-The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.
-TechCrunchから、The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch。
-Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name "dot.com," which now redirects to the Grok chatbot download page.
-TechCrunchから、Your car and its mobile app are probably handing over all kinds of data to tech companies。
-Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.
-NHK主要ニュースから、台風26号 きょう夕方～あすにかけ伊豆諸島接近 千葉なども注意。
-台風26号は、30日夕方から1日にかけて伊豆諸島に近づく見込みで、高波や土砂災害に十分な注意が必要です。 また、台風の進路や速度によっては記録的な大雨で大きな被害が出ている千葉県でも1日、雨が強まる…
-TechCrunchから、a16z-backed EliseAI raises $350M, doubles valuation to $4B。
-EliseAI raises $350M, doubles valuation in a year.
-TechCrunchから、Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus。
-The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.
-MusicRadarから、“This could well be the amp simulator to rule them all”: Line 6 Helix Stadium Native review。
-Line 6 Helix Stadium Native brings Agoura amp models, Proxy clones, and 48-blocks to your DAW, but is it worth the $399.99 asking price for new users?
+BBC Worldから、US Supreme Court allows execution of Christa Pike to go ahead。
+The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.
+NHK主要ニュースから、米FRB 本部改修工事めぐり 監察機関 “法律違反は確認されず”。
+アメリカのFRB＝連邦準備制度理事会の本部の改修工事をめぐり、費用が当初の想定を大きく上回った問題で、FRBの監察機関は、法律違反は確認されなかったとする調査報告書を公表しました。工事についてはトラン…
+BBC Worldから、Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies。
+Scientists say such rapid melting is no longer surprising given the pace of climate change.
+NHK主要ニュースから、日銀短観 大企業製造業の景気判断 6期連続で改善。
+日銀が1日に発表した短観＝企業短期経済観測調査で、大企業の製造業の景気判断を示す指数はプラス24ポイントでした。 前回、3か月前の調査を2ポイント上回って、6期連続の改善となりました。
+TechCrunchから、Google releases Gemini 4 Argon, called its most powerful model yet。
+Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.
+NHK主要ニュースから、台風26号 伊豆諸島は強風 高波 落雷に注意 千葉で強い雨おそれ。
+台風26号は、伊豆諸島付近を進んでいて、伊豆諸島では、警報級の大雨となる可能性は低くなりましたが、強風や高波のほか、落雷、竜巻などの激しい突風に注意してください。また、千葉県では、1日昼ごろにかけて、…
+BBC Worldから、Putin shows no sign of stopping the war as Russia doubles down on Ukraine。
+A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.
+TechCrunchから、The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next。
+Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.
+NHK主要ニュースから、台風27号が発生 日本のはるか南を北上見込み 今後の情報に注意。
+1日午前、日本のはるか南で台風27号が発生しました。今後北上する見込みで、気象庁は、今後の情報に注意するよう呼びかけています。
+BBC Worldから、What we know about stabbing on Flydubai flight to Israel。
+A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.
+TechCrunchから、Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation。
+Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.
+TechCrunchから、Factory CEO just accused his VC board adviser of spying for Cognition。
+VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
