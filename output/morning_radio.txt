@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-01
-生成時刻: 09:51:19
+生成日: 2026-10-02
+生成時刻: 10:05:22
 
 おはようございます。
-今日は2026年10月1日、木曜日です。
+今日は2026年10月2日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、US Supreme Court allows execution of Christa Pike to go ahead。
-The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.
-NHK主要ニュースから、米FRB 本部改修工事めぐり 監察機関 “法律違反は確認されず”。
-アメリカのFRB＝連邦準備制度理事会の本部の改修工事をめぐり、費用が当初の想定を大きく上回った問題で、FRBの監察機関は、法律違反は確認されなかったとする調査報告書を公表しました。工事についてはトラン…
-BBC Worldから、Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies。
-Scientists say such rapid melting is no longer surprising given the pace of climate change.
-NHK主要ニュースから、日銀短観 大企業製造業の景気判断 6期連続で改善。
-日銀が1日に発表した短観＝企業短期経済観測調査で、大企業の製造業の景気判断を示す指数はプラス24ポイントでした。 前回、3か月前の調査を2ポイント上回って、6期連続の改善となりました。
-TechCrunchから、Google releases Gemini 4 Argon, called its most powerful model yet。
-Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.
-NHK主要ニュースから、台風26号 伊豆諸島は強風 高波 落雷に注意 千葉で強い雨おそれ。
-台風26号は、伊豆諸島付近を進んでいて、伊豆諸島では、警報級の大雨となる可能性は低くなりましたが、強風や高波のほか、落雷、竜巻などの激しい突風に注意してください。また、千葉県では、1日昼ごろにかけて、…
-BBC Worldから、Putin shows no sign of stopping the war as Russia doubles down on Ukraine。
-A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.
-TechCrunchから、The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next。
-Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.
-NHK主要ニュースから、台風27号が発生 日本のはるか南を北上見込み 今後の情報に注意。
-1日午前、日本のはるか南で台風27号が発生しました。今後北上する見込みで、気象庁は、今後の情報に注意するよう呼びかけています。
-BBC Worldから、What we know about stabbing on Flydubai flight to Israel。
-A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.
-TechCrunchから、Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation。
-Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.
-TechCrunchから、Factory CEO just accused his VC board adviser of spying for Cognition。
-VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.
+TechCrunchから、Robotaxi operators will face fines for blocking first responders。
+A new California law places new rules on autonomous vehicles operators
+NHK主要ニュースから、完全失業率 8月は2.5％ 前月より0.1ポイント悪化 総務省。
+総務省によりますと、ことし8月の全国の完全失業率は2.5％で、前の月より0.1ポイント悪化しました。
+NHK主要ニュースから、東京23区の9月の消費者物価指数 前年同月比2.7％上昇。
+東京23区の9月の消費者物価指数の速報値は、天候による変動が大きい生鮮食品を除いた総合で、去年の同じ月と比べて2.7％上昇しました。 上昇率は、前の月と比べて、0.9ポイント拡大しました。
+TechCrunchから、The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know。
+TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.
+MusicRadarから、Giles Martin reveals that his father's piano solo on In My Life was originally played on an organ。
+He also explains why it ended up sounding like a harpsichord
+NHK主要ニュースから、プーチン大統領 日ロは困難を乗り越えたあと互恵的関係に。
+ロシアのプーチン大統領は1日、ウクライナ侵攻が終わった場合のその後の日ロ関係について「よき隣国で、互恵的になると見ている」と述べ、関係が改善するとの見通しを示したうえで、日本側に歩み寄りを求めました。
+BBC Worldから、What happened in the failed execution of Christa Pike - and what next?。
+The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.
+BBC Worldから、Christa Pike in critical condition after surviving two lethal injections, lawyer says。
+Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.
+TechCrunchから、Lyft is paying $272.5M to settle lawsuit over how it classified drivers。
+Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.
+TechCrunchから、Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation。
+Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.
+TechCrunchから、Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president。
+President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.
+BBC Worldから、Renee Good: Family of US woman killed by ICE agent sues Trump officials。
+Lawyers for Good's family say US officials created "an unprecedented environment for state sponsored violence" in Minneapolis.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
