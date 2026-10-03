@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-02
-生成時刻: 10:05:22
+生成日: 2026-10-03
+生成時刻: 09:45:14
 
 おはようございます。
-今日は2026年10月2日、金曜日です。
+今日は2026年10月3日、土曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、Robotaxi operators will face fines for blocking first responders。
-A new California law places new rules on autonomous vehicles operators
-NHK主要ニュースから、完全失業率 8月は2.5％ 前月より0.1ポイント悪化 総務省。
-総務省によりますと、ことし8月の全国の完全失業率は2.5％で、前の月より0.1ポイント悪化しました。
-NHK主要ニュースから、東京23区の9月の消費者物価指数 前年同月比2.7％上昇。
-東京23区の9月の消費者物価指数の速報値は、天候による変動が大きい生鮮食品を除いた総合で、去年の同じ月と比べて2.7％上昇しました。 上昇率は、前の月と比べて、0.9ポイント拡大しました。
-TechCrunchから、The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know。
-TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.
-MusicRadarから、Giles Martin reveals that his father's piano solo on In My Life was originally played on an organ。
-He also explains why it ended up sounding like a harpsichord
-NHK主要ニュースから、プーチン大統領 日ロは困難を乗り越えたあと互恵的関係に。
-ロシアのプーチン大統領は1日、ウクライナ侵攻が終わった場合のその後の日ロ関係について「よき隣国で、互恵的になると見ている」と述べ、関係が改善するとの見通しを示したうえで、日本側に歩み寄りを求めました。
-BBC Worldから、What happened in the failed execution of Christa Pike - and what next?。
-The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.
-BBC Worldから、Christa Pike in critical condition after surviving two lethal injections, lawyer says。
-Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.
-TechCrunchから、Lyft is paying $272.5M to settle lawsuit over how it classified drivers。
-Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.
-TechCrunchから、Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation。
-Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.
-TechCrunchから、Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president。
-President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.
-BBC Worldから、Renee Good: Family of US woman killed by ICE agent sues Trump officials。
-Lawyers for Good's family say US officials created "an unprecedented environment for state sponsored violence" in Minneapolis.
+TechCrunchから、Sanders introduces bill to ban the federal government from using Flock。
+The proposed legislation would extend to all automotica license plate readers.
+BBC Worldから、Cornell frat house rape accuser 'under siege' online, says lawyer。
+A lawyer for Jane Doe says she is "not doing well" amid attempts to uncover her identity.
+NHK主要ニュースから、テスラ 世界の新車販売台数減少“去年の駆け込み需要の反動”。
+アメリカのEV＝電気自動車メーカー「テスラ」の、先月までの3か月間の新車販売台数は前の年の同じ時期と比べて2.1％減少しました。去年、アメリカでEV購入の税制優遇の廃止を前に駆け込み需要があり、その反…
+MusicRadarから、“He could be a complete idiot, over some things”: Paul McCartney thinks that Lennon “expected more” from him in the early 70s。
+Lennon was often dismissive of his old partner’s solo work
+BBC Worldから、Riot police clash with students as education protests rage in France。
+About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.
+TechCrunchから、Sean Parker is rebuilding Stability AI around music。
+Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.
+BBC Worldから、US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say。
+As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.
+NHK主要ニュースから、船舶使用停止命令の東海汽船 “慣習踏襲の社内風土に問題”。
+酒を飲んで乗務するなど違反行為が複数確認され、国から一部の船舶の使用停止命令を受けた「東海汽船」は、弁護士などでつくる特別調査委員会の報告書を公表しました。 報告書では、毎年、正月には、船内で飲酒をす…
+BBC Worldから、G7 to release 100 million barrels of oil and diesel after Trump export ban threat。
+The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
+NHK主要ニュースから、台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意。
+日本のはるか南の海上にある大型で強い台風27号は今後、発達しながら北上し、週明けに東京の小笠原諸島に最も近づく見込みで、4日以降、高波に警戒が必要です。
+NHK主要ニュースから、津市で4人死亡の火災 住人男性と知人女性 出火当時不在か。
+2日、津市で住宅1棟が全焼し、焼け跡から4人が遺体で見つかった火事で、住人の38歳の男性と、知人の女性は出火当時、家にいなかったと説明していることが警察への取材で分かりました。 火事のあと、子ども4…
+TechCrunchから、Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass。
+Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
