@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-03
-生成時刻: 09:45:14
+生成日: 2026-10-04
+生成時刻: 09:05:42
 
 おはようございます。
-今日は2026年10月3日、土曜日です。
+今日は2026年10月4日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、Sanders introduces bill to ban the federal government from using Flock。
-The proposed legislation would extend to all automotica license plate readers.
-BBC Worldから、Cornell frat house rape accuser 'under siege' online, says lawyer。
-A lawyer for Jane Doe says she is "not doing well" amid attempts to uncover her identity.
-NHK主要ニュースから、テスラ 世界の新車販売台数減少“去年の駆け込み需要の反動”。
-アメリカのEV＝電気自動車メーカー「テスラ」の、先月までの3か月間の新車販売台数は前の年の同じ時期と比べて2.1％減少しました。去年、アメリカでEV購入の税制優遇の廃止を前に駆け込み需要があり、その反…
-MusicRadarから、“He could be a complete idiot, over some things”: Paul McCartney thinks that Lennon “expected more” from him in the early 70s。
-Lennon was often dismissive of his old partner’s solo work
-BBC Worldから、Riot police clash with students as education protests rage in France。
-About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.
-TechCrunchから、Sean Parker is rebuilding Stability AI around music。
-Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.
-BBC Worldから、US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say。
-As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.
-NHK主要ニュースから、船舶使用停止命令の東海汽船 “慣習踏襲の社内風土に問題”。
-酒を飲んで乗務するなど違反行為が複数確認され、国から一部の船舶の使用停止命令を受けた「東海汽船」は、弁護士などでつくる特別調査委員会の報告書を公表しました。 報告書では、毎年、正月には、船内で飲酒をす…
-BBC Worldから、G7 to release 100 million barrels of oil and diesel after Trump export ban threat。
-The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
-NHK主要ニュースから、台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意。
-日本のはるか南の海上にある大型で強い台風27号は今後、発達しながら北上し、週明けに東京の小笠原諸島に最も近づく見込みで、4日以降、高波に警戒が必要です。
-NHK主要ニュースから、津市で4人死亡の火災 住人男性と知人女性 出火当時不在か。
-2日、津市で住宅1棟が全焼し、焼け跡から4人が遺体で見つかった火事で、住人の38歳の男性と、知人の女性は出火当時、家にいなかったと説明していることが警察への取材で分かりました。 火事のあと、子ども4…
-TechCrunchから、Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass。
-Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.
+BBC Worldから、Cornell president says university 'must do better' after frat house rape allegations。
+Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as "deeply disturbing".
+MusicRadarから、How Paul Hardcastle created his sample-driven masterpiece 19。
+The making of a hard-hitting, documentary-inspired hit, created with some limited sampling technology
+NHK主要ニュースから、淡路島で釣りの9歳男児 海に転落し重体 救助向かった知人不明。
+4日未明、兵庫県の淡路島で、釣りに来ていた9歳の男の子が海に転落し、およそ30分後に救助されましたが意識不明の重体となっています。 男の子を助けようと海に入った20代の知人の行方が分からなくなってい…
+NHK主要ニュースから、那覇ホテル強盗殺人 アメリカ海兵隊普天間基地の上等兵を逮捕。
+3日、那覇市のホテルで女性が殺害され所持品が持ち去られているのが見つかった事件で、警察は4日、沖縄に駐留するアメリカ海兵隊の20歳の上等兵を強盗殺人の疑いで逮捕しました。
+NHK主要ニュースから、津 4人死亡の火事 4人は寝室とリビングで見つかる。
+津市で住宅1棟が全焼し、4人が死亡した火事で、4人のうち3人は寝室で、もう1人はリビングで見つかっていたことが、警察への取材で新たに分かりました。 当時、大人は留守中で、家には子ども4人がいたという…
+NHK主要ニュースから、台風27号 あすからあさって小笠原諸島に接近 高波警戒。
+大型で非常に強い台風27号は、東京の小笠原近海を北寄りに進んでいます。 非常に強い勢力のまま、5日夕方から6日はじめにかけて、小笠原諸島に接近するおそれがあり、高波に警戒が必要です。
+NHK主要ニュースから、サザン関口和之氏の著作権管理会社 5億8000万円余の申告漏れ。
+人気バンド、「サザンオールスターズ」のメンバー、関口和之氏の著作権の管理などを行う会社が、東京国税局の税務調査を受け、税理士から紹介された節税の方法は認められないとして、5億8000万円余りの申告漏れ…
+TechCrunchから、Federal judge calls Flock ‘indiscriminate mass surveillance’。
+A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.
+TechCrunchから、Amazon responds to data center backlash, says it no longer uses NDAs。
+The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.
+BBC Worldから、Tennessee prison chief to resign after Christa Pike's failed execution。
+Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
+TechCrunchから、OpenAI safety employee resigns, claiming the company’s ‘culture is broken’。
+By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.
+BBC Worldから、Russia hits second major bridge in Ukraine's capital Kyiv。
+The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
