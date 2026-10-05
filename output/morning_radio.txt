@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-04
-生成時刻: 09:05:42
+生成日: 2026-10-05
+生成時刻: 09:12:20
 
 おはようございます。
-今日は2026年10月4日、日曜日です。
+今日は2026年10月5日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Cornell president says university 'must do better' after frat house rape allegations。
-Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as "deeply disturbing".
-MusicRadarから、How Paul Hardcastle created his sample-driven masterpiece 19。
-The making of a hard-hitting, documentary-inspired hit, created with some limited sampling technology
-NHK主要ニュースから、淡路島で釣りの9歳男児 海に転落し重体 救助向かった知人不明。
-4日未明、兵庫県の淡路島で、釣りに来ていた9歳の男の子が海に転落し、およそ30分後に救助されましたが意識不明の重体となっています。 男の子を助けようと海に入った20代の知人の行方が分からなくなってい…
-NHK主要ニュースから、那覇ホテル強盗殺人 アメリカ海兵隊普天間基地の上等兵を逮捕。
-3日、那覇市のホテルで女性が殺害され所持品が持ち去られているのが見つかった事件で、警察は4日、沖縄に駐留するアメリカ海兵隊の20歳の上等兵を強盗殺人の疑いで逮捕しました。
-NHK主要ニュースから、津 4人死亡の火事 4人は寝室とリビングで見つかる。
-津市で住宅1棟が全焼し、4人が死亡した火事で、4人のうち3人は寝室で、もう1人はリビングで見つかっていたことが、警察への取材で新たに分かりました。 当時、大人は留守中で、家には子ども4人がいたという…
-NHK主要ニュースから、台風27号 あすからあさって小笠原諸島に接近 高波警戒。
-大型で非常に強い台風27号は、東京の小笠原近海を北寄りに進んでいます。 非常に強い勢力のまま、5日夕方から6日はじめにかけて、小笠原諸島に接近するおそれがあり、高波に警戒が必要です。
-NHK主要ニュースから、サザン関口和之氏の著作権管理会社 5億8000万円余の申告漏れ。
-人気バンド、「サザンオールスターズ」のメンバー、関口和之氏の著作権の管理などを行う会社が、東京国税局の税務調査を受け、税理士から紹介された節税の方法は認められないとして、5億8000万円余りの申告漏れ…
-TechCrunchから、Federal judge calls Flock ‘indiscriminate mass surveillance’。
-A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.
-TechCrunchから、Amazon responds to data center backlash, says it no longer uses NDAs。
-The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.
-BBC Worldから、Tennessee prison chief to resign after Christa Pike's failed execution。
-Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
-TechCrunchから、OpenAI safety employee resigns, claiming the company’s ‘culture is broken’。
-By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.
-BBC Worldから、Russia hits second major bridge in Ukraine's capital Kyiv。
-The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.
+NHK主要ニュースから、ブラジル大統領選挙 10月25日に決選投票へ。
+4日に投票が行われた南米ブラジルの大統領選挙で現地の選挙管理当局は、右派のフラビオ・ボルソナロ上院議員と左派で現職のルーラ大統領の上位2人がいずれも当選に必要な有効票の過半数を得ることはできず、今月2…
+BBC Worldから、Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck。
+If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.
+NHK主要ニュースから、台風25号で不通の内房線 一部区間で折り返し運転始まる。
+台風25号に伴う大雨の影響で一部区間で運転見合わせが続いているJR内房線は、線路への被害がなかった木更津駅と長浦駅の区間で5日から折り返し運転を始めました。
+NHK主要ニュースから、台風27号 あすにかけて小笠原近海を北上 高波に警戒を。
+大型で非常に強い台風27号は、6日にかけて東京の小笠原近海を北上する見込みで、高波に警戒が必要です。
+NHK主要ニュースから、米兵逮捕の強盗殺人事件 被害女性の首にコードのようなものか。
+3日、那覇市で女性を殺害したうえ、所持品を奪ったとして、沖縄に駐留するアメリカ海兵隊の20歳の上等兵が強盗殺人の疑いで逮捕された事件で、女性の首にはコードのようなものが巻かれ、絞められた痕があったこと…
+TechCrunchから、Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions。
+AI slop seems to be overwhelming bug bounty programs.
+NHK主要ニュースから、柔道世界選手権 女子48キロ 古賀若菜が初の金メダル。
+柔道の世界選手権が4日、アゼルバイジャンで開幕し、女子48キロ級で古賀若菜選手が初めて金メダルを獲得しました。
+TechCrunchから、Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?。
+On Equity, we discussed the Trump administration's attempts to rebrand AI.
+BBC Worldから、Yemen's government announces all-out war to reclaim land from Houthis。
+The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.
+TechCrunchから、TechCrunch Mobility: Reining in robotaxis。
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+TechCrunchから、Trump unveils his new Super Intelligence Force。
+This new task force is Trump's latest response to the debate over AI safety.
+BBC Worldから、Watch: What we know about Russian strikes on Kyiv bridges。
+BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
