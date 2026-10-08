@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-07
-生成時刻: 10:02:12
+生成日: 2026-10-08
+生成時刻: 10:21:05
 
 おはようございます。
-今日は2026年10月7日、水曜日です。
+今日は2026年10月8日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、US death row inmate Christa Pike awake and speaking after failed execution, lawyers say。
-Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.
-NHK主要ニュースから、8月の実質賃金 前年同月比1.5％増 8か月連続プラス。
-ことし8月の働く人1人あたりの現金給与の総額は、前の年の同じ月と比べて3.8％増加し、4年8か月連続のプラスとなりました。 また、物価を反映した実質賃金も1.5％増えて、8か月連続のプラスとなりまし…
-MusicRadarから、“It was a wild time. We mixed the album in two days on the most primitive console”: How Led Zeppelin created an epic masterpiece。
-“You hear Whole Lotta Love and you lose your mind. That’s it, period!”
-BBC Worldから、A beautiful Himalayan bird is changing its voice due to human activity, research shows。
-A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.
-TechCrunchから、How to find out if Amazon thinks you have ‘flat buttocks’。
-"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless," one shopper wrote on Threads.
-TechCrunchから、Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell。
-Apple appears poised to push into the smart home market with a slate of new devices and a key partner.
-TechCrunchから、Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product。
-Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.
-NHK主要ニュースから、アメリカと中国が核関連施設の相互訪問協議か 米メディア報道。
-中国が軍事力を急速に強化させるなか、アメリカのトランプ政権が、中国との間で核関連施設を相互に訪問することについて協議しているとアメリカメディアが報じました。
-NHK主要ニュースから、子どもの転落事故“秋に増えるおそれ” 都などが注意呼びかけ。
-都内で子どもがマンションから転落して死亡する事故が相次ぐ中、東京都などはエアコンを使用せず窓を開ける機会が多いこの時期は、転落事故が増えるおそれがあるとして注意を呼びかけています。
-MusicRadarから、“The ISA preamps deliver superb quality recorded tones”: Focusrite ISA C8X review。
-The Focusrite ISA C8X pairs two Lundahl-transformer ISA preamps with six Focusrite preamps, analogue saturation, and a built-in monitor controller
-NHK主要ニュースから、沖縄の米軍トップ 「48時間活動停止」「夜間外出禁止」を発表。
-普天間基地に所属するアメリカ海兵隊員が強盗殺人の疑いで逮捕された事件を受けて、沖縄駐留のアメリカ軍トップは、沖縄のすべてのアメリカ軍人に対して、部隊を48時間活動停止にすることや、30日間夜間外出禁止…
-TechCrunchから、Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet。
-Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.
+BBC Worldから、Spanish pensioner whose eviction sparked nationwide protests dies, union says。
+Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.
+MusicRadarから、Andrew Watt on how producing the Rolling Stones accidentally influenced Pearl Jam's Dark Matter。
+"There was a song that ended up being on the album that was in Open G tuning. I think those kinds of things can carry over"
+NHK主要ニュースから、パリのシャンゼリゼ通りと大阪・御堂筋が「姉妹ストリート」に。
+フランス・パリの観光地シャンゼリゼ通りと、大阪のメインストリート、御堂筋について、「姉妹ストリート」と位置づけて協力を深めていこうと、パリでそれぞれの関係者が出席して調印式が行われました。
+NHK主要ニュースから、ウクライナ外務省 北朝鮮捕虜移送めぐり「韓国と解決へ協議」。
+ウクライナ政府が、捕虜の北朝鮮兵士を韓国に移送したことを公にしたことについて韓国が反発している問題で、ウクライナの外務省は7日、韓国側との間で解決に向けた協議を続けていると明らかにしました。
+TechCrunchから、Robot data startup Mecka AI nabs $60M from Sequoia。
+Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.
+TechCrunchから、While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’。
+Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.
+Apple Newsroomから、Apple, The King’s Trust launch initiative to empower young creatives。
+Apple and The King’s Trust are building on their longstanding partnership by launching an immersive new education program to help young people move into the world of work.
+TechCrunchから、Nous Research confirms it hit $1.5B valuation, launches AI agents for business users。
+The developer of Hermes Agent raised a $90 million Series B.
+BBC Worldから、Israelis mourn 7 October attack victims three years after deadly Hamas raid。
+Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.
+NHK主要ニュースから、大手ビールメーカー4社 出荷価格の一覧表“裏会”で示し協議か。
+大手ビールメーカー4社がビールの値上げ幅などを事前に調整して取り決めるカルテルを結んだ疑いがあるとして、公正取引委員会は7日、各社の本社などを一斉に捜索しました。関係者によりますと、出荷時の価格をまと…
+TechCrunchから、Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11。
+Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.
+NHK主要ニュースから、ノーベル化学賞に東京理科大学名誉教授 会見で喜びの声。
+ことしのノーベル化学賞の受賞者に、自然界に存在するアミノ酸などの構造の起源の謎を明らかにし、人工的に再現する方法を発見した東京理科大学名誉教授のそ※合憲三さんらが選ばれました。そ※合さんは7日夜、記者…
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
