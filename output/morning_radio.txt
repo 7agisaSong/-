@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-09
-生成時刻: 10:28:39
+生成日: 2026-10-10
+生成時刻: 10:18:07
 
 おはようございます。
-今日は2026年10月9日、金曜日です。
+今日は2026年10月10日、土曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says。
-The US Defence Secretary said the execution would be public, but a legal expert said the "unprecedented" decision was on "uncertain legal terrain".
-NHK主要ニュースから、ブックオフ 不正アクセスで最大643万件の会員情報漏えいか。
-中古書籍の販売などを手がける「ブックオフグループホールディングス」は、子会社が提供する会員情報の管理システムに不正アクセスがあり、最大で643万件の会員の情報が漏えいした可能性があると発表しました。
-NHK主要ニュースから、8月家計調査 実質の消費支出9か月連続減少。
-総務省が発表したことし8月の家計調査で、2人以上の世帯が消費に使った金額は、物価の変動を除いた実質で前の年の同じ月より3.1％減少しました。 減少は9か月連続です。 1世帯あたりの消費額は31万9…
-BBC Worldから、Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC。
-Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.
-NHK主要ニュースから、トランプ政権 マイクロソフトなどの永住権手続き受け付け停止。
-アメリカのトランプ政権は、IT大手「マイクロソフト」などの企業について、アメリカ人を優先して雇用すべきだとして、外国人従業員がアメリカの永住権を取得するために必要な企業側の手続きの受け付けを停止すると…
-TechCrunchから、President Trump awards Big Tech donors with nation’s highest science prizes。
-Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.
-NHK主要ニュースから、ソフトバンク子会社 サイバー攻撃受け データ復旧などは困難。
-ソフトバンクの子会社のシステムがサイバー攻撃を受けた影響で、495の企業や自治体などに影響が出る中、会社は8日、遮断したサーバーに保管された顧客のデータは取り出しや復元が困難だという見通しを明らかにし…
-TechCrunchから、Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website。
-With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.
-NHK主要ニュースから、企業への不正アクセス 相次いで明らかに。
-企業への不正アクセスによる被害が相次ぐ中、8日、カラオケ店などを運営する第一興商がおよそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしたほか、ニュースメディア「NewsPicks」の運…
-TechCrunchから、Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect。
-Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.
-TechCrunchから、Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal。
-A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.
-TechCrunchから、Ben Affleck is an AI nerd, and the internet is impressed。
-Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.
+BBC Worldから、Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin。
+Ukraine's president sharply criticised the move, calling it an "investment in war that must be ended, not prolonged".
+TechCrunchから、Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead。
+Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
+MusicRadarから、Olivia Rodrigo and Dan Nigro on the “polarising” Mellotron choir that features in Honeybee。
+“I remember writing it in like, an hour – just feeling like it sort of captured this feeling of intense romantic love and also the fear that comes with that,” says Rodrigo
+BBC Worldから、Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest。
+Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.
+NHK主要ニュースから、簗農相 バス無料送迎報道で出納責任者「違法という認識ない」。
+簗農林水産大臣が選挙活動中に手配したシャトルバスで、自身の支持者を出陣式に無料で送迎したと一部で報じられたことについて、陣営の出納責任者が取材に応じ「出陣式に来た支持者が周辺に車を停めると迷惑になるの…
+BBC Worldから、Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices。
+The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
+TechCrunchから、Long live the mechanical keyboard。
+Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.
+BBC Worldから、JD Vance casts doubt on firing squad execution and says he will not watch it。
+The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.
+TechCrunchから、The maker of non-text AI model Jev valued at $7.5B just weeks after launch。
+What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
+NHK主要ニュースから、パナマでM7.6の地震 日本で若干の海面変動も被害の心配なし。
+ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の10日午前2時56分ごろ中米のパナマを震源とするマグニチュード7.6の大きな地震がありました。気象庁によりますとこの地震…
+NHK主要ニュースから、政府 相次ぐ不正アクセス受け 官民問わず対策の徹底求める。
+不正アクセスによる情報漏えいが相次いでいることを受けて、政府は、サイバー攻撃の脅威に常にさらされる状況になっているとして、システムのぜい弱性への速やかな対策などを官民を問わず徹底して行うよう求めること…
+NHK主要ニュースから、【詳しく】米トランプ政権 ICC＝国際刑事裁判所を制裁対象に。
+ICC＝国際刑事裁判所の赤根智子所長を制裁対象にしているアメリカのトランプ政権は9日、ICCそのものを制裁対象に指定したと発表しました。今後、活動が大幅に制限されるおそれもあることから加盟国からは懸念…
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
