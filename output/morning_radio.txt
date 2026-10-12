@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-11
-生成時刻: 09:31:16
+生成日: 2026-10-12
+生成時刻: 09:44:35
 
 おはようございます。
-今日は2026年10月11日、日曜日です。
+今日は2026年10月12日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Twelve killed in attack on airport in Saudi capital Riyadh。
-Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is "war crime".
-NHK主要ニュースから、サウジ首都の国際空港に攻撃 12人死亡 けが人300人以上。
-サウジアラビアの当局は首都リヤドの国際空港が10日、攻撃を受け、12人が死亡し、300人以上がけがをしたと発表しました。サウジアラビアと対立する隣国イエメンの反政府勢力フーシ派は、この空港への攻撃を繰…
-NHK主要ニュースから、茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達。
-茂木外務大臣はアメリカのルビオ国務長官と電話で会談し、トランプ政権がICC＝国際刑事裁判所を制裁対象に指定したことに対する日本側の立場を伝えました。 またICCの赤根所長とも電話会談し、今後の対応を…
-BBC Worldから、Young men live in fear of being snatched off the streets and sold to Myanmar's army。
-A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.
-TechCrunchから、Microsoft’s Satya Nadella says AI models need an ‘emergency brake’。
-In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.
-BBC Worldから、Russian glide bomb attack on Zaporizhzhia kills at least 20 people。
-Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its "thanks" for a US diesel deal.
-NHK主要ニュースから、アルツハイマー病の原因物質減らす マウスで実験成功 東大など。
-脳の老廃物を排出する機能を薬で活性化することで、アルツハイマー病の原因とされるたんぱく質の蓄積を抑えることにマウスを使った実験で成功したと東京大学などのグループが発表しました。
-NHK主要ニュースから、ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す。
-ことしのノーベル平和賞に選ばれたナビ・ピレイ氏はノルウェーで開かれた催しにオンラインで参加し、アメリカがICC＝国際刑事裁判所を新たな制裁対象に指定するなか「ICCの存続に大きな緊張と不安がある」と述…
-TechCrunchから、Apple discloses deal to hire team and license tech from personalized podcast startup Huxe。
-Is Apple hoping to get into the AI-generated podcast business?
-BBC Worldから、'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal。
-Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.
-NHK主要ニュースから、ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表。
-アメリカのトランプ政権がICC＝国際刑事裁判所を制裁対象に指定したと発表したことを受けて、ICCの締約国会議の議長団が制裁の撤回を求める声明を出しました。
-BBC Worldから、US murderer Christa Pike discharged from hospital 10 days after failed execution。
-Pike's lawyers say she is "grateful" to the medical team who cared for her after she survived two lethal injections last month.
+NHK主要ニュースから、北朝鮮の弾道ミサイルの可能性あるもの 日本のEEZ外に落下か。
+複数の政府関係者によりますと、北朝鮮から発射された弾道ミサイルの可能性があるものは、日本のEEZ＝排他的経済水域の外側に落下したとみられるということです。
+NHK主要ニュースから、【速報中】ドジャース ナショナルリーグ優勝決定シリーズ第1戦。
+大リーグ、ナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズは日本時間の12日、第1戦が行われます。 試合は日本時間の午前9時15分すぎに始まりました。NHKは総合とBSP4Kで中継し、…
+BBC Worldから、One killed, 11 injured in second Houthi strike on Riyadh airport in two days。
+The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.
+BBC Worldから、Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent。
+Zelensky says Kyiv would support such a truce. Moscow has yet to comment.
+NHK主要ニュースから、“ロシアのグーグル”に無人機攻撃 一部サービス利用できず。
+「ロシアのグーグル」とも呼ばれるIT大手の「ヤンデックス」は、データセンターがウクライナの無人機による攻撃を受けて損傷したと発表しました。タクシーの配車やフードデリバリーなど一部のサービスが利用できな…
+TechCrunchから、Will the HomeView be Apple’s first smart home success?。
+Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.
+BBC Worldから、Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says。
+Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.
+TechCrunchから、Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start。
+What does this mean for a fall full of movies starring villainous tech CEOs?
+NHK主要ニュースから、巨人一筋20年の坂本勇人 来季も現役続行の見通し。
+プロ野球、巨人一筋20年で、通算2474本のヒットをマークしている坂本勇人選手が、来シーズンも現役を続ける見通しであることが、球団関係者への取材でわかりました。
+NHK主要ニュースから、フーシ派 リヤドの国際空港攻撃と主張 緊張高まり懸念。
+サウジアラビアと対立するイエメンの反政府勢力フーシ派は11日、サウジアラビアの首都リヤドの国際空港などに攻撃を行ったとする声明を発表しました。 国際空港への攻撃では12人が死亡、300人以上がけがを…
+TechCrunchから、48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next。
+Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.
+TechCrunchから、The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know。
+Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
