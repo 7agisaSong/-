@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-12
-生成時刻: 09:44:35
+生成日: 2026-10-13
+生成時刻: 11:43:27
 
 おはようございます。
-今日は2026年10月12日、月曜日です。
+今日は2026年10月13日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、北朝鮮の弾道ミサイルの可能性あるもの 日本のEEZ外に落下か。
-複数の政府関係者によりますと、北朝鮮から発射された弾道ミサイルの可能性があるものは、日本のEEZ＝排他的経済水域の外側に落下したとみられるということです。
-NHK主要ニュースから、【速報中】ドジャース ナショナルリーグ優勝決定シリーズ第1戦。
-大リーグ、ナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズは日本時間の12日、第1戦が行われます。 試合は日本時間の午前9時15分すぎに始まりました。NHKは総合とBSP4Kで中継し、…
-BBC Worldから、One killed, 11 injured in second Houthi strike on Riyadh airport in two days。
-The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.
-BBC Worldから、Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent。
-Zelensky says Kyiv would support such a truce. Moscow has yet to comment.
-NHK主要ニュースから、“ロシアのグーグル”に無人機攻撃 一部サービス利用できず。
-「ロシアのグーグル」とも呼ばれるIT大手の「ヤンデックス」は、データセンターがウクライナの無人機による攻撃を受けて損傷したと発表しました。タクシーの配車やフードデリバリーなど一部のサービスが利用できな…
-TechCrunchから、Will the HomeView be Apple’s first smart home success?。
-Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.
-BBC Worldから、Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says。
-Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.
-TechCrunchから、Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start。
-What does this mean for a fall full of movies starring villainous tech CEOs?
-NHK主要ニュースから、巨人一筋20年の坂本勇人 来季も現役続行の見通し。
-プロ野球、巨人一筋20年で、通算2474本のヒットをマークしている坂本勇人選手が、来シーズンも現役を続ける見通しであることが、球団関係者への取材でわかりました。
-NHK主要ニュースから、フーシ派 リヤドの国際空港攻撃と主張 緊張高まり懸念。
-サウジアラビアと対立するイエメンの反政府勢力フーシ派は11日、サウジアラビアの首都リヤドの国際空港などに攻撃を行ったとする声明を発表しました。 国際空港への攻撃では12人が死亡、300人以上がけがを…
-TechCrunchから、48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next。
-Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.
-TechCrunchから、The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know。
-Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.
+NHK主要ニュースから、9月 企業物価指数 昨年同月比6.8%上昇 上昇率鈍化も高水準続く。
+企業の間で取り引きされるモノの価格を示す9月の企業物価指数は、2025年の同じ月と比べて6.8％上昇しました。 8月と比べると上昇率は縮小したものの、中東情勢の影響による石油関連製品の値上がりを反映…
+NHK主要ニュースから、関文科相 禁止の議員会館内で政治資金パーティー開催認め陳謝。
+関文部科学大臣は、自身が代表を務める自民党支部が政治資金パーティーを衆議院の内規で禁止されている議員会館内で開催していたとして陳謝した上で、再発防止に努める考えを示しました。
+NHK主要ニュースから、九州新幹線 架線点検のため全線運転見合わせ 再開見通し遅れる。
+九州新幹線は、架線の点検作業のため全線で運転を見合わせていますが、JR九州によりますと、このうち正午ごろの運転再開を見込んでいた博多と熊本の区間はきょう午後4時ごろに、また、午後2時の再開を見込んでい…
+BBC Worldから、Saudi minister vows 'serious response' to Houthi attacks on airports。
+It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.
+NHK主要ニュースから、ドジャース×ブルワーズ ドジャース2連敗。
+大リーグ、ナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズはブルワーズが第1戦に勝って、日本時間の午前6時から第2戦が行われました。 ドジャースは4対7で敗れて2連敗となりました。
+BBC Worldから、Breaking Bad actor RJ Mitte dies aged 34。
+Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.
+BBC Worldから、Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says。
+Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.
+BBC Worldから、Why Moscow is staying tight-lipped on Trump's energy ceasefire。
+While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.
+NHK主要ニュースから、きょうから予算委 消費税 経済政策 簗農相発言で論戦。
+国会では、13日から衆議院予算委員会で高市総理大臣とすべての閣僚が出席して基本的質疑が始まります。 食料品の消費税減税や経済・財政政策、それに簗農林水産大臣の道路予算に関する発言などをめぐって論戦が…
+TechCrunchから、Meta releases its first frontier model, Muse Wonder。
+Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.
+TechCrunchから、WindBorne wins a hefty US Air Force contract for its balloon data。
+A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.
+MusicRadarから、"I cherish the relationship we had": Slash is honoured with the Les Paul Spirit Award for 2026。
+Previous winners have included The Edge and Nile Rodgers
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
