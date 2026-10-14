@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-13
-生成時刻: 11:43:27
+生成日: 2026-10-14
+生成時刻: 09:38:02
 
 おはようございます。
-今日は2026年10月13日、火曜日です。
+今日は2026年10月14日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、9月 企業物価指数 昨年同月比6.8%上昇 上昇率鈍化も高水準続く。
-企業の間で取り引きされるモノの価格を示す9月の企業物価指数は、2025年の同じ月と比べて6.8％上昇しました。 8月と比べると上昇率は縮小したものの、中東情勢の影響による石油関連製品の値上がりを反映…
-NHK主要ニュースから、関文科相 禁止の議員会館内で政治資金パーティー開催認め陳謝。
-関文部科学大臣は、自身が代表を務める自民党支部が政治資金パーティーを衆議院の内規で禁止されている議員会館内で開催していたとして陳謝した上で、再発防止に努める考えを示しました。
-NHK主要ニュースから、九州新幹線 架線点検のため全線運転見合わせ 再開見通し遅れる。
-九州新幹線は、架線の点検作業のため全線で運転を見合わせていますが、JR九州によりますと、このうち正午ごろの運転再開を見込んでいた博多と熊本の区間はきょう午後4時ごろに、また、午後2時の再開を見込んでい…
-BBC Worldから、Saudi minister vows 'serious response' to Houthi attacks on airports。
-It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.
-NHK主要ニュースから、ドジャース×ブルワーズ ドジャース2連敗。
-大リーグ、ナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズはブルワーズが第1戦に勝って、日本時間の午前6時から第2戦が行われました。 ドジャースは4対7で敗れて2連敗となりました。
-BBC Worldから、Breaking Bad actor RJ Mitte dies aged 34。
-Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.
-BBC Worldから、Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says。
-Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.
-BBC Worldから、Why Moscow is staying tight-lipped on Trump's energy ceasefire。
-While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.
-NHK主要ニュースから、きょうから予算委 消費税 経済政策 簗農相発言で論戦。
-国会では、13日から衆議院予算委員会で高市総理大臣とすべての閣僚が出席して基本的質疑が始まります。 食料品の消費税減税や経済・財政政策、それに簗農林水産大臣の道路予算に関する発言などをめぐって論戦が…
-TechCrunchから、Meta releases its first frontier model, Muse Wonder。
-Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.
-TechCrunchから、WindBorne wins a hefty US Air Force contract for its balloon data。
-A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.
-MusicRadarから、"I cherish the relationship we had": Slash is honoured with the Les Paul Spirit Award for 2026。
-Previous winners have included The Edge and Nile Rodgers
+BBC Worldから、Pope diagnosed with lung cancer but had successful surgery, Vatican says。
+Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.
+NHK主要ニュースから、急発達する低気圧 北海道で暴風警戒 全国的に大気不安定。
+前線を伴った低気圧が急速に発達する影響で、北海道では15日にかけて日本海側を中心に非常に強い風が吹く見込みで、気象庁は暴風に警戒するよう呼びかけています。 北日本から西日本では大気の状態が非常に不安定…
+BBC Worldから、Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines。
+Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.
+TechCrunchから、Science Corporation implants its vision-restoring chip in its first Stargardt disease patient。
+Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).
+TechCrunchから、Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home。
+Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.
+TechCrunchから、Industrial Next wants factory robots to switch tasks in minutes, not weeks。
+Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
+TechCrunchから、Cerebras CEO pushes back on AI doomsday warnings。
+Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.
+BBC Worldから、Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot。
+The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.
+BBC Worldから、Saudi man charged with planting 'sophisticated' recording device in OpenAI office。
+Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.
+NHK主要ニュースから、九州新幹線 14日は始発から通常運行。
+九州新幹線は、架線の点検などのため13日、熊本と鹿児島中央の間で終日、運転を取りやめましたが、JR九州は作業が終了したとして14日の始発から全線で平常どおり運行しています。
+NHK主要ニュースから、ノーベル平和賞ピレイ氏 アメリカの対応「非常に悲しい」。
+ことしのノーベル平和賞に選ばれたナビ・ピレイ氏が13日、NHKの単独インタビューに応じ、受賞が発表された日にアメリカのトランプ政権がICC＝国際刑事裁判所を制裁対象に指定したと発表したことについて「受…
+TechCrunchから、Helix Carbon says it can make iron cheaper by recycling blast furnace pollution。
+The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
