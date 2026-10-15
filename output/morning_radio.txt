@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-15
-生成時刻: 09:07:40
+生成日: 2026-10-16
+生成時刻: 08:53:41
 
 おはようございます。
-今日は2026年10月15日、木曜日です。
+今日は2026年10月16日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、Gudea leverages AI to help organizations prevent social media crises before they erupt。
-Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]
-NHK主要ニュースから、ドジャース×ブルワーズ リーグ優勝決定S第3戦【午前9時開始】。
-大リーグ、ナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズはブルワーズが2連勝でリードし、舞台をロサンゼルスに移して、このあと日本時間の午前9時から第3戦が行われます。ドジャースは、打…
-TechCrunchから、Intero Biosystems wants drugmakers to test on mini human intestines, not animals。
-Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.
-TechCrunchから、CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes。
-Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.
-TechCrunchから、Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO。
-Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.
-NHK主要ニュースから、警察庁 米マイクロソフトと連携しネット犯罪サービスを無害化。
-警察庁はアメリカのIT大手のマイクロソフトなどと連携し、日本を標的にしたネット犯罪のグループに偽サイトの「型」を提供するなどしていた複数のサービスを、今月、アメリカでの訴訟によって無害化したと公表しま…
-NHK主要ニュースから、G20 財務相・中央銀行総裁会議 15日開幕へ。
-G20＝主要20か国の財務相・中央銀行総裁会議が、15日、タイで開かれます。各国でインフレ懸念が高まり金利の上昇傾向も続く中、世界経済の安定した成長に向けた議論が行われるほか、高性能のAIモデルが金融…
-TechCrunchから、Flock CEO says its microphones detect ‘just gunshots’ — its website says different。
-Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.
-BBC Worldから、Musk says US government may be behind slowdown of Ukraine drone speeds。
-Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield "missions".
-BBC Worldから、Student protesters attack government buildings in Albania。
-Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.
-NHK主要ニュースから、北海道新聞記者の拘束受けて状況などの確認急ぐ 日本政府。
-ロシアの治安機関が北海道新聞の記者を拘束したと発表したことを受けて、日本政府は、速やかな情報提供などをロシア側に申し入れました。拘束に至った状況などの確認を急ぎ、必要な対応を検討していくことにしていま…
-NHK主要ニュースから、簗農相辞表提出 首相きょう後任決定方針 野党は任命責任追及へ。
-地元の道路予算に関する発言など相次いで問題が指摘された簗農林水産大臣が辞表を提出したことを受けて、高市総理大臣は、15日中に後任を決める方針です。政府・与党は速やかに態勢の立て直しを図りたい考えなのに…
+TechCrunchから、When it came to Cal AI’s viral success, a small army of influencers paid off。
+The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.
+TechCrunchから、And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems。
+Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.
+NHK主要ニュースから、アメリカ西部オレゴン州の小学校で銃撃 複数けが。
+アメリカ西部オレゴン州ベンドにある小学校で15日午後、何者かが銃を発砲し、地元の警察によりますと子どもを含む複数の負傷者がいるということです。 容疑者は撃たれて死亡したということです。 この小学校…
+BBC Worldから、Bus hits train stopped on French side of Channel Tunnel, with 19 injured。
+Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.
+NHK主要ニュースから、ドイツ市場開拓へ デパートで日本産のコメを試験販売。
+日本の国産米の輸出拡大につなげようと、ドイツのデパートでパックに小分けされたコメが試験的に販売され、家族連れなどが味を確かめていました。
+NHK主要ニュースから、台風30号 今後の情報に注意を。
+15日、発生した台風30号は、日本のはるか南東の海上を西へ進んでいて、今後、非常に強い勢力に発達する見込みです。 気象庁は、来週以降の進路の予測は現時点で不確実だとしながらも、状況によっては日本に近…
+NHK主要ニュースから、トランプ大統領“死刑執行のライブ配信は中止”。
+アメリカのトランプ大統領は、軍の基地で銃を乱射し兵士13人を殺害したとして殺人などの罪に問われ、死刑判決を受けた元軍医の刑の執行について、ライブ配信するとしていた計画を撤回すると明らかにしました。 …
+TechCrunchから、Amazon devices chief Panos Panay on the importance of failure and bouncing back from it。
+Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.
+NHK主要ニュースから、与党“消費税早期審議入りを”野党“高市首相の任命責任追及”。
+農林水産大臣が交代する中、与党側は、食料品の消費税減税関連法案を早期に審議入りさせるなど国会運営への影響を最小限にとどめたい考えです。 これに対し、野党側は、高市総理大臣の任命責任などを追及する構え…
+TechCrunchから、Meta launches an open-weight AI model that runs on Macs。
+Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.
+TechCrunchから、Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps。
+Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.
+OpenAI Newsから、Bringing GPT-Rosalind to academic research labs。
+Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
