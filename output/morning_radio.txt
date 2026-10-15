@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-14
-生成時刻: 09:38:02
+生成日: 2026-10-15
+生成時刻: 09:07:40
 
 おはようございます。
-今日は2026年10月14日、水曜日です。
+今日は2026年10月15日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Pope diagnosed with lung cancer but had successful surgery, Vatican says。
-Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.
-NHK主要ニュースから、急発達する低気圧 北海道で暴風警戒 全国的に大気不安定。
-前線を伴った低気圧が急速に発達する影響で、北海道では15日にかけて日本海側を中心に非常に強い風が吹く見込みで、気象庁は暴風に警戒するよう呼びかけています。 北日本から西日本では大気の状態が非常に不安定…
-BBC Worldから、Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines。
-Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.
-TechCrunchから、Science Corporation implants its vision-restoring chip in its first Stargardt disease patient。
-Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).
-TechCrunchから、Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home。
-Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.
-TechCrunchから、Industrial Next wants factory robots to switch tasks in minutes, not weeks。
-Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
-TechCrunchから、Cerebras CEO pushes back on AI doomsday warnings。
-Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.
-BBC Worldから、Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot。
-The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.
-BBC Worldから、Saudi man charged with planting 'sophisticated' recording device in OpenAI office。
-Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.
-NHK主要ニュースから、九州新幹線 14日は始発から通常運行。
-九州新幹線は、架線の点検などのため13日、熊本と鹿児島中央の間で終日、運転を取りやめましたが、JR九州は作業が終了したとして14日の始発から全線で平常どおり運行しています。
-NHK主要ニュースから、ノーベル平和賞ピレイ氏 アメリカの対応「非常に悲しい」。
-ことしのノーベル平和賞に選ばれたナビ・ピレイ氏が13日、NHKの単独インタビューに応じ、受賞が発表された日にアメリカのトランプ政権がICC＝国際刑事裁判所を制裁対象に指定したと発表したことについて「受…
-TechCrunchから、Helix Carbon says it can make iron cheaper by recycling blast furnace pollution。
-The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.
+TechCrunchから、Gudea leverages AI to help organizations prevent social media crises before they erupt。
+Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]
+NHK主要ニュースから、ドジャース×ブルワーズ リーグ優勝決定S第3戦【午前9時開始】。
+大リーグ、ナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズはブルワーズが2連勝でリードし、舞台をロサンゼルスに移して、このあと日本時間の午前9時から第3戦が行われます。ドジャースは、打…
+TechCrunchから、Intero Biosystems wants drugmakers to test on mini human intestines, not animals。
+Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.
+TechCrunchから、CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes。
+Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.
+TechCrunchから、Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO。
+Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.
+NHK主要ニュースから、警察庁 米マイクロソフトと連携しネット犯罪サービスを無害化。
+警察庁はアメリカのIT大手のマイクロソフトなどと連携し、日本を標的にしたネット犯罪のグループに偽サイトの「型」を提供するなどしていた複数のサービスを、今月、アメリカでの訴訟によって無害化したと公表しま…
+NHK主要ニュースから、G20 財務相・中央銀行総裁会議 15日開幕へ。
+G20＝主要20か国の財務相・中央銀行総裁会議が、15日、タイで開かれます。各国でインフレ懸念が高まり金利の上昇傾向も続く中、世界経済の安定した成長に向けた議論が行われるほか、高性能のAIモデルが金融…
+TechCrunchから、Flock CEO says its microphones detect ‘just gunshots’ — its website says different。
+Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.
+BBC Worldから、Musk says US government may be behind slowdown of Ukraine drone speeds。
+Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield "missions".
+BBC Worldから、Student protesters attack government buildings in Albania。
+Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.
+NHK主要ニュースから、北海道新聞記者の拘束受けて状況などの確認急ぐ 日本政府。
+ロシアの治安機関が北海道新聞の記者を拘束したと発表したことを受けて、日本政府は、速やかな情報提供などをロシア側に申し入れました。拘束に至った状況などの確認を急ぎ、必要な対応を検討していくことにしていま…
+NHK主要ニュースから、簗農相辞表提出 首相きょう後任決定方針 野党は任命責任追及へ。
+地元の道路予算に関する発言など相次いで問題が指摘された簗農林水産大臣が辞表を提出したことを受けて、高市総理大臣は、15日中に後任を決める方針です。政府・与党は速やかに態勢の立て直しを図りたい考えなのに…
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
