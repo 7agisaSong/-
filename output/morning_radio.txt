@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-17
-生成時刻: 08:55:18
+生成日: 2026-10-18
+生成時刻: 08:28:32
 
 おはようございます。
-今日は2026年10月17日、土曜日です。
+今日は2026年10月18日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、高市首相 靖国神社の秋の例大祭にあわせ「真榊」奉納。
-17日から始まった靖国神社の秋の例大祭にあわせて、高市総理大臣は「真榊」と呼ばれる鉢植えの供え物を奉納しました。
-BBC Worldから、Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'。
-The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.
-BBC Worldから、Trial of German steakhouse heiress that sparked a huge spy scandal。
-For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.
-NHK主要ニュースから、台風30号 非常に強い勢力に発達する見込み 今後の情報に注意。
-強い台風30号は、日本のはるか南東の海上を西寄りに進んでいて、今後、非常に強い勢力に発達する見込みです。 来週の進路予想には幅があり、気象庁は、今後の情報に注意するよう呼びかけています。
-TechCrunchから、Replit is no longer working with Anthropic, CEO says。
-Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.
-NHK主要ニュースから、ロシアが拘束した北海道新聞記者への領事面会は実現せず。
-ロシアの治安機関が北海道新聞の記者を拘束したと発表したことをめぐり、ロシアの首都モスクワにある日本大使館の担当者が領事面会を行うため拘置所を訪問しましたが、面会は実現せず、大使館は調整を急ぐ方針です。
-BBC Worldから、Katie Zacharia leaving her White House role less than five days on the job。
-Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.
-NHK主要ニュースから、緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査。
-16日、北海道から東海にかけての広い範囲で緊急地震速報を誤って発表したことについて、気象庁は、本来使われないはずの、震源から遠く離れた観測点のデータを使うミスが起きていたと明らかにしました。 過大に推…
-TechCrunchから、Porsche’s electric Macan Turbo is an automotive existential crisis。
-The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.
-OpenAI Newsから、How Itaú is building generative AI for its entire customer base。
-With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.
-TechCrunchから、India becomes the latest country to report rogue AI agent activity。
-The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.
-MusicRadarから、“Sets a new benchmark for what a digital piano can be in a modern home”: Roland Kiyola KF-20 review。
-Roland's most beautifully designed digital piano brings flagship technology inside a truly one-of-a-kind handcrafted cabinet
+NHK主要ニュースから、インド ヒンドゥー教の祭典で大勢の人倒れ少なくとも17人死亡。
+インド東部で17日、ヒンドゥー教の祭典に参加していた大勢の人たちが折り重なるように倒れ、これまでに少なくとも17人が死亡しました。
+NHK主要ニュースから、パレスチナでユダヤ人入植者が欧州外交官を襲撃と報道。
+イスラエルによるユダヤ人入植地の拡大が続くパレスチナで、ヨーロッパの外交官らの一行が複数の入植者に襲撃されたと現地メディアが伝えました。イスラエルのサール外相は暴力行為を非難した上で、当局が捜査を開始…
+NHK主要ニュースから、火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ。
+火星の衛星「フォボス」から砂を地球に持ち帰る日本の探査機「MMX」は、H3ロケットに搭載され、20日に鹿児島県の種子島宇宙センターから打ち上げられます。
+NHK主要ニュースから、台風30号 急速に発達 23日に沖縄の南海上へ 今後の情報注意。
+非常に強い台風30号は、日本のはるか南の海上を急速に発達しながら西寄りに進んでいます。23日金曜日ごろには沖縄の南の海上に達すると予想されていますが、その後の進路の予測は定まっておらず、気象庁は今後の…
+NHK主要ニュースから、愛媛 西条まつり 太鼓台の下敷きで担ぎ手の西条市副市長が死亡。
+17日午後、愛媛県西条市で江戸時代から続く「西条まつり」で、「太鼓台」の担ぎ手として参加していた西条市の副市長が倒れてきた太鼓台の下敷きになり、死亡しました。警察が当時の詳しい状況を調べています。
+MusicRadarから、Hardware on a budget: 4 affordable, beginner-friendly setups for any genre。
+Looking to add some hardware to your DAW setup but don’t know where to start? We're here to help
+TechCrunchから、Meta removes language that raised scraping and AI training concerns。
+A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.
+TechCrunchから、TikTok permanently bans ‘Musk’ documentary advertising account。
+A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.
+BBC Worldから、Anti-government protesters battle with police in Albania。
+There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.
+BBC Worldから、Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests。
+Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.
+TechCrunchから、Anthropic says its workforce has become less junior and is spending more time in meetings。
+The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.
+BBC Worldから、Trump waives several Russia sanctions as row with Zelensky intensifies。
+The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
