@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-18
-生成時刻: 08:28:32
+生成日: 2026-10-19
+生成時刻: 08:41:25
 
 おはようございます。
-今日は2026年10月18日、日曜日です。
+今日は2026年10月19日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、インド ヒンドゥー教の祭典で大勢の人倒れ少なくとも17人死亡。
-インド東部で17日、ヒンドゥー教の祭典に参加していた大勢の人たちが折り重なるように倒れ、これまでに少なくとも17人が死亡しました。
-NHK主要ニュースから、パレスチナでユダヤ人入植者が欧州外交官を襲撃と報道。
-イスラエルによるユダヤ人入植地の拡大が続くパレスチナで、ヨーロッパの外交官らの一行が複数の入植者に襲撃されたと現地メディアが伝えました。イスラエルのサール外相は暴力行為を非難した上で、当局が捜査を開始…
-NHK主要ニュースから、火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ。
-火星の衛星「フォボス」から砂を地球に持ち帰る日本の探査機「MMX」は、H3ロケットに搭載され、20日に鹿児島県の種子島宇宙センターから打ち上げられます。
-NHK主要ニュースから、台風30号 急速に発達 23日に沖縄の南海上へ 今後の情報注意。
-非常に強い台風30号は、日本のはるか南の海上を急速に発達しながら西寄りに進んでいます。23日金曜日ごろには沖縄の南の海上に達すると予想されていますが、その後の進路の予測は定まっておらず、気象庁は今後の…
-NHK主要ニュースから、愛媛 西条まつり 太鼓台の下敷きで担ぎ手の西条市副市長が死亡。
-17日午後、愛媛県西条市で江戸時代から続く「西条まつり」で、「太鼓台」の担ぎ手として参加していた西条市の副市長が倒れてきた太鼓台の下敷きになり、死亡しました。警察が当時の詳しい状況を調べています。
-MusicRadarから、Hardware on a budget: 4 affordable, beginner-friendly setups for any genre。
-Looking to add some hardware to your DAW setup but don’t know where to start? We're here to help
-TechCrunchから、Meta removes language that raised scraping and AI training concerns。
-A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.
-TechCrunchから、TikTok permanently bans ‘Musk’ documentary advertising account。
-A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.
-BBC Worldから、Anti-government protesters battle with police in Albania。
-There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.
-BBC Worldから、Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests。
-Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.
-TechCrunchから、Anthropic says its workforce has become less junior and is spending more time in meetings。
-The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.
-BBC Worldから、Trump waives several Russia sanctions as row with Zelensky intensifies。
-The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.
+NHK主要ニュースから、自民 梶山氏 靖国神社に参拝 高市首相の総裁としての玉串料も。
+自民党の梶山総務会長は19日朝、秋の例大祭が行われている靖国神社に参拝しました。 梶山氏は、高市総理大臣の代わりに自民党総裁としての玉串料を納めたことを明らかにしました。
+BBC Worldから、Trump says suspension of Russia sanctions is to keep peace negotiations going。
+The US president blocked numerous sanctions on Russia two days before they were due to take effect.
+BBC Worldから、Major fire at Canada military base leaves four dead, dozens injured。
+Prime Minister Carney said military and emergency crews fought the flames throughout the night in "some of the worst conditions imaginable".
+BBC Worldから、'Very upsetting': Residents in shock after historic French town hall set alight。
+A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests
+NHK主要ニュースから、非常に強い台風30号 週半ば以降 沖縄・奄美に影響のおそれ。
+大型で非常に強い台風30号は、日本のはるか南の海上を西寄りに進んでいます。 今月22日の木曜日ごろには沖縄の南の海上に達すると予想されていますが、その後の進路の予測は定まっておらず、気象庁は今後の情報…
+NHK主要ニュースから、あすにかけ西日本や東日本中心に大気非常に不安定。
+前線を伴った低気圧の影響で北海道では大気の状態が不安定になり雨雲が発達しています。 西日本や東日本を中心に20日にかけて大気の状態が非常に不安定になる見込みで、気象庁は落雷や竜巻などの突風、急な強い雨…
+NHK主要ニュースから、フランス デモに乗じた暴動“店舗1500以上被害か”小売店団体。
+フランスでは17日、大規模なデモに乗じて暴動が起き、小売業の団体のトップは1500以上の店舗が破壊や略奪などの被害を受けたという推計を示しました。
+BBC Worldから、Inside Chicago's battle against the synthetic drugs flooding the US。
+The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.
+TechCrunchから、No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market。
+Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms
+TechCrunchから、Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’。
+Anthropic said that it will commit 5% of its shares to the fund.
+NHK主要ニュースから、横浜市長選挙 新人の原澤敦美氏が初当選。
+パワハラ問題で市長が辞職したことに伴う横浜市長選挙は18日、投票が行われ、新人で弁護士の原澤敦美氏が、前市長の山中竹春氏らを抑えて、初めての当選を果たしました。
+BBC Worldから、Macron calls for 'calm and order' after riots across France。
+French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
