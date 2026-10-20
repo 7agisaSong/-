@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-19
-生成時刻: 08:41:25
+生成日: 2026-10-20
+生成時刻: 09:42:16
 
 おはようございます。
-今日は2026年10月19日、月曜日です。
+今日は2026年10月20日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、自民 梶山氏 靖国神社に参拝 高市首相の総裁としての玉串料も。
-自民党の梶山総務会長は19日朝、秋の例大祭が行われている靖国神社に参拝しました。 梶山氏は、高市総理大臣の代わりに自民党総裁としての玉串料を納めたことを明らかにしました。
-BBC Worldから、Trump says suspension of Russia sanctions is to keep peace negotiations going。
-The US president blocked numerous sanctions on Russia two days before they were due to take effect.
-BBC Worldから、Major fire at Canada military base leaves four dead, dozens injured。
-Prime Minister Carney said military and emergency crews fought the flames throughout the night in "some of the worst conditions imaginable".
-BBC Worldから、'Very upsetting': Residents in shock after historic French town hall set alight。
-A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests
-NHK主要ニュースから、非常に強い台風30号 週半ば以降 沖縄・奄美に影響のおそれ。
-大型で非常に強い台風30号は、日本のはるか南の海上を西寄りに進んでいます。 今月22日の木曜日ごろには沖縄の南の海上に達すると予想されていますが、その後の進路の予測は定まっておらず、気象庁は今後の情報…
-NHK主要ニュースから、あすにかけ西日本や東日本中心に大気非常に不安定。
-前線を伴った低気圧の影響で北海道では大気の状態が不安定になり雨雲が発達しています。 西日本や東日本を中心に20日にかけて大気の状態が非常に不安定になる見込みで、気象庁は落雷や竜巻などの突風、急な強い雨…
-NHK主要ニュースから、フランス デモに乗じた暴動“店舗1500以上被害か”小売店団体。
-フランスでは17日、大規模なデモに乗じて暴動が起き、小売業の団体のトップは1500以上の店舗が破壊や略奪などの被害を受けたという推計を示しました。
-BBC Worldから、Inside Chicago's battle against the synthetic drugs flooding the US。
-The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.
-TechCrunchから、No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market。
-Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms
-TechCrunchから、Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’。
-Anthropic said that it will commit 5% of its shares to the fund.
-NHK主要ニュースから、横浜市長選挙 新人の原澤敦美氏が初当選。
-パワハラ問題で市長が辞職したことに伴う横浜市長選挙は18日、投票が行われ、新人で弁護士の原澤敦美氏が、前市長の山中竹春氏らを抑えて、初めての当選を果たしました。
-BBC Worldから、Macron calls for 'calm and order' after riots across France。
-French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.
+NHK主要ニュースから、火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功。
+日本の火星衛星探査機「MMX」は、鹿児島県の種子島宇宙センターからH3ロケット10号機で20日午前5時前に打ち上げられ、火星へ向かう軌道に投入されて打ち上げは成功しました。
+TechCrunchから、Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal。
+In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.
+BBC Worldから、Five ways El Niño is affecting the weather around the world。
+As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.
+TechCrunchから、Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says。
+AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]
+NHK主要ニュースから、不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社。
+国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…
+NHK主要ニュースから、東・西日本で大気不安定に 台風30号の最新情報 確認を。
+前線が停滞する影響で、東日本と西日本を中心に大気の状態が非常に不安定になっていて、北陸で雨雲が発達しています。気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注…
+NHK主要ニュースから、トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？。
+候補者の公式ウェブサイトからトランプ大統領の名前や写真が消え、集会への参加も見送られる。 アメリカの中間選挙まで2週間となる中、与党・共和党の候補の間でトランプ大統領と距離を置く動きが相次いでいます…
+TechCrunchから、Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’。
+Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.
+BBC Worldから、Curfew imposed in parts of central Paris and other cities after rioting across France。
+It comes after the country's interior minister admits that police "lost control" in some cities.
+BBC Worldから、Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation。
+The two top tennis pros married in 2021 and have one child together.
+BBC Worldから、Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC。
+Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.
+NHK主要ニュースから、食料品の消費税減税関連法案 きょう衆議院で審議入り。
+今の国会で最大の焦点となる食料品の消費税減税関連法案は20日、衆議院で審議入りします。与党側ができるだけ多くの党の賛同を得て成立させたい考えなのに対し、野党側は物価高対策としての効果や具体的な財源など…
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
