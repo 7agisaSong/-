@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-21
-生成時刻: 09:09:34
+生成日: 2026-10-22
+生成時刻: 09:15:27
 
 おはようございます。
-今日は2026年10月21日、水曜日です。
+今日は2026年10月22日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、今年度上半期の貿易統計 2兆8000億円の赤字 昨年比98.8％拡大。
-財務省が発表したことし4月から9月までの今年度上半期の貿易統計で、輸出から輸入を差し引いた貿易収支が2兆8184億円の赤字となりました。 昨年度の同じ時期と比べて赤字額は98.8％拡大しました。
-BBC Worldから、Elon Musk says Tesla-SpaceX merger being considered。
-Musk says special committees within both companies have been formed to look at a possible mega-merger.
-TechCrunchから、Anthropic pitches AI safety bill that may block a model if 50+ people could be killed。
-The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.
-TechCrunchから、SpaceX and Tesla boards form special committees to review merger。
-Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.
-NHK主要ニュースから、アメリカ政府 民生部門で中国AIのディープシーク利用禁止に。
-アメリカ政府は、連邦政府の民生部門が中国のAI新興企業、ディープシークの製品やサービスを利用することを禁止すると発表しました。 機微な情報が中国に送信されるリスクがあるためだとしています。
-NHK主要ニュースから、外務省局長がロシア外務省幹部と会談 記者の即時解放強く要請。
-ロシアの治安機関が北海道新聞の記者を拘束したことをめぐり、外務省の幹部がモスクワを訪れてロシア外務省の幹部と会談し、一刻も早い「領事面会」の実現と即時解放を強く求めました。
-TechCrunchから、Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate。
-Before you share the Netflix documentary "AI Gone Rogue" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.
-MusicRadarから、“It's just not worth it”: Selena Gomez says that vaping has changed her voice。
-...Though she has managed to quit
-NHK主要ニュースから、イーロン・マスク氏 スペースXとテスラの統合を特別委で議論。
-アメリカの実業家、イーロン・マスク氏は20日、自身がCEOを務める、宇宙開発やAI事業を展開する「スペースX」とEV＝電気自動車メーカーの「テスラ」との経営統合を議論するため、両社が特別委員会を設置し…
-BBC Worldから、Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo。
-Ukraine had accused the US of withholding key intelligence - a claim rejected as "scandalous" by Washington.
-TechCrunchから、Anthropic’s cloud partnerships are getting messy。
-Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.
-NHK主要ニュースから、台風30号 先島諸島に23日から接近か きょうは広範囲で激しい雨。
-大型で猛烈な台風30号は23日から24日にかけて沖縄県の先島諸島に接近する見込みで、その後、来週には進路を北東寄りに変えて西日本に影響する可能性もあり、最新の情報を確認するようにしてください。 一方…
+NHK主要ニュースから、【上空映像】秋田 子吉川 氾濫特別警報は注意報に。
+低気圧と前線の影響で、記録的な大雨となった秋田県では子吉川で氾濫が確認され、「レベル5氾濫特別警報」が発表されていましたが、午前2時すぎ、「レベル2氾濫注意報」に切り替えられました。氾濫が発生した地域…
+TechCrunchから、Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown。
+Blackstone’s AI head on why the PE giant isn't panicked by market jitters.
+TechCrunchから、Meta wants to pay for its broad AI buildout with a newly created class of stock。
+The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.
+NHK主要ニュースから、【ドローン動画】一夜明けた子吉川は 秋田 由利本荘。
+22日午前6時40分ごろ、秋田県由利本荘市の子吉川をドローンを使って撮影しました。川やその周辺の様子です。詳しくは動画をご覧ください（データ放送ではご覧になれません）。
+TechCrunchから、Airbnb limits chores for guests, sparking backlash from hosts。
+Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.
+NHK主要ニュースから、猛烈な台風30号 あす先島諸島接近 早めに対策を。
+大型で猛烈な台風30号は23日から24日土曜日ごろにかけて、沖縄県の先島諸島に近づく見込みです。一部の住宅が倒壊するような猛烈な風が吹くおそれがあり、気象庁は早めに対策を進めるよう呼びかけています。そ…
+BBC Worldから、Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks。
+Moscow says it is "ready in principle" to resume peace talks and US President Donald Trump says the world is "the closest we've been" to ending the war.
+TechCrunchから、TechCrunch Founder Summit 2026: Everything you need to know。
+TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.
+TechCrunchから、Meta says Muse has over 10M users, with shopping a top activity。
+Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.
+NHK主要ニュースから、消費税減税法案 与党“審議重ね法案通過”野党“充実審議を”。
+食料品の消費税減税関連法案は、23日、衆議院の委員会で実質的な審議に入ります。与党側が丁寧に審議を積み重ねて衆議院を通過させたい考えなのに対し、野党側は質疑への高市総理大臣の出席など審議の充実を求めて…
+OpenAI Newsから、Broad access through consistent standards。
+How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.
+NHK主要ニュースから、“PHPでぜい弱性確認 速やかな対応を”情報処理推進機構。
+ウェブサイトなどに広く使われている「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、独立行政法人の情報処理推進機構は、利用している企業などに対して速やかに対応するよう呼び…
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
