@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-22
-生成時刻: 09:15:27
+生成日: 2026-10-23
+生成時刻: 09:12:00
 
 おはようございます。
-今日は2026年10月22日、木曜日です。
+今日は2026年10月23日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、【上空映像】秋田 子吉川 氾濫特別警報は注意報に。
-低気圧と前線の影響で、記録的な大雨となった秋田県では子吉川で氾濫が確認され、「レベル5氾濫特別警報」が発表されていましたが、午前2時すぎ、「レベル2氾濫注意報」に切り替えられました。氾濫が発生した地域…
-TechCrunchから、Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown。
-Blackstone’s AI head on why the PE giant isn't panicked by market jitters.
-TechCrunchから、Meta wants to pay for its broad AI buildout with a newly created class of stock。
-The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.
-NHK主要ニュースから、【ドローン動画】一夜明けた子吉川は 秋田 由利本荘。
-22日午前6時40分ごろ、秋田県由利本荘市の子吉川をドローンを使って撮影しました。川やその周辺の様子です。詳しくは動画をご覧ください（データ放送ではご覧になれません）。
-TechCrunchから、Airbnb limits chores for guests, sparking backlash from hosts。
-Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.
-NHK主要ニュースから、猛烈な台風30号 あす先島諸島接近 早めに対策を。
-大型で猛烈な台風30号は23日から24日土曜日ごろにかけて、沖縄県の先島諸島に近づく見込みです。一部の住宅が倒壊するような猛烈な風が吹くおそれがあり、気象庁は早めに対策を進めるよう呼びかけています。そ…
-BBC Worldから、Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks。
-Moscow says it is "ready in principle" to resume peace talks and US President Donald Trump says the world is "the closest we've been" to ending the war.
-TechCrunchから、TechCrunch Founder Summit 2026: Everything you need to know。
-TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.
-TechCrunchから、Meta says Muse has over 10M users, with shopping a top activity。
-Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.
-NHK主要ニュースから、消費税減税法案 与党“審議重ね法案通過”野党“充実審議を”。
-食料品の消費税減税関連法案は、23日、衆議院の委員会で実質的な審議に入ります。与党側が丁寧に審議を積み重ねて衆議院を通過させたい考えなのに対し、野党側は質疑への高市総理大臣の出席など審議の充実を求めて…
-OpenAI Newsから、Broad access through consistent standards。
-How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.
-NHK主要ニュースから、“PHPでぜい弱性確認 速やかな対応を”情報処理推進機構。
-ウェブサイトなどに広く使われている「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、独立行政法人の情報処理推進機構は、利用している企業などに対して速やかに対応するよう呼び…
+BBC Worldから、Powerful earthquake hits Tibet killing 16 people, reports say。
+The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.
+NHK主要ニュースから、9月消費者物価 生鮮食品除く指数 前年同月比＋2.1％。
+家庭で消費するモノやサービスの値動きをみる9月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2.1％上昇しました。 上昇率は、前の月の1.7％から0.4ポイント拡大…
+TechCrunchから、Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta。
+A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the "billionaire's tax," should the measure be voted into law.
+NHK主要ニュースから、マイクロソフト「中国政府とつながりある集団がサイバー攻撃」。
+アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的と…
+BBC Worldから、Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds。
+The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.
+TechCrunchから、Warhound raises $200M to engineer war dogs and arm them with Anduril gear。
+Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.
+NHK主要ニュースから、仏 マクロン大統領「正当な理由ないデモ認めず」 デモ参加者は。
+大規模なデモに乗じて暴動が起きたフランスで、今週末もデモが呼びかけられていることを受け、マクロン大統領は今後数日間、正当な理由のないものは認めず、労働組合からの申請も審査してルートの変更を求める方針を…
+TechCrunchから、As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier。
+The digital asset unit, helmed by Chris Dixon, broadens its scope.
+BBC Worldから、L'Oreal says weight loss drugs are impacting beauty and skin care sales。
+The beauty giant's CEO says the use of GLP-1s is "a very important phenomenon for us".
+NHK主要ニュースから、台風 先島諸島 暴風大雨厳重警戒 西日本・東日本も大雨おそれ。
+大型で強い台風30号は沖縄県の先島諸島に近づいていて、風や雨が強まっています。24日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあるほか、線状降水帯が発生して災害の危険度が急激に高まるおそ…
+NHK主要ニュースから、【QA】PHPにぜい弱性発見 AI時代に求められる対応とは?。
+「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、企業や行政機関などは対応に追われています。その影響はわれわれ生活者にも。 利用しているウェブサービスがストップし、不便…
+TechCrunchから、OpenAI working on new $30B raise at $1.25T valuation ahead of IPO。
+Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
