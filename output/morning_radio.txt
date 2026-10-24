@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-23
-生成時刻: 09:12:00
+生成日: 2026-10-24
+生成時刻: 09:03:43
 
 おはようございます。
-今日は2026年10月23日、金曜日です。
+今日は2026年10月24日、土曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Powerful earthquake hits Tibet killing 16 people, reports say。
-The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.
-NHK主要ニュースから、9月消費者物価 生鮮食品除く指数 前年同月比＋2.1％。
-家庭で消費するモノやサービスの値動きをみる9月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2.1％上昇しました。 上昇率は、前の月の1.7％から0.4ポイント拡大…
-TechCrunchから、Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta。
-A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the "billionaire's tax," should the measure be voted into law.
-NHK主要ニュースから、マイクロソフト「中国政府とつながりある集団がサイバー攻撃」。
-アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的と…
-BBC Worldから、Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds。
-The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.
-TechCrunchから、Warhound raises $200M to engineer war dogs and arm them with Anduril gear。
-Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.
-NHK主要ニュースから、仏 マクロン大統領「正当な理由ないデモ認めず」 デモ参加者は。
-大規模なデモに乗じて暴動が起きたフランスで、今週末もデモが呼びかけられていることを受け、マクロン大統領は今後数日間、正当な理由のないものは認めず、労働組合からの申請も審査してルートの変更を求める方針を…
-TechCrunchから、As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier。
-The digital asset unit, helmed by Chris Dixon, broadens its scope.
-BBC Worldから、L'Oreal says weight loss drugs are impacting beauty and skin care sales。
-The beauty giant's CEO says the use of GLP-1s is "a very important phenomenon for us".
-NHK主要ニュースから、台風 先島諸島 暴風大雨厳重警戒 西日本・東日本も大雨おそれ。
-大型で強い台風30号は沖縄県の先島諸島に近づいていて、風や雨が強まっています。24日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあるほか、線状降水帯が発生して災害の危険度が急激に高まるおそ…
-NHK主要ニュースから、【QA】PHPにぜい弱性発見 AI時代に求められる対応とは?。
-「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、企業や行政機関などは対応に追われています。その影響はわれわれ生活者にも。 利用しているウェブサービスがストップし、不便…
-TechCrunchから、OpenAI working on new $30B raise at $1.25T valuation ahead of IPO。
-Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.
+MusicRadarから、"It’s often said that limitations breed creativity – is there anything more limited than a one-button synth?": Cyma Forma RND review。
+A pocket-sized generative synthesizer, RND is a musical slot machine: unpredictable, sometimes frustrating, but capable of surprising you in ways that few other synths can. It's also, quite literally, just a button
+TechCrunchから、Startups don’t need to go viral to win customers。
+At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.
+TechCrunchから、OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”。
+OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.
+NHK主要ニュースから、台風30号 先島諸島が暴風域に 沖縄で2人がけが。
+大型で強い台風30号は沖縄県の先島諸島を暴風域に巻き込んでほとんど停滞していて、沖縄県では引き続き、暴風や高波、土砂災害や低い土地の浸水、川の増水に厳重に警戒してください。台風から離れた西日本でも、非…
+TechCrunchから、Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell。
+The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
+TechCrunchから、VCs, Superhuman Mail founder share red flags about product-market fit。
+Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.
+NHK主要ニュースから、KDDI モンゴル自然保護区の大規模火災の経緯公表。
+今月8日、モンゴルの自然保護区で発生した大規模な火災にKDDIの子会社の活動が関係していたことを受けて、会社は火災に至るまでの経緯を公表しました。この中ではモンゴルの当局と保護区内を移動していたところ…
+BBC Worldから、Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say。
+Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.
+TechCrunchから、TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now。
+TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.
+NHK主要ニュースから、改正皇室典範 きょう施行。
+女性皇族が結婚後も皇室に残ることや、旧皇族の男系男子の養子縁組を盛り込んだ改正皇室典範が24日、施行されました。宮内庁は今後、具体的な検討を進めていくことになります。
+BBC Worldから、Seven shot dead by gunmen at church funeral in Jordan, officials say。
+Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.
+BBC Worldから、Deadly shooting near Paris is a 'racist terrorist attack', Macron says。
+One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
