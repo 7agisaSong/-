@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-25
-生成時刻: 08:45:48
+生成日: 2026-10-26
+生成時刻: 08:35:22
 
 おはようございます。
-今日は2026年10月25日、日曜日です。
+今日は2026年10月26日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化。
-GMOインターネットグループの投資家向けクラウドサービスが不正アクセスを受け、身に覚えのない取り引きが確認された問題で、会社は24日、被害の拡大を防止するため「能動的サイバー防御」を政府に緊急要請しま…
-NHK主要ニュースから、ウクライナ南部で限定停戦 大統領は人道状況改善に期待示す。
-アメリカの仲介で停戦の合意が発表されたウクライナ南部の都市をめぐり、ゼレンスキー大統領は「食料などの搬入が可能になり、人々が戦闘地域から避難できるようになることを望んでいる」と述べ、人道状況の改善につ…
-BBC Worldから、Palestinian families displaced as Israeli forces demolish Hebron homes。
-The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.
-NHK主要ニュースから、【最新情報】台風30号九州に接近へ 広範囲で大雨おそれ。
-大型の台風30号は東シナ海を北上していて、しだいに東寄りに進路を変え九州に接近する見込みです。 本州付近に停滞する前線に、台風から暖かく湿った空気が流れ込む影響で、東日本と西日本の広い範囲で27日にか…
-NHK主要ニュースから、【気象予報士解説 動画】台風30号 今後の見通しは。
-大型の台風30号は東シナ海を北上していて、しだいに東寄りに進路を変え九州に接近する見込みです。本州付近に停滞する前線に、台風から暖かく湿った空気が流れ込む影響で、東日本と西日本の広い範囲であさって27…
-NHK主要ニュースから、フランスで再び大規模なデモ 内相“暴力封じ込めた”強調。
-フランスで24日、物価高対策などを訴える大規模なデモが行われました。 17日のデモの際に暴動が起きたことを受けて厳戒態勢がしかれ、内相は暴力を封じ込めたと強調しています。
-BBC Worldから、Almost 1,000 arrested as clashes follow another day of mass protests across France。
-Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.
-TechCrunchから、Starlink seems to be working normally again in Ukraine。
-Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.
-TechCrunchから、Will AI expose the rickety infrastructure of the internet?。
-The moment you realize the internet is "held together by glue and dreams."
-TechCrunchから、The AI graveyard: a running list of projects and startups that didn’t make it。
-From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
-TechCrunchから、Instacart reportedly discussed selling itself with DoorDash and Uber。
-Instacart might sell itself to a larger competitor.
-TechCrunchから、Block’s new voice model sounds eerily human。
-Block said that the voice model can run locally on a MacBook M4 Max
+BBC Worldから、Venezuelan opposition leader María Machado returns after months in exile。
+Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.
+BBC Worldから、Serbia's veteran ruler Vučić concedes election to student-led protest movement。
+The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.
+BBC Worldから、Deeply divided Israel braces for pivotal election。
+After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.
+NHK主要ニュースから、ブラジル大統領選挙 決選投票 全土で2時間延長後に終了。
+ブラジルの大統領選挙は25日、左派で現職のルーラ大統領と右派で前大統領の長男、フラビオ・ボルソナロ上院議員による決選投票が2時間延長され、日本時間の26日午前7時に締め切られました。
+NHK主要ニュースから、台風30号は温帯低気圧に 西～東日本で非常に激しい雨のおそれ。
+台風30号は25日夜、温帯低気圧に変わりましたが、西日本と東日本では26日も大気の状態が非常に不安定になって、局地的に非常に激しい雨が降るおそれがあります。気象庁は土砂災害に警戒するとともに、低い土地…
+TechCrunchから、Grok releases the first seven minutes of its AI-generated ‘Odyssey’。
+The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.
+NHK主要ニュースから、大相撲九州場所 番付発表 33歳の美ノ海が新三役。
+来月8日に初日を迎える大相撲九州場所の番付が発表され、33歳の美ノ海が新三役となる小結に昇進しました。
+NHK主要ニュースから、あすイスラエル総選挙 ネタニヤフ首相政権維持できるか焦点。
+イスラエルの総選挙が日本時間の27日に行われます。ネタニヤフ首相は3年前、イスラム組織ハマスの奇襲攻撃を防げなかった責任を野党陣営から追及され苦戦を強いられていて、中東情勢に大きな影響を与えてきたネタ…
+TechCrunchから、‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead。
+"That's a 12-year-old view of the world."
+NHK主要ニュースから、ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】。
+プロ野球の日本シリーズ第2戦はソフトバンクがDeNAに延長10回、4対3で競り勝ち、対戦成績を2勝0敗としました。 試合はDeNAが8回に筒香嘉智選手のスリーランで逆転しましたが、ソフトバンクが直後…
+MusicRadarから、How U2 created the experimental anti-drug song that lit up Live Aid。
+“We were struggling so hard to find that song. It was a different kind of songwriting”
+TechCrunchから、AI delivers ‘zero financial payoff’ to most companies, Apollo economist says。
+"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
