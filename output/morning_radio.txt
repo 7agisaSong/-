@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-26
-生成時刻: 08:35:22
+生成日: 2026-10-27
+生成時刻: 09:52:09
 
 おはようございます。
-今日は2026年10月26日、月曜日です。
+今日は2026年10月27日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Venezuelan opposition leader María Machado returns after months in exile。
-Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.
-BBC Worldから、Serbia's veteran ruler Vučić concedes election to student-led protest movement。
-The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.
-BBC Worldから、Deeply divided Israel braces for pivotal election。
-After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.
-NHK主要ニュースから、ブラジル大統領選挙 決選投票 全土で2時間延長後に終了。
-ブラジルの大統領選挙は25日、左派で現職のルーラ大統領と右派で前大統領の長男、フラビオ・ボルソナロ上院議員による決選投票が2時間延長され、日本時間の26日午前7時に締め切られました。
-NHK主要ニュースから、台風30号は温帯低気圧に 西～東日本で非常に激しい雨のおそれ。
-台風30号は25日夜、温帯低気圧に変わりましたが、西日本と東日本では26日も大気の状態が非常に不安定になって、局地的に非常に激しい雨が降るおそれがあります。気象庁は土砂災害に警戒するとともに、低い土地…
-TechCrunchから、Grok releases the first seven minutes of its AI-generated ‘Odyssey’。
-The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.
-NHK主要ニュースから、大相撲九州場所 番付発表 33歳の美ノ海が新三役。
-来月8日に初日を迎える大相撲九州場所の番付が発表され、33歳の美ノ海が新三役となる小結に昇進しました。
-NHK主要ニュースから、あすイスラエル総選挙 ネタニヤフ首相政権維持できるか焦点。
-イスラエルの総選挙が日本時間の27日に行われます。ネタニヤフ首相は3年前、イスラム組織ハマスの奇襲攻撃を防げなかった責任を野党陣営から追及され苦戦を強いられていて、中東情勢に大きな影響を与えてきたネタ…
-TechCrunchから、‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead。
-"That's a 12-year-old view of the world."
-NHK主要ニュースから、ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】。
-プロ野球の日本シリーズ第2戦はソフトバンクがDeNAに延長10回、4対3で競り勝ち、対戦成績を2勝0敗としました。 試合はDeNAが8回に筒香嘉智選手のスリーランで逆転しましたが、ソフトバンクが直後…
-MusicRadarから、How U2 created the experimental anti-drug song that lit up Live Aid。
-“We were struggling so hard to find that song. It was a different kind of songwriting”
-TechCrunchから、AI delivers ‘zero financial payoff’ to most companies, Apollo economist says。
-"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
+NHK主要ニュースから、【地震情報】宮城 福島で震度3 津波の心配なし。
+27日午前9時25分ごろ、宮城県と福島県で震度3の揺れを観測する地震がありました。 この地震による津波の心配はありません。 各地の震度は 震度3が宮城県の岩沼市、福島県のいわき市、天栄村、玉川村、…
+OpenAI Newsから、Greptile takes bug detection beyond code review with GPT-6 Astra。
+How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.
+TechCrunchから、Databricks co-founder shares his secrets for winning big enterprise customers。
+Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.
+NHK主要ニュースから、山口 美祢 菓子店強盗殺人事件“便利屋”仕事通じ接点か。
+ことし8月、山口県美祢市で菓子店を営む男性を殺害し金庫を奪ったとして、いわゆる「便利屋」と呼ばれる自営業の容疑者ら2人が強盗殺人などの疑いで逮捕された事件で、容疑者は事件前に仕事を通して被害者と接点を…
+TechCrunchから、Watch out, YouTube — Instagram goes from short-form to 90-minute videos。
+After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.
+BBC Worldから、Lula wins fourth term in dramatic Brazil election comeback。
+The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.
+NHK主要ニュースから、ロシアとウクライナ局地停戦合意 日本時間27日午前10時発効へ。
+アメリカが仲介した、ウクライナ南部の都市オレシュキをめぐるロシアとウクライナによる局地的な停戦合意が27日発効します。双方が攻撃を停止し、人道状況の改善や住民の退避につながるかが焦点です。
+NHK主要ニュースから、GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化。
+GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ…
+BBC Worldから、Trump administration illegally fired James Comey's daughter, judge rules。
+Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.
+TechCrunchから、Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it。
+A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.
+TechCrunchから、Fusion startups are giving the government shares in exchange for awards. Is it worth it?。
+Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?
+Apple Newsroomから、Siri AI is available in more languages starting today。
+With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
