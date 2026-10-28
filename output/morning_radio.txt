@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-27
-生成時刻: 09:52:09
+生成日: 2026-10-28
+生成時刻: 09:45:24
 
 おはようございます。
-今日は2026年10月27日、火曜日です。
+今日は2026年10月28日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、【地震情報】宮城 福島で震度3 津波の心配なし。
-27日午前9時25分ごろ、宮城県と福島県で震度3の揺れを観測する地震がありました。 この地震による津波の心配はありません。 各地の震度は 震度3が宮城県の岩沼市、福島県のいわき市、天栄村、玉川村、…
-OpenAI Newsから、Greptile takes bug detection beyond code review with GPT-6 Astra。
-How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.
-TechCrunchから、Databricks co-founder shares his secrets for winning big enterprise customers。
-Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.
-NHK主要ニュースから、山口 美祢 菓子店強盗殺人事件“便利屋”仕事通じ接点か。
-ことし8月、山口県美祢市で菓子店を営む男性を殺害し金庫を奪ったとして、いわゆる「便利屋」と呼ばれる自営業の容疑者ら2人が強盗殺人などの疑いで逮捕された事件で、容疑者は事件前に仕事を通して被害者と接点を…
-TechCrunchから、Watch out, YouTube — Instagram goes from short-form to 90-minute videos。
-After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.
-BBC Worldから、Lula wins fourth term in dramatic Brazil election comeback。
-The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.
-NHK主要ニュースから、ロシアとウクライナ局地停戦合意 日本時間27日午前10時発効へ。
-アメリカが仲介した、ウクライナ南部の都市オレシュキをめぐるロシアとウクライナによる局地的な停戦合意が27日発効します。双方が攻撃を停止し、人道状況の改善や住民の退避につながるかが焦点です。
-NHK主要ニュースから、GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化。
-GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ…
-BBC Worldから、Trump administration illegally fired James Comey's daughter, judge rules。
-Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.
-TechCrunchから、Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it。
-A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.
-TechCrunchから、Fusion startups are giving the government shares in exchange for awards. Is it worth it?。
-Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?
-Apple Newsroomから、Siri AI is available in more languages starting today。
-With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.
+NHK主要ニュースから、フラビオ・ボルソナロ氏 ブラジルを出国か 現地メディア報道。
+ブラジルの大統領選挙の決選投票で敗れた右派のフラビオ・ボルソナロ上院議員について、地元やアメリカのメディアは、ブラジルを出国しアメリカに向かったと伝えました。
+TechCrunchから、Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication。
+A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.
+NHK主要ニュースから、イスラエル総選挙開票始まる“与野党陣営 獲得議席きっ抗か”。
+イスラエルの総選挙は日本時間の28日午前5時から開票が始まり、イスラエルメディアは出口調査をもとに各党の予測獲得議席を一斉に伝えました。 それによりますとネタニヤフ首相が率いる与党陣営は過半数を割り…
+TechCrunchから、The data center boom has an upside: innovation for the US grid。
+As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.
+TechCrunchから、Guidewire buys Hyperexponential for $1.7B in cash。
+The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.
+TechCrunchから、From 8VC to Benchmark, here’s what’s hiding in October SEC filings。
+A whole crop of venture capital firms are raising significant new funds.
+NHK主要ニュースから、山梨の女性死亡事件 台湾で夫を拘束 高額保険か。
+山梨県でツアーに参加していた台湾出身の女性が刃物で刺され死亡した事件で、台湾の当局は女性の夫を拘束し、女性と偽装結婚して高額の保険をかけていた疑いがあるとして殺人などの容疑で調べています。
+BBC Worldから、Ceasefire extended across Ukraine's Kherson region, officials say。
+The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.
+NHK主要ニュースから、西高東低の冬型の気圧配置で風強まる 北日本で暴風警戒。
+冬型の気圧配置の影響で全国的に風が強まり、北日本では非常に強い風が吹く見込みで気象庁は暴風に警戒するよう呼びかけています。 北海道では雪が降るほか、全国的に27日よりも気温が下がる見込みで、体調の管…
+TechCrunchから、GM is embracing hybrids now。
+GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.
+NHK主要ニュースから、GMO“懸賞金支払い”で脅迫に対抗も不安続く。
+GMOインターネットグループのサービスに不正にアクセスし、金銭などを要求していたハッカー集団は27日、利用者に関するとみられる情報をネット上に公開しました。 会社は不正アクセスに関与した人物の特定に…
+BBC Worldから、Dutch zookeeper dies after being mauled by leopard。
+The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
