@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-28
-生成時刻: 09:45:24
+生成日: 2026-10-29
+生成時刻: 10:16:00
 
 おはようございます。
-今日は2026年10月28日、水曜日です。
+今日は2026年10月29日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、フラビオ・ボルソナロ氏 ブラジルを出国か 現地メディア報道。
-ブラジルの大統領選挙の決選投票で敗れた右派のフラビオ・ボルソナロ上院議員について、地元やアメリカのメディアは、ブラジルを出国しアメリカに向かったと伝えました。
-TechCrunchから、Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication。
-A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.
-NHK主要ニュースから、イスラエル総選挙開票始まる“与野党陣営 獲得議席きっ抗か”。
-イスラエルの総選挙は日本時間の28日午前5時から開票が始まり、イスラエルメディアは出口調査をもとに各党の予測獲得議席を一斉に伝えました。 それによりますとネタニヤフ首相が率いる与党陣営は過半数を割り…
-TechCrunchから、The data center boom has an upside: innovation for the US grid。
-As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.
-TechCrunchから、Guidewire buys Hyperexponential for $1.7B in cash。
-The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.
-TechCrunchから、From 8VC to Benchmark, here’s what’s hiding in October SEC filings。
-A whole crop of venture capital firms are raising significant new funds.
-NHK主要ニュースから、山梨の女性死亡事件 台湾で夫を拘束 高額保険か。
-山梨県でツアーに参加していた台湾出身の女性が刃物で刺され死亡した事件で、台湾の当局は女性の夫を拘束し、女性と偽装結婚して高額の保険をかけていた疑いがあるとして殺人などの容疑で調べています。
-BBC Worldから、Ceasefire extended across Ukraine's Kherson region, officials say。
-The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.
-NHK主要ニュースから、西高東低の冬型の気圧配置で風強まる 北日本で暴風警戒。
-冬型の気圧配置の影響で全国的に風が強まり、北日本では非常に強い風が吹く見込みで気象庁は暴風に警戒するよう呼びかけています。 北海道では雪が降るほか、全国的に27日よりも気温が下がる見込みで、体調の管…
-TechCrunchから、GM is embracing hybrids now。
-GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.
-NHK主要ニュースから、GMO“懸賞金支払い”で脅迫に対抗も不安続く。
-GMOインターネットグループのサービスに不正にアクセスし、金銭などを要求していたハッカー集団は27日、利用者に関するとみられる情報をネット上に公開しました。 会社は不正アクセスに関与した人物の特定に…
-BBC Worldから、Dutch zookeeper dies after being mauled by leopard。
-The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.
+BBC Worldから、Flávio Bolsonaro denies fleeing Brazil after landing in Miami。
+The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.
+NHK主要ニュースから、スペイン高速鉄道衝突事故“乗客名簿に日本人2人か”外務省。
+スペイン中部で28日、高速鉄道の列車どうしが衝突し60人以上が死亡した事故で、先行する列車が停止していたところ後続の列車が進入して追突していたことがわかり、当局は詳しい状況を調べています。 また、外…
+TechCrunchから、Upwind raises $400M after walking away from Datadog acquisition offer。
+The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.
+TechCrunchから、Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme。
+Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.
+NHK主要ニュースから、FRB 政策金利据え置き 議長は今後の追加利上げ辞さない構えも。
+アメリカのFRB＝連邦準備制度理事会は金融政策を決める会合を開き、28日、2会合ぶりに政策金利を据え置くと発表しました。一方、ウォーシュ議長は会合後の記者会見で、インフレ率が依然として高い水準にあると…
+TechCrunchから、Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion。
+Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.
+NHK主要ニュースから、【地震情報】千葉県北東部で震度5弱 津波の心配なし。
+29日未明、千葉県北東部を震源とする地震が起き、千葉県で震度5弱の揺れを観測しました。気象庁は、揺れの強かった地域では今後1週間ほどは最大震度5弱程度の地震に注意するよう呼びかけています。
+TechCrunchから、Google expands AI Search ads globally as core ad growth slows。
+The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.
+MusicRadarから、“Ticks all the right boxes for budding drummers”: Roland TD-07DMK2 review。
+Get up and running in no time with Roland’s updated, user-friendly e-kit aimed at beginner to intermediate players
+BBC Worldから、High-speed train crash kills at least 68 people in Spain。
+The crash, between a moving train and another that was stopped further up the track, was caused by an "inexplicable" error, the transport minister said.
+TechCrunchから、Microsoft recorded $10 billion in revenue from OpenAI。
+Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.
+BBC Worldから、Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain。
+Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
