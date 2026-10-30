@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-29
-生成時刻: 10:16:00
+生成日: 2026-10-30
+生成時刻: 10:21:41
 
 おはようございます。
-今日は2026年10月29日、木曜日です。
+今日は2026年10月30日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Flávio Bolsonaro denies fleeing Brazil after landing in Miami。
-The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.
-NHK主要ニュースから、スペイン高速鉄道衝突事故“乗客名簿に日本人2人か”外務省。
-スペイン中部で28日、高速鉄道の列車どうしが衝突し60人以上が死亡した事故で、先行する列車が停止していたところ後続の列車が進入して追突していたことがわかり、当局は詳しい状況を調べています。 また、外…
-TechCrunchから、Upwind raises $400M after walking away from Datadog acquisition offer。
-The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.
-TechCrunchから、Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme。
-Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.
-NHK主要ニュースから、FRB 政策金利据え置き 議長は今後の追加利上げ辞さない構えも。
-アメリカのFRB＝連邦準備制度理事会は金融政策を決める会合を開き、28日、2会合ぶりに政策金利を据え置くと発表しました。一方、ウォーシュ議長は会合後の記者会見で、インフレ率が依然として高い水準にあると…
-TechCrunchから、Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion。
-Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.
-NHK主要ニュースから、【地震情報】千葉県北東部で震度5弱 津波の心配なし。
-29日未明、千葉県北東部を震源とする地震が起き、千葉県で震度5弱の揺れを観測しました。気象庁は、揺れの強かった地域では今後1週間ほどは最大震度5弱程度の地震に注意するよう呼びかけています。
-TechCrunchから、Google expands AI Search ads globally as core ad growth slows。
-The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.
-MusicRadarから、“Ticks all the right boxes for budding drummers”: Roland TD-07DMK2 review。
-Get up and running in no time with Roland’s updated, user-friendly e-kit aimed at beginner to intermediate players
-BBC Worldから、High-speed train crash kills at least 68 people in Spain。
-The crash, between a moving train and another that was stopped further up the track, was caused by an "inexplicable" error, the transport minister said.
-TechCrunchから、Microsoft recorded $10 billion in revenue from OpenAI。
-Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.
-BBC Worldから、Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain。
-Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.
+TechCrunchから、You don’t need to believe in a god to get a religious exemption from using AI at work。
+David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.
+TechCrunchから、Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’。
+The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.
+NHK主要ニュースから、東京23区の10月の消費者物価指数 前年同月比2.6％上昇。
+東京23区の10月の消費者物価指数の速報値は、天候による変動が大きい生鮮食品を除いた総合で、去年の同じ月と比べて、2.6％上昇しました。 上昇率は、9月と比べて、0.1ポイント縮小しました。
+TechCrunchから、AWS will be a $1T business, Jassy says. But first, it will spend big.。
+Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.
+NHK主要ニュースから、完全失業率 9月は2.4％ 前月より0.1ポイント改善 総務省。
+総務省によりますと、9月の全国の完全失業率は2.4％で、8月より0.1ポイント改善しました。
+NHK主要ニュースから、9月の有効求人倍率1.19倍 3か月ぶりに前月上回る。
+ことし9月の有効求人倍率は全国平均で1.19倍で、前の月を0.01ポイント上回りました。 厚生労働省は「よりよい条件を求める人の求職活動が長期化したことが影響しているのではないか」としています。
+TechCrunchから、Binance pauses withdrawals as hackers suspected of stealing billions in crypto。
+Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.
+TechCrunchから、Elon Musk is ‘truly a genius,’ says Vladimir Putin。
+Putin said that he and Musk are in "close contact" about Rassvet, Russia's Starlink-like satellite connectivity project.
+BBC Worldから、Israeli opposition accuses Netanyahu of trying to 'delegitimise' election。
+The PM's Likud party has alleged foreign interference and said Arab-led parties "stole" the election after his coalition lost its majority.
+BBC Worldから、'The city is alive': A brief peace in Kherson, but residents fear what comes next。
+A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.
+NHK主要ニュースから、別府ひき逃げ事件で新チラシ 八田容疑者の初公開写真も。
+大分県別府市で大学生がひき逃げされて死亡し、八田與一容疑者が殺人などの疑いで重要指名手配されている事件で、警察は、容疑者の初公開の写真などを載せた新たなチラシを制作しました。
+NHK主要ニュースから、愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡。
+29日、愛知県安城市の水道管の工事現場で作業中の親子2人が土砂に埋まり、いずれも死亡しました。当時、道路の下に埋設された水道管と下水管を、新築住宅の敷地に引き込む工事が行われていたということで、警察と…
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
