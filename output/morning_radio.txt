@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-10-30
-生成時刻: 10:21:41
+生成日: 2026-10-31
+生成時刻: 10:04:50
 
 おはようございます。
-今日は2026年10月30日、金曜日です。
+今日は2026年10月31日、土曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-TechCrunchから、You don’t need to believe in a god to get a religious exemption from using AI at work。
-David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.
-TechCrunchから、Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’。
-The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.
-NHK主要ニュースから、東京23区の10月の消費者物価指数 前年同月比2.6％上昇。
-東京23区の10月の消費者物価指数の速報値は、天候による変動が大きい生鮮食品を除いた総合で、去年の同じ月と比べて、2.6％上昇しました。 上昇率は、9月と比べて、0.1ポイント縮小しました。
-TechCrunchから、AWS will be a $1T business, Jassy says. But first, it will spend big.。
-Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.
-NHK主要ニュースから、完全失業率 9月は2.4％ 前月より0.1ポイント改善 総務省。
-総務省によりますと、9月の全国の完全失業率は2.4％で、8月より0.1ポイント改善しました。
-NHK主要ニュースから、9月の有効求人倍率1.19倍 3か月ぶりに前月上回る。
-ことし9月の有効求人倍率は全国平均で1.19倍で、前の月を0.01ポイント上回りました。 厚生労働省は「よりよい条件を求める人の求職活動が長期化したことが影響しているのではないか」としています。
-TechCrunchから、Binance pauses withdrawals as hackers suspected of stealing billions in crypto。
-Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.
-TechCrunchから、Elon Musk is ‘truly a genius,’ says Vladimir Putin。
-Putin said that he and Musk are in "close contact" about Rassvet, Russia's Starlink-like satellite connectivity project.
-BBC Worldから、Israeli opposition accuses Netanyahu of trying to 'delegitimise' election。
-The PM's Likud party has alleged foreign interference and said Arab-led parties "stole" the election after his coalition lost its majority.
-BBC Worldから、'The city is alive': A brief peace in Kherson, but residents fear what comes next。
-A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.
-NHK主要ニュースから、別府ひき逃げ事件で新チラシ 八田容疑者の初公開写真も。
-大分県別府市で大学生がひき逃げされて死亡し、八田與一容疑者が殺人などの疑いで重要指名手配されている事件で、警察は、容疑者の初公開の写真などを載せた新たなチラシを制作しました。
-NHK主要ニュースから、愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡。
-29日、愛知県安城市の水道管の工事現場で作業中の親子2人が土砂に埋まり、いずれも死亡しました。当時、道路の下に埋設された水道管と下水管を、新築住宅の敷地に引き込む工事が行われていたということで、警察と…
+BBC Worldから、US approves sale of 500 Patriot missiles to Ukraine。
+The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.
+NHK主要ニュースから、“過去最大級被害”暗号資産大手バイナンス 複雑な攻撃あった。
+暗号資産の取引所として世界的な大手の「バイナンス」が、不正アクセスにより、デジタル資産の分野で過去最大級とも伝えられる被害を受けた問題で、会社は30日、システムに対する「複雑な攻撃」があったことを明ら…
+NHK主要ニュースから、トランプ政権 ウクライナに迎撃ミサイルなど売却へ 21億ドル。
+ロシアによる軍事侵攻が続くウクライナに対し、アメリカのトランプ政権は、迎撃ミサイルなど、あわせて3300億円ほどの武器の売却を承認したと発表しました。
+TechCrunchから、Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune。
+The AI logistics startup will bolster the CRM giant's Missionforce defense platform.
+TechCrunchから、Ollie, a privacy-focused AI assistant, is shutting down。
+As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.
+NHK主要ニュースから、5年ぶり日ロ外相会談 茂木外相 北海道新聞記者の即時解放要請。
+茂木外務大臣は訪問先のアメリカでロシアのラブロフ外相と会談しました。日ロの外相が対面で正式に会談するのはおよそ5年ぶりで、茂木大臣は拘束されている北海道新聞の記者の即時解放などを強く要請しました。
+TechCrunchから、Intel’s stock crashes, knocking $12B from government’s stake。
+Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.
+TechCrunchから、Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says。
+Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.
+TechCrunchから、Applebee’s exposed customers’ personal data after leaving database password in app。
+EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.
+NHK主要ニュースから、G20外相会合が開幕 茂木外相“G20各国が連携・協調を”。
+G20＝主要20か国の外相会合がアメリカで開幕しました。茂木外務大臣は中東やウクライナ、北朝鮮などをめぐる日本の立場を主張した上で、G20各国が連携・協調して多くの課題を抱える国際社会の取り組みをリー…
+BBC Worldから、Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea。
+The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.
+BBC Worldから、Police deployed during stand-off over control of top Poland court。
+The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
