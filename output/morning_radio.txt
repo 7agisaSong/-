@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-01
-生成時刻: 09:26:24
+生成日: 2026-11-02
+生成時刻: 10:02:50
 
 おはようございます。
-今日は2026年11月1日、日曜日です。
+今日は2026年11月2日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、India's opposition set to hold mega rally seeking election chief's resignation。
-It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.
-NHK主要ニュースから、【地震情報】福島県で震度3 津波の心配なし。
-1日午前7時15分ごろ、福島県で震度3の揺れを観測する地震がありました。 この地震による津波の心配はありません。
-BBC Worldから、Crypto firm Binance covers 90% of losses after $6.3bn hack。
-The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.
-NHK主要ニュースから、茂木外相 ロシア外相と率直な意見交換 記者解放へ働きかけ継続。
-茂木外務大臣は31日におよそ5年ぶりに行われたロシアのラブロフ外相との会談について「率直な意見交換ができた」と振り返ったうえで、拘束されている北海道新聞の記者の解放に向けて粘り強く働きかけを続ける考え…
-TechCrunchから、Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’。
-Apple's new CEO defended the company's current position in the AI landscape.
-TechCrunchから、4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale。
-On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.
-BBC Worldから、Thousands demonstrate in Paris as protests spread across Europe。
-More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.
-TechCrunchから、Judge allows NAACP lawsuit over xAI data center pollution to move forward。
-An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.
-NHK主要ニュースから、クアッド外相 中国念頭に経済的威圧へ懸念共有 首脳会合へ連携。
-日米豪印4か国でつくるクアッドの外相会合がアメリカで開かれ、中国を念頭に恣意的（しいてき）な輸出規制などの経済的威圧に対する深刻な懸念を表明したうえで、自由で開かれたインド太平洋の実現に向けて具体的な…
-NHK主要ニュースから、アメリカ中間選挙の期日前投票 すでに前回上回る ローマ教皇も。
-アメリカの中間選挙は11月3日の投票日を前に各州で期日前投票が行われていて、フロリダ大学の研究グループによりますと、投票を済ませた人の数は前回・2022年の中間選挙をすでに上回っています。
-NHK主要ニュースから、GMO 子会社が2年前にシステムのぜい弱性を指摘 社長あす会見へ。
-GMOインターネットグループの為替取引に関するサービスが不正アクセスを受けた問題で、2年前に子会社のセキュリティー企業がシステムのぜい弱性を指摘していたことが関係者への取材でわかりました。 熊谷正寿社…
-BBC Worldから、'We came back from hell', say Ukrainians after years in Russia-occupied front-line city。
-One evacuated couple says they crossed minefields in Oleshky in search of food.
+NHK主要ニュースから、米 フロリダ州で小型ジェット機が高速のまま墜落 9人死亡。
+アメリカ南部フロリダ州で1日、小型のビジネスジェット機が高速のまま住宅地近くの道路脇に墜落し、乗っていた9人全員が死亡しました。
+NHK主要ニュースから、スペイン高速鉄道事故 日本人1人の死亡確認 地元当局が発表。
+スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。
+BBC Worldから、France launches attempted murder investigation after petrol bomb thrown at police。
+There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.
+BBC Worldから、Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts。
+The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a "despicable betrayal" by one top Democrat.
+BBC Worldから、Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says。
+Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.
+TechCrunchから、OpenAI might rebrand its data centers as ‘AI compute campuses’。
+Data centers are deeply unpopular. But what if we called them something else?
+BBC Worldから、Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends。
+A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.
+TechCrunchから、AI can make tech CEOs’ lives easier. What about everyone else?。
+On Equity, we discuss why tech CEO statements can seem so tone deaf.
+NHK主要ニュースから、アメリカ中間選挙あす投票 トランプ大統領中西部で演説へ。
+トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。 最終盤、トランプ大統領は異例の接戦が伝えられる中西部のカンザス州などで演説する予定で、激しい…
+NHK主要ニュースから、GMOきょう会見 不安の抑止やぜい弱性指摘後の対応が焦点。
+GMOインターネットグループのサービスが不正アクセスを受けた問題で2日、熊谷正寿社長らが記者会見を開きます。 これまでの経緯や被害拡大の防止策などについて説明するとみられ、利用者の不安を抑えられるの…
+NHK主要ニュースから、災害対策司令塔の「防災庁」が発足 体制の抜本的強化へ 政府。
+災害対策の司令塔となる防災庁が2日、発足しました。事前防災に加え、発災から復旧・復興までの一貫した災害対応にあたる組織で政府は、防災体制の抜本的な強化を図ることにしています。
+BBC Worldから、Israeli strikes in Gaza kill eight including child, hospitals say。
+Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
