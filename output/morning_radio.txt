@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-02
-生成時刻: 10:02:50
+生成日: 2026-11-03
+生成時刻: 12:05:22
 
 おはようございます。
-今日は2026年11月2日、月曜日です。
+今日は2026年11月3日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、米 フロリダ州で小型ジェット機が高速のまま墜落 9人死亡。
-アメリカ南部フロリダ州で1日、小型のビジネスジェット機が高速のまま住宅地近くの道路脇に墜落し、乗っていた9人全員が死亡しました。
-NHK主要ニュースから、スペイン高速鉄道事故 日本人1人の死亡確認 地元当局が発表。
-スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。
-BBC Worldから、France launches attempted murder investigation after petrol bomb thrown at police。
-There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.
-BBC Worldから、Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts。
-The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a "despicable betrayal" by one top Democrat.
-BBC Worldから、Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says。
-Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.
-TechCrunchから、OpenAI might rebrand its data centers as ‘AI compute campuses’。
-Data centers are deeply unpopular. But what if we called them something else?
-BBC Worldから、Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends。
-A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.
-TechCrunchから、AI can make tech CEOs’ lives easier. What about everyone else?。
-On Equity, we discuss why tech CEO statements can seem so tone deaf.
-NHK主要ニュースから、アメリカ中間選挙あす投票 トランプ大統領中西部で演説へ。
-トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。 最終盤、トランプ大統領は異例の接戦が伝えられる中西部のカンザス州などで演説する予定で、激しい…
-NHK主要ニュースから、GMOきょう会見 不安の抑止やぜい弱性指摘後の対応が焦点。
-GMOインターネットグループのサービスが不正アクセスを受けた問題で2日、熊谷正寿社長らが記者会見を開きます。 これまでの経緯や被害拡大の防止策などについて説明するとみられ、利用者の不安を抑えられるの…
-NHK主要ニュースから、災害対策司令塔の「防災庁」が発足 体制の抜本的強化へ 政府。
-災害対策の司令塔となる防災庁が2日、発足しました。事前防災に加え、発災から復旧・復興までの一貫した災害対応にあたる組織で政府は、防災体制の抜本的な強化を図ることにしています。
-BBC Worldから、Israeli strikes in Gaza kill eight including child, hospitals say。
-Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.
+NHK主要ニュースから、アメリカ中間選挙 日本時間の今夜から投票開始 焦点は。
+トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日夜、投票が始まります。トランプ大統領が首都ワシントンで演説し、みずからの成果を強調したのに対し、民主党は、オバマ元…
+NHK主要ニュースから、「バイナンス」へのサイバー攻撃 AI使った新たな手口か。
+日本円で9900億円が影響を受けた暗号資産の取引所「バイナンス」へのサイバー攻撃に関与したとされる北朝鮮の攻撃グループが、一連の攻撃にAIによる新たな手法を使っていたと見られることが、暗号資産の分析会…
+BBC Worldから、Russian bombing kills 26 people at Ukraine aid centre, Kyiv says。
+Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an "utterly horrific" attack.
+TechCrunchから、Apple may try to increase revenue by doing…something with third-party AI apps。
+Apple hinted at ways that it could spur revenue through third-party "opportunities" during its Monday night earnings call.
+NHK主要ニュースから、スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定。
+スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。
+TechCrunchから、Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them。
+A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.
+NHK主要ニュースから、世界的な暗号資産取引所へのサイバー攻撃 北朝鮮が関与否定。
+世界的な暗号資産の取引所へのサイバー攻撃に北朝鮮が関与しているとアメリカの捜査当局が発表したことについて、キム・ジョンウン総書記の妹、キム・ヨジョン氏は談話で「荒唐無稽なデマだ」と否定しました。
+TechCrunchから、Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens。
+Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.
+TechCrunchから、Hinge tests a cheaper plan as users become more fed up paying for dating apps。
+At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.
+BBC Worldから、Plane may have broken apart ahead of deadly Florida jet crash, say investigators。
+The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.
+BBC Worldから、Thousands of European troops to rehearse Ukraine deployment in event of peace。
+Western officials stress that any force sent to Ukraine would not take part in any offensive operations.
+TechCrunchから、Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve。
+Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
