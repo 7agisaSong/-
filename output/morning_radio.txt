@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-03
-生成時刻: 12:05:22
+生成日: 2026-11-04
+生成時刻: 10:41:44
 
 おはようございます。
-今日は2026年11月3日、火曜日です。
+今日は2026年11月4日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、アメリカ中間選挙 日本時間の今夜から投票開始 焦点は。
-トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日夜、投票が始まります。トランプ大統領が首都ワシントンで演説し、みずからの成果を強調したのに対し、民主党は、オバマ元…
-NHK主要ニュースから、「バイナンス」へのサイバー攻撃 AI使った新たな手口か。
-日本円で9900億円が影響を受けた暗号資産の取引所「バイナンス」へのサイバー攻撃に関与したとされる北朝鮮の攻撃グループが、一連の攻撃にAIによる新たな手法を使っていたと見られることが、暗号資産の分析会…
-BBC Worldから、Russian bombing kills 26 people at Ukraine aid centre, Kyiv says。
-Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an "utterly horrific" attack.
-TechCrunchから、Apple may try to increase revenue by doing…something with third-party AI apps。
-Apple hinted at ways that it could spur revenue through third-party "opportunities" during its Monday night earnings call.
-NHK主要ニュースから、スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定。
-スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。
-TechCrunchから、Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them。
-A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.
-NHK主要ニュースから、世界的な暗号資産取引所へのサイバー攻撃 北朝鮮が関与否定。
-世界的な暗号資産の取引所へのサイバー攻撃に北朝鮮が関与しているとアメリカの捜査当局が発表したことについて、キム・ジョンウン総書記の妹、キム・ヨジョン氏は談話で「荒唐無稽なデマだ」と否定しました。
-TechCrunchから、Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens。
-Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.
-TechCrunchから、Hinge tests a cheaper plan as users become more fed up paying for dating apps。
-At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.
-BBC Worldから、Plane may have broken apart ahead of deadly Florida jet crash, say investigators。
-The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.
-BBC Worldから、Thousands of European troops to rehearse Ukraine deployment in event of peace。
-Western officials stress that any force sent to Ukraine would not take part in any offensive operations.
-TechCrunchから、Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve。
-Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.
+NHK主要ニュースから、アメリカ中間選挙 上院 民主党 9つの州で当選確実【随時更新】。
+トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙は各地で開票が始まっていて、野党・民主党の候補が南部ジョージア州などで当選を確実にしました。 連邦議会の上院ではこれまでに、100議席…
+NHK主要ニュースから、“北朝鮮が飛しょう体を発射”韓国軍発表。
+韓国軍の合同参謀本部は、北朝鮮が日本海に向けて飛しょう体を発射したと、4日午前9時50分すぎに発表しました。
+NHK主要ニュースから、暗号資産大手が報告書 偽面接やAIツールでシステムに侵入。
+サイバー攻撃によって、日本円でおよそ1兆円相当の資産が被害を受けた暗号資産の世界的な取引所「バイナンス」は、ハッカーが偽の求人面接やAIツールなどを駆使して犯行に及んだとする報告書を公表しました。
+BBC Worldから、Spanish transport minister resigns days after deadly train crash。
+At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.
+TechCrunchから、Anthropic is working on a system to prove AI models’ identity。
+Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.
+TechCrunchから、Data centers are turning to old jet engines as the wait for power grows。
+The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.
+NHK主要ニュースから、台風31号の影響 あすは関東・伊豆諸島で大雨のおそれ。
+強い台風31号の周辺から湿った空気が流れ込む影響で、関東と伊豆諸島では5日、大雨のおそれがあります。気象庁は、土砂災害や低い土地の浸水などに十分注意するよう呼びかけています。
+BBC Worldから、NTSB says crucial plane parts found three miles from Florida crash site。
+The NTSB said because the parts were found far from the accident site, they fell off before the crash.
+NHK主要ニュースから、スペインの運輸相 辞任の意向を表明 列車事故を受けて。
+スペインのプエンテ運輸相は3日、議会で「スペインのような国で1年足らずのうちにこれほど深刻な事故が2度も起きていながら、この職にとどまることはできない」と述べ、辞任する意向を明らかにしました。 プエ…
+TechCrunchから、Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom。
+Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.
+TechCrunchから、Hiding inside Palantir’s skyrocketing quarter is a foreboding signal。
+Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.
+TechCrunchから、Orbital Matter 3D-printed the first rigid beam in the vacuum of space。
+An in-space construction first could be an enabler for the space data centers of the future.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
