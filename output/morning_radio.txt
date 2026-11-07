@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-06
-生成時刻: 10:49:55
+生成日: 2026-11-07
+生成時刻: 10:16:33
 
 おはようございます。
-今日は2026年11月6日、金曜日です。
+今日は2026年11月7日、土曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、日経平均株価6万円割れ ことし5月以来 一時4000円超下落。
-6日の東京株式市場は日経平均株価は一時、4000円以上値下がりしています。 アメリカの中間選挙で民主党が大勝し、AIやデータセンターに対する規制が強化されるのではないかという見方からAIや半導体の業…
-BBC Worldから、Major tech stocks plunge as US midterms add to fears of AI slowdown。
-Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.
-NHK主要ニュースから、不正アクセス対策 政府が予備費100億円の支出を決定。
-不正アクセスによる情報漏えいが相次ぐ中、政府は、警察のシステム整備など対策に必要な費用として、今年度予算の予備費から100億円を支出することを決めました。
-NHK主要ニュースから、経済産業省 中部電力に業務改善命令 浜岡原発データ改ざん受け。
-中部電力の浜岡原子力発電所で地震に関するデータを改ざんするなど不祥事が相次いだことを受けて、経済産業省は、6日、中部電力に対し、再発防止に向けた取り組みを進めるよう求める業務改善命令を出しました。
-NHK主要ニュースから、ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令。
-ロシアのプーチン大統領は5日、JT＝日本たばこ産業の海外の子会社がロシア国内に保有する4つの生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名しました。
-BBC Worldから、Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race。
-The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.
-TechCrunchから、The New York Times reportedly in talks to buy Letterboxd for $330 million。
-Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.
-BBC Worldから、Pope begins lengthy trip to Latin America weeks after lung cancer surgery。
-Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.
-TechCrunchから、Meta, Google, and TikTok sue California AG over teen social media law。
-If it goes into effect next year, this California law would restrict social media access for children under 16.
-NHK主要ニュースから、アメリカ ルビオ国務長官の去就めぐり報道相次ぐ。
-アメリカのメディア、ブルームバーグは、共和党が大敗した中間選挙の結果を受け、ルビオ国務長官がトランプ政権からの離脱を検討していると報じました。一方、有力紙、ニューヨーク・タイムズは本人が辞任を否定した…
-BBC Worldから、California governor commutes sentences for state's 548 death row inmates。
-California has historically had the largest population of people on death row in the US.
-TechCrunchから、Airbnb says it’s launching an AI travel agent in the first half of 2027。
-Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.
+NHK主要ニュースから、ベッセント財務長官と何副首相 貿易摩擦“休戦”の状況を協議。
+アメリカのベッセント財務長官は6日、中国の何立峰副首相と電話で会談しました。 トランプ大統領と習近平国家主席の首脳会談を前に、貿易摩擦の「休戦」の実施状況などについて協議したということです。
+NHK主要ニュースから、トランプ政権 ワイルズ首席補佐官が退任 ミラー氏起用へ。
+アメリカのトランプ大統領は、スーザン・ワイルズ大統領首席補佐官が退任し、後任に、スティーブン・ミラー次席補佐官を起用すると明らかにしました。中間選挙で与党・共和党が大敗して以来、トランプ政権では最初の…
+TechCrunchから、OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation。
+OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.
+NHK主要ニュースから、外務省幹部がロシア訪問 JT子会社への措置に抗議し撤回要求。
+ロシアのプーチン大統領がJT＝日本たばこ産業の子会社の生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名したことを受けて、外務省の幹部がロシア外務省を訪問し、今回の措置に抗議するとともに直ちに…
+TechCrunchから、The Duo apps are coming, says Apple。
+There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.
+NHK主要ニュースから、冬型強まり北日本中心に暴風警戒 大雪に十分注意を。
+強い冬型の気圧配置の影響で、北日本では8日にかけ雪や雨を伴って非常に強い風が吹き、北海道の日本海側では大雪となるおそれがあります。暴風や高波に警戒するとともに、大雪による交通への影響に十分注意が必要で…
+BBC Worldから、AI stocks climb after trillions wiped from market values。
+Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.
+NHK主要ニュースから、消費税減税法案が衆院通過 参院で与野党の合意形成が焦点に。
+食料品の消費税減税関連法案は自民・維新両党などの賛成多数で衆議院を通過し、参議院に送られました。 参議院では与党が少数となる中、政府・与党は衆議院で反対した野党の賛同も取り付けて成立させたい考えで、…
+TechCrunchから、Hundreds of Artex AI hacking tools found publicly exposed to the web。
+Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.
+TechCrunchから、Meta introduces Spaces, a new way to collaborate with your Muse agent。
+Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.
+MusicRadarから、“Maybe they’re a virtuoso on their home planet”: Angine De Poitrine add a third member… on triangle。
+Curiouser and curiouser...
+MusicRadarから、“I’m not sure it’s even possible”: James Hype says he’s going to try to mix 1,000 tracks in two hours。
+That’s a different track every eight seconds
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
