@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-07
-生成時刻: 10:16:33
+生成日: 2026-11-08
+生成時刻: 09:55:31
 
 おはようございます。
-今日は2026年11月7日、土曜日です。
+今日は2026年11月8日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、ベッセント財務長官と何副首相 貿易摩擦“休戦”の状況を協議。
-アメリカのベッセント財務長官は6日、中国の何立峰副首相と電話で会談しました。 トランプ大統領と習近平国家主席の首脳会談を前に、貿易摩擦の「休戦」の実施状況などについて協議したということです。
-NHK主要ニュースから、トランプ政権 ワイルズ首席補佐官が退任 ミラー氏起用へ。
-アメリカのトランプ大統領は、スーザン・ワイルズ大統領首席補佐官が退任し、後任に、スティーブン・ミラー次席補佐官を起用すると明らかにしました。中間選挙で与党・共和党が大敗して以来、トランプ政権では最初の…
-TechCrunchから、OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation。
-OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.
-NHK主要ニュースから、外務省幹部がロシア訪問 JT子会社への措置に抗議し撤回要求。
-ロシアのプーチン大統領がJT＝日本たばこ産業の子会社の生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名したことを受けて、外務省の幹部がロシア外務省を訪問し、今回の措置に抗議するとともに直ちに…
-TechCrunchから、The Duo apps are coming, says Apple。
-There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.
-NHK主要ニュースから、冬型強まり北日本中心に暴風警戒 大雪に十分注意を。
-強い冬型の気圧配置の影響で、北日本では8日にかけ雪や雨を伴って非常に強い風が吹き、北海道の日本海側では大雪となるおそれがあります。暴風や高波に警戒するとともに、大雪による交通への影響に十分注意が必要で…
-BBC Worldから、AI stocks climb after trillions wiped from market values。
-Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.
-NHK主要ニュースから、消費税減税法案が衆院通過 参院で与野党の合意形成が焦点に。
-食料品の消費税減税関連法案は自民・維新両党などの賛成多数で衆議院を通過し、参議院に送られました。 参議院では与党が少数となる中、政府・与党は衆議院で反対した野党の賛同も取り付けて成立させたい考えで、…
-TechCrunchから、Hundreds of Artex AI hacking tools found publicly exposed to the web。
-Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.
-TechCrunchから、Meta introduces Spaces, a new way to collaborate with your Muse agent。
-Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.
-MusicRadarから、“Maybe they’re a virtuoso on their home planet”: Angine De Poitrine add a third member… on triangle。
-Curiouser and curiouser...
-MusicRadarから、“I’m not sure it’s even possible”: James Hype says he’s going to try to mix 1,000 tracks in two hours。
-That’s a different track every eight seconds
+NHK主要ニュースから、イスラエル 第2党アイゼンコット氏に組閣要請へ。
+イスラエルでは先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る推薦を集めたアイゼンコット氏が次の政権の組閣を要請される見通しになりました。一方、ネタニヤフ首相は続投を目指して野党勢力の切…
+NHK主要ニュースから、【上空映像配信】愛知で震度5強12人けが 各地の被害状況。
+8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありました。 一夜明けた各地の状況を上空からの映像でお伝えします。
+NHK主要ニュースから、愛知県で震度5強 “南海トラフ巨大地震とはメカニズム異なる”。
+8日未明、愛知県知多市で震度5強の強い揺れを観測する地震がありました。気象庁は、地震のメカニズムや規模などから、南海トラフのプレート境界の状態に特段の影響は及ぼさないとみられるとした上で、今後1週間程…
+NHK主要ニュースから、ロシア JTの資産を追加で一時管理下に置く大統領令に署名。
+ロシアのプーチン大統領は6日、JT＝日本たばこ産業グループのロシア国内にある3つの現地法人を一時的にロシア企業の管理下に置くとする大統領令に署名しました。5日にもロシア国内にあるJT関連の生産拠点を一…
+BBC Worldから、What we know so far after Krakow gun attack。
+Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.
+BBC Worldから、Israel's president tasks opposition leader Eisenkot with forming government。
+Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.
+TechCrunchから、After the midterms, things are looking rocky for Elon Musk and data centers。
+On Equity, we unpacked what the midterms mean for the tech industry.
+NHK主要ニュースから、イタリア外相 個人情報が闇サイトに ウクライナ支援で標的か。
+イタリアのタヤーニ外相は自身の個人情報がハッカー集団によってインターネット上の闇サイトに公開されたと明らかにしました。イタリアがウクライナへの支援を行ってきたことが自身が標的となった理由だという見方を…
+TechCrunchから、Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo。
+A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.
+TechCrunchから、Parents want safer phones for kids. These companies are answering the call.。
+As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.
+BBC Worldから、US offers $20m reward for information about Iran's nuclear programme。
+Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.
+TechCrunchから、Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack。
+The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
