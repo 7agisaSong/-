@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-09
-生成時刻: 10:14:20
+生成日: 2026-11-10
+生成時刻: 12:50:09
 
 おはようございます。
-今日は2026年11月9日、月曜日です。
+今日は2026年11月10日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、7月30日の市場介入 7兆9756億円 円買い介入で過去最大。
-財務省の発表によりますと、政府・日銀がことし7月30日に実施した市場介入で、1日で投じた資金は7兆9756億円でした。 ドル売り円買いの介入としては、1日あたりで過去最大となりました。 政府・日銀…
-NHK主要ニュースから、消費税減税法案 あさって参議院で審議入り 与野党論戦へ。
-食料品の消費税減税関連法案は、11日に参議院で審議入りします。参議院で与党が少数となる中、政府・与党が野党の賛同も得て成立させたいとしているのに対し、野党はそれぞれの主張を受け入れるよう迫る構えで、活…
-NHK主要ニュースから、山林遺体は石川県の20代女性と確認 監禁後まもなく殺害か。
-石川県の20代の女性を監禁した疑いで逮捕された交際相手とみられる容疑者の話に基づき、山林から遺体が見つかった事件で、死亡したのは監禁されたとされる女性と確認されました。死因は首を圧迫されたことなどによ…
-NHK主要ニュースから、COP31 きょう開幕へ 各国が足並みそろえられるか焦点に。
-気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…
-BBC Worldから、Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says。
-Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.
-TechCrunchから、Apps to distract you from the endless cycle of doomscrolling。
-It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.
-BBC Worldから、Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes。
-Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.
-TechCrunchから、Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy。
-In a memo to the company, Huang admitted that he had an affair.
-TechCrunchから、If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be。
-Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?
-TechCrunchから、Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.。
-Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.
-NHK主要ニュースから、エジプトで列車衝突事故 7人死亡 112人けが。
-エジプトで8日、列車どうしが衝突して一部の車両が脱線し、これまでに7人が死亡、110人以上がけがをしました。
-BBC Worldから、Seven dead and more than 100 injured after trains collide in Egypt。
-Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.
+NHK主要ニュースから、国内未確認の“おもちゃの拳銃”輸入か 自営業者を書類送検。
+実弾を発射する能力を持つ“おもちゃの拳銃”を韓国から輸入したとして、40代の自営業者が銃刀法違反の疑いで書類送検されたことが捜査関係者への取材で分かりました。 国内でこれまでに確認されていた中国製と…
+NHK主要ニュースから、Xに「いいね」14回で有罪判決 ストーカー規制法違反の罪。
+元交際相手の男性へのつきまといなどを禁止する命令を受けた女の被告が、男性のXの投稿に「いいね」のリアクションを繰り返したことがストーカー規制法違反の罪にあたるかが争われた裁判で、東京地方裁判所は「被害…
+NHK主要ニュースから、9月家計調査 実質の消費支出6.8％減 10か月連続の減少。
+ことし9月に2人以上の世帯が消費に使った金額は、物価の変動を除いた実質で前の年の同じ月と比べて6.8％減少しました。2020年9月以来の大幅な減少で、総務省は各地で雨の日が多かったことから、食料品や衣…
+BBC Worldから、Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy。
+The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.
+NHK主要ニュースから、アメリカ ヘグセス国防長官 弾劾訴追決議案を共和党議員が提出。
+イランへの軍事作戦をめぐり、アメリカ連邦議会下院でヘグセス国防長官の罷免を求める弾劾訴追の決議案が提出されました。 軍事作戦に批判的な立場をとってきた与党・共和党の下院議員が提出していて、中間選挙の…
+TechCrunchから、Anthropic reportedly plans to move forward with IPO plans。
+The AI company is expected to set its valuation range this week, the Wall Street Journal reported.
+NHK主要ニュースから、エヌビディアCEOと中国情報機関の協力者女性の疑惑 FBIが捜査。
+アメリカの半導体大手「エヌビディア」のジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったとされる問題で、 トランプ大統領はFBI＝連邦捜査局が捜査に当たっていると明らかにし…
+BBC Worldから、Epstein associate who still runs model agency 'put me in danger' says abuse survivor。
+A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.
+BBC Worldから、Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say。
+Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.
+TechCrunchから、Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago。
+The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.
+TechCrunchから、Hotel giant Wyndham exposed customer data after app security lapse。
+Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.
+TechCrunchから、A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal。
+Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
