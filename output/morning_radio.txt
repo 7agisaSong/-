@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-10
-生成時刻: 12:50:09
+生成日: 2026-11-11
+生成時刻: 10:29:20
 
 おはようございます。
-今日は2026年11月10日、火曜日です。
+今日は2026年11月11日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、国内未確認の“おもちゃの拳銃”輸入か 自営業者を書類送検。
-実弾を発射する能力を持つ“おもちゃの拳銃”を韓国から輸入したとして、40代の自営業者が銃刀法違反の疑いで書類送検されたことが捜査関係者への取材で分かりました。 国内でこれまでに確認されていた中国製と…
-NHK主要ニュースから、Xに「いいね」14回で有罪判決 ストーカー規制法違反の罪。
-元交際相手の男性へのつきまといなどを禁止する命令を受けた女の被告が、男性のXの投稿に「いいね」のリアクションを繰り返したことがストーカー規制法違反の罪にあたるかが争われた裁判で、東京地方裁判所は「被害…
-NHK主要ニュースから、9月家計調査 実質の消費支出6.8％減 10か月連続の減少。
-ことし9月に2人以上の世帯が消費に使った金額は、物価の変動を除いた実質で前の年の同じ月と比べて6.8％減少しました。2020年9月以来の大幅な減少で、総務省は各地で雨の日が多かったことから、食料品や衣…
-BBC Worldから、Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy。
-The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.
-NHK主要ニュースから、アメリカ ヘグセス国防長官 弾劾訴追決議案を共和党議員が提出。
-イランへの軍事作戦をめぐり、アメリカ連邦議会下院でヘグセス国防長官の罷免を求める弾劾訴追の決議案が提出されました。 軍事作戦に批判的な立場をとってきた与党・共和党の下院議員が提出していて、中間選挙の…
-TechCrunchから、Anthropic reportedly plans to move forward with IPO plans。
-The AI company is expected to set its valuation range this week, the Wall Street Journal reported.
-NHK主要ニュースから、エヌビディアCEOと中国情報機関の協力者女性の疑惑 FBIが捜査。
-アメリカの半導体大手「エヌビディア」のジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったとされる問題で、 トランプ大統領はFBI＝連邦捜査局が捜査に当たっていると明らかにし…
-BBC Worldから、Epstein associate who still runs model agency 'put me in danger' says abuse survivor。
-A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.
-BBC Worldから、Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say。
-Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.
-TechCrunchから、Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago。
-The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.
-TechCrunchから、Hotel giant Wyndham exposed customer data after app security lapse。
-Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.
-TechCrunchから、A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal。
-Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.
+OpenAI Newsから、Gilbert + Tobin rethinks the business of law with AI。
+A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.
+NHK主要ニュースから、岐阜市のアパートで火事 1歳児含む12人搬送。
+11日未明、岐阜市にあるアパートで火事があり、警察によりますと、このアパートに住む1歳から40代の12人が病院に搬送されました。けがの詳しい程度はわかっていませんが、搬送時に全員、意識はあったというこ…
+BBC Worldから、US House blocks bid to impeach Defence Secretary Pete Hegseth, for now。
+Trump welcomes the outcome, praising Hegseth as a "Great American Patriot", but Democrats can try again next year.
+TechCrunchから、X launches its own clipping feature to spur influencer engagement。
+X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.
+BBC Worldから、Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says。
+The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.
+BBC Worldから、'It can kill us': Kenyans fear impact of El Niño with floods predicted。
+Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.
+NHK主要ニュースから、“年内入試”での生成AI活用めぐり大学の対応分かれる。
+“年内入試”と呼ばれる「総合型選抜」などの大学入試で生成AIを使って志望理由書などを作成する受験生が増えています。大学側の対応も分かれていて、「生成AIで必要以上に虚飾される懸念がある」として制限する…
+NHK主要ニュースから、文化庁の新たな顕彰制度「食の至宝」 8人が受賞。
+文化庁は食に携わる職人らを対象とした新たな顕彰制度「食の至宝」の初めての受賞者として、ソムリエや和食料理人など8人を選びました。
+BBC Worldから、Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor。
+The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.
+NHK主要ニュースから、逮捕の阿波市長ら 修理費用を機器の調達名目で請求か 徳島。
+徳島県阿波市の市長らが市長の物損事故の修理費用を市が発注した工事の代金に含め、市から350万円をだまし取ったとして逮捕された事件で、水増し分の金額が工事に関係する機器を調達する名目で請求されていたこと…
+TechCrunchから、OpenAI acquires Odessia, travel startup created by Sonder founder。
+OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.
+NHK主要ニュースから、各地で厳しい冷え込み 台風32号は小笠原離れるも高波警戒。
+上空の寒気の影響などで11日朝は各地で気温が下がり、関東でも10度を下回るなど冷え込んでいます。一方、強い台風32号は小笠原諸島から遠ざかっていますが波の高い状態が続く見込みです。
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
