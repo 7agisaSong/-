@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-12
-生成時刻: 11:32:18
+生成日: 2026-11-13
+生成時刻: 11:09:30
 
 おはようございます。
-今日は2026年11月12日、木曜日です。
+今日は2026年11月13日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Democrat Scott Colom seals historic win in Mississippi Senate race。
-Colom is the first black person from the southern state elected to the US Senate in over 140 years.
-NHK主要ニュースから、京都 亀岡の養鶏場で今シーズン初 鳥インフルエンザ感染確認。
-11日、京都府亀岡市の養鶏場でニワトリ14羽が死んでいるのが見つかったことをうけて、府が詳しい検査を進めた結果、高病原性の「H5型」の鳥インフルエンザウイルスが検出されたことがわかりました。 感染が確…
-NHK主要ニュースから、エヌビディア フアンCEO解任へ準備 米紙報道。
-アメリカの有力紙、「ウォール・ストリート・ジャーナル」は11日、アメリカの半導体大手「エヌビディア」がジェンスン・フアンCEOを解任する準備を進めていると報じました。
-NHK主要ニュースから、円相場1ドル＝159円台後半 FRBの追加利上げ観測で。
-11日の外国為替市場ではアメリカのFRB＝連邦準備制度理事会が来月の会合で追加の利上げに踏み切るとの観測から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝159円台後半まで値下がりしました。こ…
-BBC Worldから、New York building collapse kills one person and injures 12。
-Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.
-NHK主要ニュースから、米 ニューヨークで建物の一部が倒壊 死者1人 けが人多数。
-アメリカの複数のメディアによりますと、11日、ニューヨーク・ブルックリン地区で3階建ての建物の一部が倒壊し、少なくとも1人が死亡し、12人がけがをしたということです。がれきの中に取り残されている人がい…
-NHK主要ニュースから、10月企業物価指数 前年同月比7.1％上昇 中東背景に伸び率拡大。
-企業の間で取り引きされるモノの価格を示す先月の企業物価指数は、去年の同じ月と比べて7.1％上昇しました。 9月と比べて伸び率は拡大していて、中東情勢の影響による石油関連製品の値上がりを反映して高い水準…
-OpenAI Newsから、Gilbert + Tobin rethinks the business of law with AI。
-A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.
+NHK主要ニュースから、【速報中】マイクロソフト 接続障害が発生 各地に影響のおそれ。
+アメリカのIT大手「マイクロソフト」は、「マイクロソフト365」と呼ばれるサービスで、世界各地に影響するおそれのある接続障害が発生していると発表しました。具体的な影響の範囲や程度は明らかになっていませ…
+BBC Worldから、Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks。
+The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.
+NHK主要ニュースから、【地震速報】熊本県で震度3 津波の心配なし。
+13日午前10時52分ごろ地震がありました。この地震による津波の心配はありません。 震源地は熊本県熊本地方で震源の深さは10キロ、地震の規模を示すマグニチュードは4.0と推定されます。 各市町村の…
+NHK主要ニュースから、山崎正昭元参議院議長が死去 84歳。
+参議院議長を務めた自民党の山崎正昭参議院議員が13日に亡くなりました。84歳でした。
+NHK主要ニュースから、大リーグ 大谷翔平 4年連続5回目のMVP受賞ならず。
+大リーグで今シーズン最も活躍した選手に贈られるMVP＝最優秀選手が発表され、ドジャースの大谷翔平選手は4年連続5回目の受賞はなりませんでした。 MVPには今シーズン、ホームラン45本、41盗塁を記録…
+NHK主要ニュースから、米大統領「イラン合意は不要」 副大統領には国内対応を要請。
+アメリカのトランプ大統領は、「イランとの合意は必要ない」とSNSに投稿し、これまで交渉にあたってきたバンス副大統領には、国内の野党・民主党への対応に集中するよう要請したと明らかにしました。 アメリカ…
+BBC Worldから、Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?。
+The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.
+MusicRadarから、I Gotta Get Thru Quiz: It's MusicRadar's Quiz of the Week #30!。
+Round off your week with our 10-question recap of this week's hottest music news
+BBC Worldから、Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil。
+US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.
+TechCrunchから、Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump。
+This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.
+TechCrunchから、Muse can now place calls to US businesses — if you pay。
+Muse's AI can now place outbound calls to U.S. businesses — but it's not free.
 TechCrunchから、The unfolding Jensen Huang scandal: a timeline。
-The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
-TechCrunchから、Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang。
-As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.
-TechCrunchから、Jensen Huang accused of having another affair — with an Nvidia exec。
-Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.
-BBC Worldから、Clashes erupt in Barcelona after thousands join Spain general strike。
-Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.
+Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
