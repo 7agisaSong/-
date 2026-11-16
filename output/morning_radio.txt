@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-15
-生成時刻: 10:19:46
+生成日: 2026-11-16
+生成時刻: 10:25:35
 
 おはようございます。
-今日は2026年11月15日、日曜日です。
+今日は2026年11月16日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、横田めぐみさん拉致から49年 早紀江さん「会いたい」。
-中学1年生だった横田めぐみさんが北朝鮮に拉致されてから15日で49年です。 母親の早紀江さんは、「1回でもいいから会いたい」と訴え、一刻も早い帰国の実現を求めています。
-TechCrunchから、Where was Nvidia’s security team?。
-Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.
-NHK主要ニュースから、ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”。
-ロシアによる侵攻が続く中、ウクライナのゼレンスキー大統領は、アメリカ側から、NATO＝北大西洋条約機構への加盟を交換条件に、東部ドンバス地域からウクライナ軍を撤退させることができるかどうか打診されたと…
-NHK主要ニュースから、インフルエンサー「あっすん」 風営法違反疑いで逮捕。
-「あっすん」という名前でYouTubeの番組に出演するなどインフルエンサーとして活動している風俗店経営者ら3人が、名古屋市中心部の繁華街のバーで無許可で従業員に客の接待をさせていたとして、風俗営業法違…
-BBC Worldから、US has floated Ukraine ceding Donbas for Nato membership, Zelensky says。
-The US has not confirmed the Ukrainian president's comments - a US official told the BBC "many ideas continue to be discussed".
-BBC Worldから、'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth。
-SpaceX has performed the historic catch using mechanical arms nicknamed "chopsticks".
-TechCrunchから、Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang。
-The petition had attracted more than 115,000 signatures as of Saturday afternoon.
-NHK主要ニュースから、アメリカ 航空機運航停止の影響で14日も混乱続く。
-アメリカでは全土の空港で航空機の運航を停止する措置がとられた影響で、14日も4000便あまりが欠航する見通しになるなど、混乱が続いています。 ダフィー運輸長官は、通信設備を更新する際に障害が起きたと…
-NHK主要ニュースから、枚方女児死亡 「以前から夫が娘殴るの見た」逮捕前に母親説明。
-大阪 枚方市で、3歳の女の子が死亡し、両親が逮捕された事件で、母親が逮捕前の警察の任意の調べに「以前から夫が娘を殴るところを複数回、見たことがある」などと説明していたことが捜査関係者への取材で分かりま…
-TechCrunchから、Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee。
-Even Elon Musk said the monthly fee is "too high."
-BBC Worldから、Copper wire upgrade caused nationwide flight suspension, US transport secretary says。
-The US government is trying to find out whether the chaos was caused by "incompetence" or faulty equipment.
-BBC Worldから、Italy fines Meta €805m over accessing users' photos。
-The social media giant is accused of not informing 20 million users it had access to their photos.
+Apple Newsroomから、Apple launches research study to explore the use of AI for health。
+Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.
+NHK主要ニュースから、7～9月のGDP 年率-0.1％ 4期ぶりのマイナス。
+2026年7月から9月までのGDP＝国内総生産は、個人消費が減少したことなどから、前の3か月と比べた実質の伸び率が年率換算でマイナス0.1％と4期ぶりのマイナスとなりました。
+BBC Worldから、Mexican drug lord Miguel Angel Felix Gallardo dies age 80。
+Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.
+TechCrunchから、Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market。
+Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.
+BBC Worldから、Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says。
+The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.
+OpenAI Newsから、A step toward defining the Standard Model on a lattice。
+Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.
+OpenAI Newsから、Our new blog for science。
+The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.
+TechCrunchから、Is bad news for Jensen Huang also bad news for the AI industry?。
+"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."
+NHK主要ニュースから、松山市長選挙 新人の中野泰誠氏が初当選。
+新人3人による争いとなった松山市長選挙は、新人で元愛媛県議会議員の中野泰誠氏が初めての当選を果たしました。
+NHK主要ニュースから、福岡市長選挙 再選挙へ 候補者13人 法定得票数に届かず。
+新人13人の争いとなった福岡市長選挙は、いずれの候補者も当選に必要な有効投票数の4分の1を獲得できず、公職選挙法に基づき再選挙が行われることになりました。政令指定都市の市長選挙で再選挙が行われるのは、…
+NHK主要ニュースから、ウクライナ 重機遠隔操作してがれき処理 日本の支援で実証実験。
+ロシアによる軍事侵攻が続くウクライナで日本の支援で重機を遠隔操作しがれきを処理する実証実験が本格的に始まりました。
+TechCrunchから、SNL gathers all the tech tycoons for a lesson in dating and spycraft。
+While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
