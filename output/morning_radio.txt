@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-16
-生成時刻: 10:25:35
+生成日: 2026-11-17
+生成時刻: 13:11:50
 
 おはようございます。
-今日は2026年11月16日、月曜日です。
+今日は2026年11月17日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-Apple Newsroomから、Apple launches research study to explore the use of AI for health。
-Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.
-NHK主要ニュースから、7～9月のGDP 年率-0.1％ 4期ぶりのマイナス。
-2026年7月から9月までのGDP＝国内総生産は、個人消費が減少したことなどから、前の3か月と比べた実質の伸び率が年率換算でマイナス0.1％と4期ぶりのマイナスとなりました。
-BBC Worldから、Mexican drug lord Miguel Angel Felix Gallardo dies age 80。
-Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.
-TechCrunchから、Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market。
-Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.
-BBC Worldから、Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says。
-The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.
-OpenAI Newsから、A step toward defining the Standard Model on a lattice。
-Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.
-OpenAI Newsから、Our new blog for science。
-The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.
-TechCrunchから、Is bad news for Jensen Huang also bad news for the AI industry?。
-"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."
-NHK主要ニュースから、松山市長選挙 新人の中野泰誠氏が初当選。
-新人3人による争いとなった松山市長選挙は、新人で元愛媛県議会議員の中野泰誠氏が初めての当選を果たしました。
-NHK主要ニュースから、福岡市長選挙 再選挙へ 候補者13人 法定得票数に届かず。
-新人13人の争いとなった福岡市長選挙は、いずれの候補者も当選に必要な有効投票数の4分の1を獲得できず、公職選挙法に基づき再選挙が行われることになりました。政令指定都市の市長選挙で再選挙が行われるのは、…
-NHK主要ニュースから、ウクライナ 重機遠隔操作してがれき処理 日本の支援で実証実験。
-ロシアによる軍事侵攻が続くウクライナで日本の支援で重機を遠隔操作しがれきを処理する実証実験が本格的に始まりました。
-TechCrunchから、SNL gathers all the tech tycoons for a lesson in dating and spycraft。
-While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.
+NHK主要ニュースから、江夏豊さんが死去 78歳 プロ野球 阪神や広島などで活躍。
+プロ野球、阪神や広島などでピッチャーとして活躍した江夏豊さんが17日までに亡くなりました。 78歳でした。
+NHK主要ニュースから、“M9.9”誤った緊急地震速報 背景に二重のエラー 気象庁が修正。
+先月16日、マグニチュードを9.9と過大に推定し誤った内容の緊急地震速報を発表したことについて、気象庁が調べた結果、日本から遠い場所で地震が起きた際に用いるプログラムに2つのエラーが重なって起きたこと…
+NHK主要ニュースから、中野 女性刺殺事件 容疑者「冷たくあしらわれ腹が立ち刺した」。
+11月16日、東京・中野区の路上で20代くらいの女性が刃物で刺されて死亡した事件で、逮捕された39歳の男の容疑者が調べに対し、「女性と食事をして、駅に向かう途中で冷たくあしらわれたことに腹が立ち、刺し…
+NHK主要ニュースから、群馬 前橋 住宅街にクマが出没 男性1人が襲われ頭などにけが。
+17日、前橋市の住宅街で、親子とみられるクマ2頭が相次いで目撃され、近くに住む男性1人が襲われて頭などにけがをしました。午前11時半の時点でクマは捕獲されていないということで市や警察が注意を呼びかけて…
+BBC Worldから、Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO。
+A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.
+NHK主要ニュースから、ロシア機と推定の航空機が領空侵犯 福岡 沖ノ島周辺。
+防衛省は、17日、福岡県沖でロシア機とみられる航空機2機が日本の領空を侵犯したと発表しました。領空に入ったのはいずれも3分ほどで、防衛省が飛行の目的を分析するとともに警戒と監視を続けています。
+MusicRadarから、Waves’ Black Friday All-Stars bundle just chopped 77% off the price of 11 vocal and mixing staples - and there’s zero filler。
+My top pick is 11 studio plugins for only $179.99, big there's big reductions on Waves’ larger mixing and production bundles too
+TechCrunchから、Cybersecurity AI startup Corma reaches $1B valuation in about 3 months。
+Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.
+BBC Worldから、Five EU countries announce migrant deportation centre in Rwanda。
+Germany, Denmark, Austria, Greece and the Netherlands have announced a "return hub" for failed asylum seekers.
+TechCrunchから、Cyber giant Infoblox confirms security incident after hackers access ‘company information’。
+The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.
+TechCrunchから、All the questions Nvidia should answer on Tuesday — but probably won’t。
+Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.
+BBC Worldから、Houthi rebel advance in Yemen may further destabilise global economy。
+The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
