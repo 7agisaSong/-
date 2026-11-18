@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-17
-生成時刻: 13:11:50
+生成日: 2026-11-18
+生成時刻: 12:08:38
 
 おはようございます。
-今日は2026年11月17日、火曜日です。
+今日は2026年11月18日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、江夏豊さんが死去 78歳 プロ野球 阪神や広島などで活躍。
-プロ野球、阪神や広島などでピッチャーとして活躍した江夏豊さんが17日までに亡くなりました。 78歳でした。
-NHK主要ニュースから、“M9.9”誤った緊急地震速報 背景に二重のエラー 気象庁が修正。
-先月16日、マグニチュードを9.9と過大に推定し誤った内容の緊急地震速報を発表したことについて、気象庁が調べた結果、日本から遠い場所で地震が起きた際に用いるプログラムに2つのエラーが重なって起きたこと…
-NHK主要ニュースから、中野 女性刺殺事件 容疑者「冷たくあしらわれ腹が立ち刺した」。
-11月16日、東京・中野区の路上で20代くらいの女性が刃物で刺されて死亡した事件で、逮捕された39歳の男の容疑者が調べに対し、「女性と食事をして、駅に向かう途中で冷たくあしらわれたことに腹が立ち、刺し…
-NHK主要ニュースから、群馬 前橋 住宅街にクマが出没 男性1人が襲われ頭などにけが。
-17日、前橋市の住宅街で、親子とみられるクマ2頭が相次いで目撃され、近くに住む男性1人が襲われて頭などにけがをしました。午前11時半の時点でクマは捕獲されていないということで市や警察が注意を呼びかけて…
-BBC Worldから、Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO。
-A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.
-NHK主要ニュースから、ロシア機と推定の航空機が領空侵犯 福岡 沖ノ島周辺。
-防衛省は、17日、福岡県沖でロシア機とみられる航空機2機が日本の領空を侵犯したと発表しました。領空に入ったのはいずれも3分ほどで、防衛省が飛行の目的を分析するとともに警戒と監視を続けています。
-MusicRadarから、Waves’ Black Friday All-Stars bundle just chopped 77% off the price of 11 vocal and mixing staples - and there’s zero filler。
-My top pick is 11 studio plugins for only $179.99, big there's big reductions on Waves’ larger mixing and production bundles too
-TechCrunchから、Cybersecurity AI startup Corma reaches $1B valuation in about 3 months。
-Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.
-BBC Worldから、Five EU countries announce migrant deportation centre in Rwanda。
-Germany, Denmark, Austria, Greece and the Netherlands have announced a "return hub" for failed asylum seekers.
-TechCrunchから、Cyber giant Infoblox confirms security incident after hackers access ‘company information’。
-The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.
-TechCrunchから、All the questions Nvidia should answer on Tuesday — but probably won’t。
-Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.
-BBC Worldから、Houthi rebel advance in Yemen may further destabilise global economy。
-The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.
+NHK主要ニュースから、高市首相APECで訪中へ 習主席の対応は プーチン氏と接触を調整。
+フィリピンを訪問中の高市総理大臣は、一連の国際会議などへの出席を終え、18日午後、中国に向かいます。習近平国家主席から出迎えを受けることが想定されるほか、ロシアのプーチン大統領との接触が調整されていて…
+NHK主要ニュースから、日本の自動車業界 主要素材・部品の共通化で国際競争力強化へ。
+日本の自動車業界がメーカーの垣根を越えた新たな取り組みに乗り出します。 業界団体の日本自動車工業会は、鉄や樹脂といった主要な素材や部品をメーカーの間で共通化する方針を固めました。 開発期間の短縮な…
+NHK主要ニュースから、今夜APEC首脳会議始まる あすには米中ロの首脳会談も。
+APEC＝アジア太平洋経済協力会議の首脳会議が中国の※深センで18日夜、開幕します。会議に出席する各国の首脳らが続々と到着し、2国間の首脳会談なども行われる予定です。
+NHK主要ニュースから、JR新橋駅前のビルに入る飲食店で火事 けが人の情報なし。
+18日午前、東京のJR新橋駅前のビルに入る飲食店で火事があり、現在も消火活動が続いています。今のところ、けが人などの情報は入っていないということで、警視庁などが詳しい状況を調べています。
+TechCrunchから、Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt。
+The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.
+NHK主要ニュースから、エヌビディア フアン氏復帰に意欲も取締役会は「意向ない」。
+アメリカの半導体大手、エヌビディアのCEOを辞任したジェンスン・フアン氏が、17日、SNSへの投稿で復帰に意欲を示しました。AI・半導体の分野で大きな影響力を持ってきたフアン氏の動向に高い関心が集まる…
+BBC Worldから、Nvidia says it won't reinstate Huang as firm reports bumper results。
+The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.
+TechCrunchから、Nvidia promises that revenue will keep soaring — for now。
+Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.
+TechCrunchから、Stripe backer Atomico calls for Europe to own its success stories。
+Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.
+TechCrunchから、Nvidia is abandoning China after Jensen Huang’s ouster。
+Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?
+TechCrunchから、Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit。
+Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.
+BBC Worldから、Thomas Markle charged over child sex abuse material in Philippines。
+Markle is being held in custody in the US after one charge and has previously denied all of the allegations.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
