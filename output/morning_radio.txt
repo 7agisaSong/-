@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-18
-生成時刻: 12:08:38
+生成日: 2026-11-19
+生成時刻: 11:49:57
 
 おはようございます。
-今日は2026年11月18日、水曜日です。
+今日は2026年11月19日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、高市首相APECで訪中へ 習主席の対応は プーチン氏と接触を調整。
-フィリピンを訪問中の高市総理大臣は、一連の国際会議などへの出席を終え、18日午後、中国に向かいます。習近平国家主席から出迎えを受けることが想定されるほか、ロシアのプーチン大統領との接触が調整されていて…
-NHK主要ニュースから、日本の自動車業界 主要素材・部品の共通化で国際競争力強化へ。
-日本の自動車業界がメーカーの垣根を越えた新たな取り組みに乗り出します。 業界団体の日本自動車工業会は、鉄や樹脂といった主要な素材や部品をメーカーの間で共通化する方針を固めました。 開発期間の短縮な…
-NHK主要ニュースから、今夜APEC首脳会議始まる あすには米中ロの首脳会談も。
-APEC＝アジア太平洋経済協力会議の首脳会議が中国の※深センで18日夜、開幕します。会議に出席する各国の首脳らが続々と到着し、2国間の首脳会談なども行われる予定です。
-NHK主要ニュースから、JR新橋駅前のビルに入る飲食店で火事 けが人の情報なし。
-18日午前、東京のJR新橋駅前のビルに入る飲食店で火事があり、現在も消火活動が続いています。今のところ、けが人などの情報は入っていないということで、警視庁などが詳しい状況を調べています。
-TechCrunchから、Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt。
-The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.
-NHK主要ニュースから、エヌビディア フアン氏復帰に意欲も取締役会は「意向ない」。
-アメリカの半導体大手、エヌビディアのCEOを辞任したジェンスン・フアン氏が、17日、SNSへの投稿で復帰に意欲を示しました。AI・半導体の分野で大きな影響力を持ってきたフアン氏の動向に高い関心が集まる…
-BBC Worldから、Nvidia says it won't reinstate Huang as firm reports bumper results。
-The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.
-TechCrunchから、Nvidia promises that revenue will keep soaring — for now。
-Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.
-TechCrunchから、Stripe backer Atomico calls for Europe to own its success stories。
-Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.
-TechCrunchから、Nvidia is abandoning China after Jensen Huang’s ouster。
-Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?
-TechCrunchから、Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit。
-Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.
-BBC Worldから、Thomas Markle charged over child sex abuse material in Philippines。
-Markle is being held in custody in the US after one charge and has previously denied all of the allegations.
+NHK主要ニュースから、【地震情報】熊本県で震度5弱 熊本地震の一連 1週間程度は注意。
+19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。気象庁はことし7月の熊本地震の一連の活動だとして、今後1週間程度は最大震度5弱程度の地震に注意するとともに、さらに強い揺れの…
+NHK主要ニュースから、高市首相 習主席と再度握手交わす APEC首脳会議を前に。
+中国南部の＊深センを訪れている高市総理大臣は、19日午前、APEC＝アジア太平洋経済協力会議の首脳会議を前に、18日夜の晩さん会の前に続き、習近平国家主席の出迎えを受けました。 両首脳はおよそ10秒…
+BBC Worldから、Claude-maker Anthropic poised for stock market debut worth up to $1.5tn。
+Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.
+NHK主要ニュースから、前橋 クマ2頭出没の住宅地 再び目撃情報 未発見の親グマか。
+警察によりますと19日午前8時すぎ、前橋市天川大島町で、通学中の男子高校生から「クマに追いかけられた」と通報があったということです。
+BBC Worldから、Van Gogh painting sells for record $190.4m after row over its Nazi history。
+Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.
+TechCrunchから、Microsoft CEO Satya Nadella explains why he asked 60K employees to quit。
+Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.
+TechCrunchから、Elon Musk says: ‘I’m not MAGA’。
+During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term "MAGA" meant and also commented that he felt "pretty foolish" for having spent so much money during the U.S. midterms.
+TechCrunchから、Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’。
+The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.
+TechCrunchから、Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’。
+“I don’t think [Huang is] disloyal to the United States," Musk said.
+TechCrunchから、Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit。
+Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.
+BBC Worldから、Myanmar faces historic genocide verdict at UN court over Rohingya massacres。
+No state has ever been found guilty by an international court of committing genocide.
+NHK主要ニュースから、低気圧発達で風強まる 北海道中心に暴風に警戒。
+日本付近にある2つの低気圧が急速に発達している影響で、19日は、北日本から東日本の日本海側を中心に風が強まり、波も高くなる見込みです。北海道を中心に暴風に警戒してください。冬型の気圧配置が強まるため、…
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
