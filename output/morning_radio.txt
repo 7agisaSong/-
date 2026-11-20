@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-19
-生成時刻: 11:49:57
+生成日: 2026-11-20
+生成時刻: 11:38:51
 
 おはようございます。
-今日は2026年11月19日、木曜日です。
+今日は2026年11月20日、金曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、【地震情報】熊本県で震度5弱 熊本地震の一連 1週間程度は注意。
-19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。気象庁はことし7月の熊本地震の一連の活動だとして、今後1週間程度は最大震度5弱程度の地震に注意するとともに、さらに強い揺れの…
-NHK主要ニュースから、高市首相 習主席と再度握手交わす APEC首脳会議を前に。
-中国南部の＊深センを訪れている高市総理大臣は、19日午前、APEC＝アジア太平洋経済協力会議の首脳会議を前に、18日夜の晩さん会の前に続き、習近平国家主席の出迎えを受けました。 両首脳はおよそ10秒…
-BBC Worldから、Claude-maker Anthropic poised for stock market debut worth up to $1.5tn。
-Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.
-NHK主要ニュースから、前橋 クマ2頭出没の住宅地 再び目撃情報 未発見の親グマか。
-警察によりますと19日午前8時すぎ、前橋市天川大島町で、通学中の男子高校生から「クマに追いかけられた」と通報があったということです。
-BBC Worldから、Van Gogh painting sells for record $190.4m after row over its Nazi history。
-Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.
-TechCrunchから、Microsoft CEO Satya Nadella explains why he asked 60K employees to quit。
-Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.
-TechCrunchから、Elon Musk says: ‘I’m not MAGA’。
-During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term "MAGA" meant and also commented that he felt "pretty foolish" for having spent so much money during the U.S. midterms.
-TechCrunchから、Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’。
-The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.
-TechCrunchから、Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’。
-“I don’t think [Huang is] disloyal to the United States," Musk said.
-TechCrunchから、Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit。
-Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.
-BBC Worldから、Myanmar faces historic genocide verdict at UN court over Rohingya massacres。
-No state has ever been found guilty by an international court of committing genocide.
-NHK主要ニュースから、低気圧発達で風強まる 北海道中心に暴風に警戒。
-日本付近にある2つの低気圧が急速に発達している影響で、19日は、北日本から東日本の日本海側を中心に風が強まり、波も高くなる見込みです。北海道を中心に暴風に警戒してください。冬型の気圧配置が強まるため、…
+NHK主要ニュースから、片山金融相 漏えい可能性の楽天証券に“非常に遺憾”。
+ネット証券大手の楽天証券で447万口座で年収や金融資産などの情報が漏えいした可能性が出ている問題で、片山金融担当大臣は、「非常に遺憾だ」とした上で、金融庁として会社の顧客情報の管理状況や利用者保護の対…
+NHK主要ニュースから、10月消費者物価 前年同月比＋2.2％ 生鮮食品除く指数。
+家庭で消費するモノやサービスの値動きをみる先月・10月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月に比べて2.2％上昇しました。
+NHK主要ニュースから、陸自射撃場3人殺傷事件 初公判で弁護士が無罪主張 岐阜地裁。
+3年前、岐阜市の陸上自衛隊の射撃場で隊員3人が小銃で撃たれ、2人が死亡し1人が大けがをした事件で、強盗殺人などの罪に問われている元自衛官候補生の初公判が開かれ、被告は起訴された内容について「特にないで…
+NHK主要ニュースから、株価 一時2800円超の下落 AI・半導体業界の先行き懸念で。
+20日の東京株式市場、取引開始直後から売り注文が広がり、日経平均株価は一時、2800円以上、値下がりしています。 19日のニューヨーク市場では、アメリカのAI開発企業「アンソロピック」が上場した一方…
+TechCrunchから、Apple may be developing its own AI agent that runs your Mac。
+The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.
+NHK主要ニュースから、トランプ大統領アジア訪問終える 米中ロ直接対話重視の姿勢も。
+アメリカのトランプ大統領は19日夜、アジア訪問の日程を終え帰国の途につきました。日本などとインド太平洋地域での連携を重視する考えを示した一方、中国やロシアとの史上初めての3か国の首脳会談ではICC＝国…
+BBC Worldから、Europe ready for talks with Russia on ending war in Ukraine, leaders say。
+European allies of Ukraine say they have a "united" negotiating position at a summit in Berlin.
+TechCrunchから、Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO。
+At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.
+TechCrunchから、Anthropic rival says companies can (mostly) skip the pricey models。
+On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.
+BBC Worldから、'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC。
+Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.
+TechCrunchから、Elon Musk says SpaceX has a plan to eliminate cell phone dead zones。
+SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.
+BBC Worldから、Anthropic becomes one of world's most valuable public companies in stock market debut。
+Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
