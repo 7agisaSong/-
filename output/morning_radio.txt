@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-21
-生成時刻: 11:51:11
+生成日: 2026-11-22
+生成時刻: 10:38:20
 
 おはようございます。
-今日は2026年11月21日、土曜日です。
+今日は2026年11月22日、日曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、冬型の気圧配置 新潟は大雨 北～東日本の山沿いは積雪。
-冬型の気圧配置の影響で、新潟県では雨が降り続き、「レベル4土砂災害危険警報」が発表されている地域があります。土砂災害に厳重に警戒してください。 北日本から東日本の山沿いでは積雪が増えていて、車を運転…
-NHK主要ニュースから、東電 資本提携後も重要事項の意思決定に国が拒否権保持 提示。
-経営の立て直しに向けて他社との資本提携の検討を進めている東京電力ホールディングスは、交渉相手に対し、電力の安定供給など経営上重要な事項の意思決定に関しては、提携後も国が事実上の拒否権を持ち続けることな…
-BBC Worldから、Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk。
-Nobody was hurt and no damage has been reported, but Warsaw described the incident as a "provocation" from Moscow.
-NHK主要ニュースから、愛子さま マーライオン公園を視察 帰国へ。
-天皇皇后両陛下の長女の愛子さまは、訪問先のシンガポールで、国のシンボルとなっているマーライオン公園を訪ねられました。 愛子さまは5日間の日程を終え、21日に帰国されます。
-NHK主要ニュースから、トランプ大統領 米国外のデータセンター建設認めず 罰則も。
-アメリカのトランプ大統領は、AIの普及で需要が増すデータセンターについて、アメリカ企業が国外に建設することを認めないとしたうえで、建設した場合、「巨額の税を課す」と述べ、罰則を設ける意向を示しました。
-NHK主要ニュースから、埼玉 三郷ジャンクション近くの物流施設で火事 消火活動続く。
-21日朝、埼玉県三郷市の物流施設で火事があり、現在も消火活動が続いています。 消防によりますと、これまでに逃げ遅れやけが人などの情報は入っていないということです。
-BBC Worldから、In a year of AI solving maths problems, Anthropic may have just solved the biggest。
-A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.
-BBC Worldから、Tech stock sell-off drags markets down as Anthropic shares slide。
-Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.
-BBC Worldから、French police officers sentenced for beating of music producer Michel Zecler。
-The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.
-TechCrunchから、Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now。
-Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.
-TechCrunchから、Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.。
-Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.
-TechCrunchから、AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too。
-Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.
+BBC Worldから、Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out。
+Fausto Isidro "Chapo Idisro" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.
+NHK主要ニュースから、アンソロピックの数学者 AIで難問「リーマン予想」証明と主張。
+アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。
+BBC Worldから、FBI reportedly investigating apparent hack of its criminal database。
+The National Crime Information Center database is used by federal and local law enforcement to share information.
+NHK主要ニュースから、デンマーク ロシア主導の暗殺計画阻止と発表 首相「制裁強化」。
+北欧デンマークの首相府は、国内での暗殺計画を警察などが阻止したと発表しました。ロシアの情報機関が計画を主導したとみられるとして、フレデリクセン首相はロシアへの制裁を強化するとしています。
+BBC Worldから、Fight over fossil fuels leaves COP31 climate talks in deadlock。
+Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.
+NHK主要ニュースから、日本海側中心に雨や雪 新潟では土砂災害に厳重警戒を。
+北日本と東日本の日本海側を中心に雨や雪が降り、新潟県では「レベル4土砂災害危険警報」が発表されている地域があり、厳重な警戒が必要です。 山沿いではこれまでの雪で積雪が多くなっている地域があるほか、2…
+TechCrunchから、Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance。
+Signal is limiting users' ability to take screenshots in both its Android and iOS apps.
+TechCrunchから、A tale of two Nvidias。
+We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.
+NHK主要ニュースから、福島 北塩原村で国道通行止め 住民や宿泊客の孤立状態続く。
+福島県北塩原村ではおとといから雪による倒木が相次いだ影響で国道の一部が通行止めになり、500世帯余りのほか、ホテルの宿泊客の孤立状態が続いています。県は22日朝から除雪作業を再開する予定ですが、通行止…
+BBC Worldから、Russia-bound ship attacked in Gulf of Finland。
+Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.
+TechCrunchから、Trump says reported FBI database hack is ‘not good’。
+The FBI is reportedly investigating a hack of the National Crime Information Center.
+TechCrunchから、Here are the top AI agents that can live in your text messages。
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
