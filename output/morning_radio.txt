@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-22
-生成時刻: 10:38:20
+生成日: 2026-11-23
+生成時刻: 10:59:28
 
 おはようございます。
-今日は2026年11月22日、日曜日です。
+今日は2026年11月23日、月曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-BBC Worldから、Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out。
-Fausto Isidro "Chapo Idisro" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.
-NHK主要ニュースから、アンソロピックの数学者 AIで難問「リーマン予想」証明と主張。
-アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。
-BBC Worldから、FBI reportedly investigating apparent hack of its criminal database。
-The National Crime Information Center database is used by federal and local law enforcement to share information.
-NHK主要ニュースから、デンマーク ロシア主導の暗殺計画阻止と発表 首相「制裁強化」。
-北欧デンマークの首相府は、国内での暗殺計画を警察などが阻止したと発表しました。ロシアの情報機関が計画を主導したとみられるとして、フレデリクセン首相はロシアへの制裁を強化するとしています。
-BBC Worldから、Fight over fossil fuels leaves COP31 climate talks in deadlock。
-Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.
-NHK主要ニュースから、日本海側中心に雨や雪 新潟では土砂災害に厳重警戒を。
-北日本と東日本の日本海側を中心に雨や雪が降り、新潟県では「レベル4土砂災害危険警報」が発表されている地域があり、厳重な警戒が必要です。 山沿いではこれまでの雪で積雪が多くなっている地域があるほか、2…
-TechCrunchから、Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance。
-Signal is limiting users' ability to take screenshots in both its Android and iOS apps.
-TechCrunchから、A tale of two Nvidias。
-We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.
-NHK主要ニュースから、福島 北塩原村で国道通行止め 住民や宿泊客の孤立状態続く。
-福島県北塩原村ではおとといから雪による倒木が相次いだ影響で国道の一部が通行止めになり、500世帯余りのほか、ホテルの宿泊客の孤立状態が続いています。県は22日朝から除雪作業を再開する予定ですが、通行止…
-BBC Worldから、Russia-bound ship attacked in Gulf of Finland。
-Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.
-TechCrunchから、Trump says reported FBI database hack is ‘not good’。
-The FBI is reportedly investigating a hack of the National Crime Information Center.
-TechCrunchから、Here are the top AI agents that can live in your text messages。
-We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+NHK主要ニュースから、イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべき」。
+緊張が続く中東のホルムズ海峡で、イギリス人のスイマーが3日間にわたってあわせて15キロを泳ぎ切り、船舶への攻撃が海洋生物などに深刻な影響をおよぼすおそれがあると訴えました。
+TechCrunchから、How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO。
+Three significant backers share what gave them conviction to bet billions on Anthropic.
+BBC Worldから、COP31 fails to reach major climate deal as talks expose deep divisions。
+Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels
+NHK主要ニュースから、“会談模索もキム総書記の条件を米が受け入れられず”米報道。
+アメリカの有力紙ウォール・ストリート・ジャーナルは、トランプ大統領の先週のアジア訪問にあわせて、アメリカと北朝鮮の双方が首脳会談の可能性を模索したものの、キム・ジョンウン（金正恩）総書記が提示した条件…
+NHK主要ニュースから、横溝正史が戦時下に陸軍「幻の雑誌」に掲載した推理小説発見。
+名探偵・金田一耕助シリーズで知られる推理小説作家の横溝正史が、戦時下、陸軍が発行した雑誌に掲載した短編の推理小説が見つかりました。 専門家は「時局にそぐわないとして推理小説の発表の場が失われつつあった…
+NHK主要ニュースから、松山市中心部近くの住宅で火事 2人と連絡取れず。
+23日午前3時すぎ、松山市の中心部に近い住宅街で火事があり、住宅1棟が全焼しました。 警察によりますと、火事のあとこの家に2人で住んでいるいずれも50代の姉と弟と連絡が取れなくなっているということで、…
+BBC Worldから、'Danger seems greater all the time': Ukrainians search for missing after Russian strikes。
+The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.
+TechCrunchから、‘You Can See Everything’ has made more than $100M worldwide。
+The new Elizabeth Holmes documentary is just beginning to roll out internationally.
+NHK主要ニュースから、沖縄 首里城正殿が復元 きょう正午から一般公開。
+那覇市にある首里城正殿は、7年前の火災で焼失したあと復元され、23日午前、沖縄県が主催して完成を祝う式典が行われたあと、正午から一般公開が始まります。 正殿の公開を迎え、火災から復元に至る歩みが大きな…
+TechCrunchから、OpenAI’s chief scientist has thoughts on how to limit AI development。
+To establish a speed limit on AI development, you need to agree on how to measure speed.
+TechCrunchから、The best apps to make new friends right now。
+We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.
+BBC Worldから、Explosion on Russian ship at Libya port caused by suspected drone attack, officials say。
+Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
