@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-23
-生成時刻: 10:59:28
+生成日: 2026-11-24
+生成時刻: 14:34:31
 
 おはようございます。
-今日は2026年11月23日、月曜日です。
+今日は2026年11月24日、火曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべき」。
-緊張が続く中東のホルムズ海峡で、イギリス人のスイマーが3日間にわたってあわせて15キロを泳ぎ切り、船舶への攻撃が海洋生物などに深刻な影響をおよぼすおそれがあると訴えました。
-TechCrunchから、How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO。
-Three significant backers share what gave them conviction to bet billions on Anthropic.
-BBC Worldから、COP31 fails to reach major climate deal as talks expose deep divisions。
-Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels
-NHK主要ニュースから、“会談模索もキム総書記の条件を米が受け入れられず”米報道。
-アメリカの有力紙ウォール・ストリート・ジャーナルは、トランプ大統領の先週のアジア訪問にあわせて、アメリカと北朝鮮の双方が首脳会談の可能性を模索したものの、キム・ジョンウン（金正恩）総書記が提示した条件…
-NHK主要ニュースから、横溝正史が戦時下に陸軍「幻の雑誌」に掲載した推理小説発見。
-名探偵・金田一耕助シリーズで知られる推理小説作家の横溝正史が、戦時下、陸軍が発行した雑誌に掲載した短編の推理小説が見つかりました。 専門家は「時局にそぐわないとして推理小説の発表の場が失われつつあった…
-NHK主要ニュースから、松山市中心部近くの住宅で火事 2人と連絡取れず。
-23日午前3時すぎ、松山市の中心部に近い住宅街で火事があり、住宅1棟が全焼しました。 警察によりますと、火事のあとこの家に2人で住んでいるいずれも50代の姉と弟と連絡が取れなくなっているということで、…
-BBC Worldから、'Danger seems greater all the time': Ukrainians search for missing after Russian strikes。
-The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.
-TechCrunchから、‘You Can See Everything’ has made more than $100M worldwide。
-The new Elizabeth Holmes documentary is just beginning to roll out internationally.
-NHK主要ニュースから、沖縄 首里城正殿が復元 きょう正午から一般公開。
-那覇市にある首里城正殿は、7年前の火災で焼失したあと復元され、23日午前、沖縄県が主催して完成を祝う式典が行われたあと、正午から一般公開が始まります。 正殿の公開を迎え、火災から復元に至る歩みが大きな…
-TechCrunchから、OpenAI’s chief scientist has thoughts on how to limit AI development。
-To establish a speed limit on AI development, you need to agree on how to measure speed.
-TechCrunchから、The best apps to make new friends right now。
-We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.
-BBC Worldから、Explosion on Russian ship at Libya port caused by suspected drone attack, officials say。
-Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.
+NHK主要ニュースから、エヌビディアCEO フアン氏が復帰へ 企業統治も問われるか。
+アメリカの半導体大手「エヌビディア」のCEOにジェンスン・フアン氏が電撃的に復帰したことについて、トランプ大統領は、23日、「私が取締役会を説得した」などと、関与を明らかにしました。辞任から10日あま…
+NHK主要ニュースから、長野と岐阜 雪の影響で停電続く 丸4日以上停電している地域も。
+先週末から断続的に降り続いた雪による倒木などの影響で、長野県内の一部では24日も停電が続き、丸4日以上停電している地域もあります。中部電力パワーグリッドによりますと、全域での復旧は24日夜になる見込み…
+BBC Worldから、Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang。
+Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.
+NHK主要ニュースから、荒れた天気 強風 土砂災害に十分注意 今夜以降日本海側で雪も。
+前線が通過している影響で、24日は大気の状態が非常に不安定になり、沿岸部を中心に雨風ともに強まり荒れた天気となっています。気象庁は、強風のほか大雨による土砂災害に十分注意し、落雷や竜巻などの激しい突風…
+NHK主要ニュースから、参議院 野党6党 関文科相に対する問責決議案 提出方針で一致。
+政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、参議院の野党6党は、国会で事実と異なる説明をするなど閣僚にふさわしくないとして問責決議案を参議院に提出する方針で一致しました。
+NHK主要ニュースから、アメリカ商務省 “メガスピード” を輸出規制の対象に指定。
+アメリカ商務省は25日に掲載される予定の官報でシンガポールの企業「メガスピード・インターナショナル」を先端半導体などの輸出規制の対象に指定したと明らかにしました。
+BBC Worldから、Nato chief vows defence against space threat after Russian nuclear satellite reports。
+German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.
+BBC Worldから、King Charles and Elton John pay tribute to Australian music legend Molly Meldrum。
+The promoter and broadcaster helped define the music tastes of Australians for decades.
+BBC Worldから、US to blacklist Asian AI firm Megaspeed after Nvidia scandal。
+Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.
+TechCrunchから、Figma employee sues, alleging company forced her to confront harassers。
+Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.
+TechCrunchから、Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes。
+As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.
+TechCrunchから、Supertake raises $20M to let AI agents turn your market predictions into stock portfolios。
+Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
