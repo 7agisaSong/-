@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-24
-生成時刻: 14:34:31
+生成日: 2026-11-25
+生成時刻: 13:36:47
 
 おはようございます。
-今日は2026年11月24日、火曜日です。
+今日は2026年11月25日、水曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、エヌビディアCEO フアン氏が復帰へ 企業統治も問われるか。
-アメリカの半導体大手「エヌビディア」のCEOにジェンスン・フアン氏が電撃的に復帰したことについて、トランプ大統領は、23日、「私が取締役会を説得した」などと、関与を明らかにしました。辞任から10日あま…
-NHK主要ニュースから、長野と岐阜 雪の影響で停電続く 丸4日以上停電している地域も。
-先週末から断続的に降り続いた雪による倒木などの影響で、長野県内の一部では24日も停電が続き、丸4日以上停電している地域もあります。中部電力パワーグリッドによりますと、全域での復旧は24日夜になる見込み…
-BBC Worldから、Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang。
-Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.
-NHK主要ニュースから、荒れた天気 強風 土砂災害に十分注意 今夜以降日本海側で雪も。
-前線が通過している影響で、24日は大気の状態が非常に不安定になり、沿岸部を中心に雨風ともに強まり荒れた天気となっています。気象庁は、強風のほか大雨による土砂災害に十分注意し、落雷や竜巻などの激しい突風…
-NHK主要ニュースから、参議院 野党6党 関文科相に対する問責決議案 提出方針で一致。
-政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、参議院の野党6党は、国会で事実と異なる説明をするなど閣僚にふさわしくないとして問責決議案を参議院に提出する方針で一致しました。
-NHK主要ニュースから、アメリカ商務省 “メガスピード” を輸出規制の対象に指定。
-アメリカ商務省は25日に掲載される予定の官報でシンガポールの企業「メガスピード・インターナショナル」を先端半導体などの輸出規制の対象に指定したと明らかにしました。
-BBC Worldから、Nato chief vows defence against space threat after Russian nuclear satellite reports。
-German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.
-BBC Worldから、King Charles and Elton John pay tribute to Australian music legend Molly Meldrum。
-The promoter and broadcaster helped define the music tastes of Australians for decades.
-BBC Worldから、US to blacklist Asian AI firm Megaspeed after Nvidia scandal。
-Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.
-TechCrunchから、Figma employee sues, alleging company forced her to confront harassers。
-Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.
-TechCrunchから、Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes。
-As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.
-TechCrunchから、Supertake raises $20M to let AI agents turn your market predictions into stock portfolios。
-Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.
+NHK主要ニュースから、福岡市で男性が刺され意識なし 刺した人物は逃走か。
+警察によりますと、25日昼ごろ、福岡市西区北原で「人が刺された」と通報がありました。
+NHK主要ニュースから、広島 庄原 高齢女性強盗殺人事件 逮捕の会社員 業務で土地勘か。
+去年、広島県庄原市の住宅で1人暮らしの84歳の女性が殺害された事件で、強盗殺人などの疑いで24日夜に逮捕された会社員は、以前、女性の自宅を含む地域で配送の仕事をしていたことが捜査関係者への取材で分かり…
+BBC Worldから、Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle。
+His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.
+BBC Worldから、US attorney general dodges questions about Nvidia investigation。
+Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.
+NHK主要ニュースから、エヌビディアCEOにフアン氏復帰 トランプ大統領の関与に批判も。
+アメリカの半導体大手「エヌビディア」のCEOにジェンスン・フアン氏が復帰したことをめぐり、トランプ大統領が関与を明らかにしたことについて、アメリカメディアからは「国家資本主義だ」とする指摘や「安全保障…
+BBC Worldから、Huawei found guilty of stealing trade secrets but acquitted of racketeering。
+The verdict follows a months-long trial in New York.
+NHK主要ニュースから、国民 古川代表代行“関文科相はみずから辞任を”発言相次ぐ。
+政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、国民民主党の古川代表代行は、教育行政をつかさどる大臣として任に値しないと指摘し、問責決議案が提出される前にみずから辞任すべきだという…
+NHK主要ニュースから、中国で初めて外国人宇宙飛行士を乗せた有人宇宙船を打ち上げ。
+中国は25日、有人宇宙船「神舟24号」の打ち上げに成功しました。パキスタン人の宇宙飛行士が外国人として初めて搭乗していて、宇宙分野での国際協力をアピールするねらいがあるとみられます。
+BBC Worldから、Russia's own figures show almost 500,000 deaths in war in Ukraine。
+Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.
+TechCrunchから、Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion。
+Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to "historic" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.
+TechCrunchから、Trump reportedly says pardoning Jensen Huang is ‘an option’。
+Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.
+TechCrunchから、Jensen Huang still thinks a succession plan creates unnecessary hierarchy。
+It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
