@@ -1,38 +1,38 @@
 朝のラジオ原稿
-生成日: 2026-11-25
-生成時刻: 13:36:47
+生成日: 2026-11-26
+生成時刻: 12:47:25
 
 おはようございます。
-今日は2026年11月25日、水曜日です。
+今日は2026年11月26日、木曜日です。
 
 まず、今日の予定を確認します。
 本日の登録予定はありません。
 
 続いて、取得したニュースの主な見出しをお伝えします。
-NHK主要ニュースから、福岡市で男性が刺され意識なし 刺した人物は逃走か。
-警察によりますと、25日昼ごろ、福岡市西区北原で「人が刺された」と通報がありました。
-NHK主要ニュースから、広島 庄原 高齢女性強盗殺人事件 逮捕の会社員 業務で土地勘か。
-去年、広島県庄原市の住宅で1人暮らしの84歳の女性が殺害された事件で、強盗殺人などの疑いで24日夜に逮捕された会社員は、以前、女性の自宅を含む地域で配送の仕事をしていたことが捜査関係者への取材で分かり…
-BBC Worldから、Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle。
-His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.
-BBC Worldから、US attorney general dodges questions about Nvidia investigation。
-Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.
-NHK主要ニュースから、エヌビディアCEOにフアン氏復帰 トランプ大統領の関与に批判も。
-アメリカの半導体大手「エヌビディア」のCEOにジェンスン・フアン氏が復帰したことをめぐり、トランプ大統領が関与を明らかにしたことについて、アメリカメディアからは「国家資本主義だ」とする指摘や「安全保障…
-BBC Worldから、Huawei found guilty of stealing trade secrets but acquitted of racketeering。
-The verdict follows a months-long trial in New York.
-NHK主要ニュースから、国民 古川代表代行“関文科相はみずから辞任を”発言相次ぐ。
-政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、国民民主党の古川代表代行は、教育行政をつかさどる大臣として任に値しないと指摘し、問責決議案が提出される前にみずから辞任すべきだという…
-NHK主要ニュースから、中国で初めて外国人宇宙飛行士を乗せた有人宇宙船を打ち上げ。
-中国は25日、有人宇宙船「神舟24号」の打ち上げに成功しました。パキスタン人の宇宙飛行士が外国人として初めて搭乗していて、宇宙分野での国際協力をアピールするねらいがあるとみられます。
-BBC Worldから、Russia's own figures show almost 500,000 deaths in war in Ukraine。
-Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.
-TechCrunchから、Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion。
-Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to "historic" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.
-TechCrunchから、Trump reportedly says pardoning Jensen Huang is ‘an option’。
-Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.
-TechCrunchから、Jensen Huang still thinks a succession plan creates unnecessary hierarchy。
-It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.
+NHK主要ニュースから、店の壁の内側に女性の遺体 被告殺人の罪争う 札幌地裁。
+北海道日高町で28歳の女性を殺害し、遺体を経営していた飲食店の壁の内側に遺棄した罪に問われている50歳の被告の初公判が開かれ、被告は遺体を遺棄したことは認めた一方、殺人の罪について争う姿勢を示しました…
+NHK主要ニュースから、アディーレ法律事務所 不正アクセスで個人情報漏えい。
+東京の弁護士法人「アディーレ法律事務所」は、ウェブサイトのメール配信サービスを委託する会社のサーバーが、今月中旬に外部から不正アクセスを受け、保存されていた1800件あまりの個人情報が漏えいしたと発表…
+NHK主要ニュースから、参院 野党側 関文科相の問責決議案を提出 あす採決へ。
+政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、野党側は、国会で事実と異なる説明をするなど閣僚にふさわしくないとして、参議院に問責決議案を提出しました。
+BBC Worldから、US announces new tariffs on host of countries including China。
+The new levies would hit many of America's biggest trading partners, including China and the EU.
+NHK主要ニュースから、福岡 駐輪場男性刺殺事件 逃走の男は商業施設に約20分間滞在か。
+25日、福岡市西区の駐輪場で70歳の男性が刺され死亡した事件で、現場から逃走した男が、事件直後、近くの商業施設におよそ20分間滞在したあと、列車に乗車していたことが警察への取材で分かりました。
+NHK主要ニュースから、PayPayのシステム障害が復旧 クレジットカード連携決済が再開。
+スマホ決済大手のPayPayは、システム障害によって25日午後8時過ぎからクレジットカードと連携したサービスで決済ができなくなっていましたが、26日午前4時50分ごろに復旧したと発表しました。
+BBC Worldから、Has global jihadism failed, or is it simply changing shape?。
+Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?
+TechCrunchから、S&P considers Nvidia credit downgrade over governance and ‘key man’ risks。
+The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.
+BBC Worldから、Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway。
+Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.
+TechCrunchから、FCC approves SpaceX plan to put AI data centers in space。
+The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.
+TechCrunchから、OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work。
+OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.
+TechCrunchから、Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it。
+Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.
 
 以上、今朝取得した情報をお伝えしました。
 それでは、今日も良い一日をお過ごしください。
